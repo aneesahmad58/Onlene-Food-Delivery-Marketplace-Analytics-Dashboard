@@ -26,4 +26,5 @@ This project simulates a real-world food delivery platform (similar to Zomato/Sw
 Helps in analyzing revenue performance, growth trends, operational metrics, and customer experience insights for decision-making.
 
 ## Dashboard Preview
-(Add screenshot image here)
+<img width="905" height="509" alt="image" src="https://github.com/user-attachments/assets/4af59a04-91ac-4d44-860d-b26579f07ff2" />
+
