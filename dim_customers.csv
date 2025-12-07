@@ -1,0 +1,3001 @@
+customer_id,customer_name,signup_date,gender,city,area,acquisition_channel
+1,Customer 1,2024-05-10,Female,Pune,Kothrud,Organic
+2,Customer 2,2024-11-23,Male,Chennai,OMR,Social Media
+3,Customer 3,2024-01-10,Male,Kolkata,Howrah,Social Media
+4,Customer 4,2025-02-04,Other,Delhi,West Delhi,Paid Ads
+5,Customer 5,2023-11-23,Other,Bengaluru,Whitefield,Paid Ads
+6,Customer 6,2024-12-10,Male,Bengaluru,Indiranagar,Paid Ads
+7,Customer 7,2025-01-03,Male,Bengaluru,HSR Layout,Referral
+8,Customer 8,2024-10-31,Other,Kolkata,Salt Lake,Paid Ads
+9,Customer 9,2024-10-15,Male,Delhi,Central Delhi,Organic
+10,Customer 10,2023-08-12,Other,Bengaluru,Whitefield,Organic
+11,Customer 11,2024-04-25,Male,Kolkata,Salt Lake,Organic
+12,Customer 12,2024-07-31,Female,Mumbai,Bandra,Organic
+13,Customer 13,2024-04-12,Other,Pune,Viman Nagar,Social Media
+14,Customer 14,2023-11-13,Female,Mumbai,Thane,Organic
+15,Customer 15,2023-08-15,Female,Pune,Viman Nagar,Paid Ads
+16,Customer 16,2025-05-20,Other,Chennai,Velachery,Referral
+17,Customer 17,2024-06-08,Male,Mumbai,Navi Mumbai,Organic
+18,Customer 18,2023-08-03,Male,Kolkata,Park Street,Referral
+19,Customer 19,2025-01-30,Male,Delhi,Central Delhi,Organic
+20,Customer 20,2025-03-03,Male,Bengaluru,Electronic City,Paid Ads
+21,Customer 21,2024-07-20,Female,Hyderabad,Gachibowli,Organic
+22,Customer 22,2025-04-21,Male,Pune,Viman Nagar,Organic
+23,Customer 23,2024-01-16,Male,Chennai,Velachery,Organic
+24,Customer 24,2024-11-12,Male,Kolkata,Salt Lake,Referral
+25,Customer 25,2023-06-08,Female,Pune,Koregaon Park,Referral
+26,Customer 26,2023-11-21,Male,Delhi,Central Delhi,Referral
+27,Customer 27,2024-05-07,Female,Delhi,East Delhi,Paid Ads
+28,Customer 28,2024-09-18,Female,Delhi,East Delhi,Referral
+29,Customer 29,2024-03-08,Male,Chennai,OMR,Social Media
+30,Customer 30,2024-10-02,Female,Hyderabad,Gachibowli,Referral
+31,Customer 31,2025-05-27,Male,Pune,Koregaon Park,Paid Ads
+32,Customer 32,2024-05-23,Female,Hyderabad,Secunderabad,Referral
+33,Customer 33,2024-10-20,Other,Kolkata,Park Street,Organic
+34,Customer 34,2024-08-23,Male,Bengaluru,HSR Layout,Social Media
+35,Customer 35,2023-07-13,Female,Kolkata,Howrah,Paid Ads
+36,Customer 36,2023-09-30,Male,Bengaluru,Koramangala,Paid Ads
+37,Customer 37,2024-01-07,Male,Kolkata,Gariahat,Social Media
+38,Customer 38,2023-12-31,Female,Hyderabad,Gachibowli,Referral
+39,Customer 39,2023-06-23,Other,Kolkata,Gariahat,Referral
+40,Customer 40,2024-03-21,Female,Bengaluru,Electronic City,Referral
+41,Customer 41,2023-11-14,Female,Pune,Kothrud,Social Media
+42,Customer 42,2024-02-29,Male,Delhi,North Delhi,Paid Ads
+43,Customer 43,2025-03-08,Male,Hyderabad,Gachibowli,Paid Ads
+44,Customer 44,2025-05-31,Other,Chennai,OMR,Paid Ads
+45,Customer 45,2023-06-15,Male,Kolkata,Salt Lake,Organic
+46,Customer 46,2024-03-09,Female,Bengaluru,Whitefield,Paid Ads
+47,Customer 47,2025-04-28,Male,Chennai,T Nagar,Referral
+48,Customer 48,2025-03-21,Male,Chennai,Velachery,Paid Ads
+49,Customer 49,2024-09-24,Female,Pune,Hinjewadi,Paid Ads
+50,Customer 50,2025-02-03,Female,Chennai,Velachery,Referral
+51,Customer 51,2024-07-30,Female,Chennai,OMR,Referral
+52,Customer 52,2025-04-08,Other,Bengaluru,Indiranagar,Social Media
+53,Customer 53,2024-04-26,Male,Delhi,North Delhi,Referral
+54,Customer 54,2024-08-02,Male,Delhi,Central Delhi,Social Media
+55,Customer 55,2024-10-15,Female,Mumbai,Bandra,Paid Ads
+56,Customer 56,2023-11-01,Female,Bengaluru,Electronic City,Referral
+57,Customer 57,2025-02-18,Male,Delhi,North Delhi,Referral
+58,Customer 58,2024-07-30,Female,Mumbai,Powai,Social Media
+59,Customer 59,2024-07-01,Male,Bengaluru,Koramangala,Social Media
+60,Customer 60,2024-03-11,Female,Bengaluru,Koramangala,Organic
+61,Customer 61,2024-09-25,Female,Pune,Hinjewadi,Social Media
+62,Customer 62,2024-07-01,Male,Chennai,OMR,Organic
+63,Customer 63,2025-02-15,Female,Kolkata,Salt Lake,Referral
+64,Customer 64,2025-01-19,Female,Hyderabad,Madhapur,Paid Ads
+65,Customer 65,2025-01-14,Female,Bengaluru,Whitefield,Organic
+66,Customer 66,2024-07-06,Female,Bengaluru,HSR Layout,Organic
+67,Customer 67,2025-03-24,Other,Kolkata,Salt Lake,Paid Ads
+68,Customer 68,2025-04-09,Male,Hyderabad,Hitech City,Organic
+69,Customer 69,2025-01-26,Female,Mumbai,Bandra,Referral
+70,Customer 70,2025-02-10,Male,Delhi,North Delhi,Organic
+71,Customer 71,2024-11-30,Female,Pune,Koregaon Park,Social Media
+72,Customer 72,2024-05-23,Female,Kolkata,Howrah,Paid Ads
+73,Customer 73,2024-06-06,Female,Hyderabad,Secunderabad,Paid Ads
+74,Customer 74,2024-08-24,Female,Bengaluru,Electronic City,Organic
+75,Customer 75,2024-11-18,Female,Pune,Kothrud,Social Media
+76,Customer 76,2023-07-30,Male,Chennai,T Nagar,Referral
+77,Customer 77,2023-09-06,Male,Chennai,Adyar,Social Media
+78,Customer 78,2025-05-27,Male,Mumbai,Bandra,Organic
+79,Customer 79,2023-07-20,Male,Mumbai,Andheri,Paid Ads
+80,Customer 80,2024-04-22,Female,Hyderabad,Madhapur,Referral
+81,Customer 81,2023-08-26,Male,Delhi,North Delhi,Referral
+82,Customer 82,2024-06-20,Female,Chennai,Velachery,Paid Ads
+83,Customer 83,2025-03-15,Male,Delhi,North Delhi,Referral
+84,Customer 84,2025-03-20,Male,Kolkata,Park Street,Paid Ads
+85,Customer 85,2025-04-15,Female,Delhi,Central Delhi,Social Media
+86,Customer 86,2024-10-05,Female,Chennai,T Nagar,Referral
+87,Customer 87,2025-02-14,Female,Kolkata,Park Street,Organic
+88,Customer 88,2023-11-06,Male,Delhi,North Delhi,Referral
+89,Customer 89,2024-09-17,Male,Pune,Hinjewadi,Paid Ads
+90,Customer 90,2024-09-21,Other,Delhi,East Delhi,Referral
+91,Customer 91,2024-08-02,Male,Chennai,OMR,Referral
+92,Customer 92,2023-06-06,Male,Pune,Koregaon Park,Paid Ads
+93,Customer 93,2025-05-04,Male,Delhi,Central Delhi,Organic
+94,Customer 94,2024-10-28,Female,Hyderabad,Secunderabad,Referral
+95,Customer 95,2023-08-05,Male,Delhi,South Delhi,Social Media
+96,Customer 96,2024-07-24,Male,Chennai,Adyar,Referral
+97,Customer 97,2025-05-29,Female,Pune,Kothrud,Social Media
+98,Customer 98,2024-06-03,Female,Hyderabad,Madhapur,Referral
+99,Customer 99,2024-08-31,Male,Mumbai,Navi Mumbai,Paid Ads
+100,Customer 100,2025-05-17,Male,Chennai,OMR,Organic
+101,Customer 101,2023-09-09,Male,Hyderabad,Secunderabad,Paid Ads
+102,Customer 102,2023-06-18,Female,Bengaluru,Indiranagar,Organic
+103,Customer 103,2024-09-01,Male,Kolkata,Park Street,Referral
+104,Customer 104,2024-02-13,Female,Hyderabad,Madhapur,Referral
+105,Customer 105,2023-12-12,Female,Chennai,OMR,Organic
+106,Customer 106,2024-11-01,Male,Hyderabad,Hitech City,Referral
+107,Customer 107,2024-05-03,Female,Bengaluru,Indiranagar,Organic
+108,Customer 108,2025-02-12,Male,Kolkata,Howrah,Organic
+109,Customer 109,2024-10-16,Female,Chennai,OMR,Paid Ads
+110,Customer 110,2025-04-28,Female,Delhi,North Delhi,Referral
+111,Customer 111,2024-05-28,Female,Pune,Koregaon Park,Paid Ads
+112,Customer 112,2023-11-25,Male,Kolkata,Salt Lake,Social Media
+113,Customer 113,2023-12-31,Female,Bengaluru,Electronic City,Social Media
+114,Customer 114,2024-07-16,Female,Bengaluru,HSR Layout,Paid Ads
+115,Customer 115,2024-07-21,Other,Delhi,South Delhi,Social Media
+116,Customer 116,2024-05-20,Male,Chennai,T Nagar,Referral
+117,Customer 117,2023-08-09,Male,Pune,Kothrud,Paid Ads
+118,Customer 118,2023-10-28,Male,Delhi,North Delhi,Organic
+119,Customer 119,2024-01-02,Female,Hyderabad,Hitech City,Social Media
+120,Customer 120,2024-03-12,Male,Hyderabad,Secunderabad,Referral
+121,Customer 121,2023-10-03,Male,Hyderabad,Madhapur,Paid Ads
+122,Customer 122,2025-01-15,Male,Mumbai,Thane,Social Media
+123,Customer 123,2024-10-01,Male,Hyderabad,Gachibowli,Social Media
+124,Customer 124,2024-10-15,Other,Kolkata,Salt Lake,Referral
+125,Customer 125,2024-10-21,Female,Kolkata,Howrah,Referral
+126,Customer 126,2024-02-19,Other,Kolkata,Gariahat,Organic
+127,Customer 127,2025-05-28,Male,Bengaluru,Indiranagar,Paid Ads
+128,Customer 128,2025-02-03,Male,Kolkata,Park Street,Paid Ads
+129,Customer 129,2024-01-14,Female,Pune,Koregaon Park,Referral
+130,Customer 130,2023-11-05,Female,Bengaluru,Electronic City,Paid Ads
+131,Customer 131,2023-06-17,Female,Hyderabad,Secunderabad,Social Media
+132,Customer 132,2024-03-23,Female,Chennai,T Nagar,Paid Ads
+133,Customer 133,2023-08-26,Male,Mumbai,Thane,Organic
+134,Customer 134,2025-02-03,Female,Bengaluru,HSR Layout,Paid Ads
+135,Customer 135,2023-06-08,Female,Hyderabad,Gachibowli,Paid Ads
+136,Customer 136,2025-02-08,Female,Delhi,North Delhi,Referral
+137,Customer 137,2025-05-31,Female,Kolkata,Salt Lake,Paid Ads
+138,Customer 138,2024-07-16,Male,Delhi,Central Delhi,Paid Ads
+139,Customer 139,2025-01-13,Female,Delhi,North Delhi,Paid Ads
+140,Customer 140,2024-09-15,Male,Kolkata,Park Street,Organic
+141,Customer 141,2023-07-12,Male,Hyderabad,Secunderabad,Referral
+142,Customer 142,2024-09-13,Male,Pune,Koregaon Park,Organic
+143,Customer 143,2024-12-11,Male,Kolkata,Gariahat,Paid Ads
+144,Customer 144,2024-12-15,Female,Bengaluru,HSR Layout,Organic
+145,Customer 145,2024-07-15,Male,Pune,Kothrud,Social Media
+146,Customer 146,2024-07-07,Female,Chennai,Velachery,Social Media
+147,Customer 147,2023-11-29,Male,Chennai,Adyar,Paid Ads
+148,Customer 148,2023-10-04,Male,Delhi,South Delhi,Paid Ads
+149,Customer 149,2023-10-29,Female,Mumbai,Powai,Organic
+150,Customer 150,2024-10-08,Male,Delhi,West Delhi,Organic
+151,Customer 151,2024-05-21,Other,Bengaluru,Indiranagar,Referral
+152,Customer 152,2023-10-22,Male,Hyderabad,Gachibowli,Social Media
+153,Customer 153,2024-01-05,Female,Pune,Koregaon Park,Social Media
+154,Customer 154,2023-11-07,Female,Mumbai,Bandra,Organic
+155,Customer 155,2024-10-15,Male,Pune,Koregaon Park,Social Media
+156,Customer 156,2024-08-14,Male,Hyderabad,Gachibowli,Social Media
+157,Customer 157,2025-05-27,Male,Hyderabad,Secunderabad,Paid Ads
+158,Customer 158,2025-03-15,Female,Bengaluru,Koramangala,Paid Ads
+159,Customer 159,2025-01-20,Male,Bengaluru,Electronic City,Social Media
+160,Customer 160,2025-04-20,Male,Delhi,East Delhi,Referral
+161,Customer 161,2024-08-09,Male,Pune,Hinjewadi,Paid Ads
+162,Customer 162,2023-09-24,Male,Chennai,Velachery,Paid Ads
+163,Customer 163,2023-07-11,Female,Kolkata,Gariahat,Social Media
+164,Customer 164,2025-05-09,Male,Hyderabad,Madhapur,Organic
+165,Customer 165,2023-08-06,Male,Mumbai,Thane,Referral
+166,Customer 166,2024-01-15,Female,Pune,Hinjewadi,Referral
+167,Customer 167,2023-09-24,Male,Delhi,East Delhi,Referral
+168,Customer 168,2025-04-23,Male,Delhi,Central Delhi,Organic
+169,Customer 169,2023-08-25,Male,Pune,Koregaon Park,Referral
+170,Customer 170,2024-12-04,Male,Kolkata,Park Street,Referral
+171,Customer 171,2024-03-10,Male,Mumbai,Bandra,Referral
+172,Customer 172,2023-09-17,Female,Chennai,T Nagar,Organic
+173,Customer 173,2024-02-09,Female,Chennai,Adyar,Referral
+174,Customer 174,2024-04-07,Other,Kolkata,Howrah,Organic
+175,Customer 175,2024-03-17,Male,Pune,Hinjewadi,Social Media
+176,Customer 176,2024-04-16,Female,Delhi,West Delhi,Referral
+177,Customer 177,2024-09-20,Male,Chennai,OMR,Social Media
+178,Customer 178,2023-12-27,Male,Mumbai,Bandra,Referral
+179,Customer 179,2025-02-03,Female,Pune,Hinjewadi,Social Media
+180,Customer 180,2024-12-24,Male,Bengaluru,HSR Layout,Referral
+181,Customer 181,2024-10-28,Female,Chennai,Velachery,Organic
+182,Customer 182,2025-05-17,Female,Hyderabad,Hitech City,Social Media
+183,Customer 183,2024-09-13,Male,Kolkata,Park Street,Paid Ads
+184,Customer 184,2024-07-12,Female,Kolkata,Gariahat,Organic
+185,Customer 185,2025-01-22,Male,Kolkata,Howrah,Organic
+186,Customer 186,2023-09-13,Female,Bengaluru,Electronic City,Organic
+187,Customer 187,2024-08-13,Female,Hyderabad,Secunderabad,Referral
+188,Customer 188,2024-08-22,Male,Pune,Koregaon Park,Referral
+189,Customer 189,2025-05-21,Other,Delhi,North Delhi,Paid Ads
+190,Customer 190,2023-11-29,Male,Delhi,Central Delhi,Referral
+191,Customer 191,2025-05-09,Male,Pune,Viman Nagar,Organic
+192,Customer 192,2024-08-03,Female,Chennai,OMR,Referral
+193,Customer 193,2024-10-26,Female,Chennai,OMR,Organic
+194,Customer 194,2024-11-03,Female,Mumbai,Andheri,Organic
+195,Customer 195,2023-09-17,Female,Bengaluru,HSR Layout,Organic
+196,Customer 196,2023-07-19,Female,Delhi,North Delhi,Social Media
+197,Customer 197,2024-06-10,Female,Hyderabad,Madhapur,Referral
+198,Customer 198,2025-01-19,Female,Chennai,OMR,Social Media
+199,Customer 199,2025-01-25,Male,Hyderabad,Hitech City,Paid Ads
+200,Customer 200,2023-10-06,Male,Pune,Koregaon Park,Referral
+201,Customer 201,2025-04-11,Female,Delhi,West Delhi,Social Media
+202,Customer 202,2024-08-09,Female,Hyderabad,Madhapur,Social Media
+203,Customer 203,2024-04-20,Male,Kolkata,Gariahat,Organic
+204,Customer 204,2023-09-27,Other,Chennai,Velachery,Referral
+205,Customer 205,2023-09-18,Male,Delhi,East Delhi,Referral
+206,Customer 206,2025-05-31,Female,Mumbai,Andheri,Paid Ads
+207,Customer 207,2023-11-12,Male,Delhi,North Delhi,Organic
+208,Customer 208,2023-08-10,Male,Delhi,West Delhi,Social Media
+209,Customer 209,2024-07-27,Male,Mumbai,Navi Mumbai,Social Media
+210,Customer 210,2024-03-22,Female,Delhi,Central Delhi,Social Media
+211,Customer 211,2023-08-05,Male,Pune,Viman Nagar,Social Media
+212,Customer 212,2023-11-04,Male,Bengaluru,Whitefield,Organic
+213,Customer 213,2023-10-08,Female,Bengaluru,Whitefield,Social Media
+214,Customer 214,2024-05-11,Male,Pune,Hinjewadi,Social Media
+215,Customer 215,2024-02-12,Female,Delhi,South Delhi,Social Media
+216,Customer 216,2023-12-20,Female,Delhi,West Delhi,Social Media
+217,Customer 217,2024-12-04,Male,Pune,Hinjewadi,Organic
+218,Customer 218,2025-05-07,Male,Mumbai,Powai,Organic
+219,Customer 219,2023-06-22,Male,Mumbai,Thane,Organic
+220,Customer 220,2024-12-22,Male,Chennai,Adyar,Paid Ads
+221,Customer 221,2025-03-30,Male,Hyderabad,Secunderabad,Organic
+222,Customer 222,2023-08-05,Male,Hyderabad,Gachibowli,Organic
+223,Customer 223,2024-02-18,Female,Chennai,Velachery,Paid Ads
+224,Customer 224,2025-03-09,Male,Chennai,Adyar,Organic
+225,Customer 225,2025-01-04,Male,Hyderabad,Madhapur,Paid Ads
+226,Customer 226,2024-02-11,Female,Chennai,Adyar,Paid Ads
+227,Customer 227,2024-06-06,Female,Chennai,OMR,Organic
+228,Customer 228,2025-01-11,Male,Delhi,West Delhi,Social Media
+229,Customer 229,2024-03-23,Male,Delhi,North Delhi,Referral
+230,Customer 230,2023-06-09,Male,Pune,Hinjewadi,Paid Ads
+231,Customer 231,2023-08-01,Male,Pune,Hinjewadi,Paid Ads
+232,Customer 232,2024-03-29,Male,Pune,Koregaon Park,Organic
+233,Customer 233,2025-01-08,Female,Kolkata,Salt Lake,Social Media
+234,Customer 234,2025-05-14,Male,Hyderabad,Madhapur,Social Media
+235,Customer 235,2024-05-26,Male,Hyderabad,Secunderabad,Paid Ads
+236,Customer 236,2024-11-19,Female,Hyderabad,Madhapur,Organic
+237,Customer 237,2025-02-08,Male,Bengaluru,HSR Layout,Referral
+238,Customer 238,2023-07-24,Female,Chennai,Velachery,Referral
+239,Customer 239,2023-08-27,Male,Mumbai,Thane,Organic
+240,Customer 240,2025-04-07,Female,Delhi,South Delhi,Organic
+241,Customer 241,2024-02-29,Female,Hyderabad,Hitech City,Referral
+242,Customer 242,2024-12-21,Male,Kolkata,Park Street,Organic
+243,Customer 243,2025-03-06,Other,Pune,Hinjewadi,Organic
+244,Customer 244,2024-12-05,Female,Hyderabad,Secunderabad,Paid Ads
+245,Customer 245,2025-05-24,Male,Kolkata,Salt Lake,Referral
+246,Customer 246,2024-03-15,Female,Pune,Hinjewadi,Referral
+247,Customer 247,2024-07-08,Male,Delhi,Central Delhi,Social Media
+248,Customer 248,2024-10-05,Female,Mumbai,Thane,Social Media
+249,Customer 249,2025-04-11,Female,Kolkata,Salt Lake,Referral
+250,Customer 250,2024-09-10,Male,Kolkata,Gariahat,Organic
+251,Customer 251,2025-02-25,Other,Kolkata,Gariahat,Social Media
+252,Customer 252,2024-08-17,Female,Kolkata,Howrah,Organic
+253,Customer 253,2024-01-27,Other,Pune,Hinjewadi,Organic
+254,Customer 254,2024-01-18,Female,Mumbai,Powai,Referral
+255,Customer 255,2024-02-18,Male,Bengaluru,Indiranagar,Organic
+256,Customer 256,2025-05-25,Female,Mumbai,Bandra,Paid Ads
+257,Customer 257,2023-07-29,Male,Delhi,North Delhi,Organic
+258,Customer 258,2025-01-05,Male,Delhi,Central Delhi,Social Media
+259,Customer 259,2023-12-01,Female,Hyderabad,Madhapur,Paid Ads
+260,Customer 260,2025-03-11,Female,Bengaluru,Whitefield,Referral
+261,Customer 261,2023-06-23,Male,Bengaluru,Indiranagar,Organic
+262,Customer 262,2024-05-11,Male,Delhi,North Delhi,Social Media
+263,Customer 263,2025-02-02,Male,Kolkata,Salt Lake,Organic
+264,Customer 264,2024-09-13,Male,Bengaluru,HSR Layout,Paid Ads
+265,Customer 265,2024-09-18,Female,Hyderabad,Madhapur,Paid Ads
+266,Customer 266,2024-10-18,Female,Bengaluru,Whitefield,Organic
+267,Customer 267,2024-01-18,Other,Bengaluru,HSR Layout,Organic
+268,Customer 268,2024-06-02,Male,Bengaluru,Electronic City,Paid Ads
+269,Customer 269,2023-06-18,Female,Pune,Hinjewadi,Organic
+270,Customer 270,2025-04-03,Female,Mumbai,Thane,Organic
+271,Customer 271,2025-01-24,Male,Delhi,North Delhi,Referral
+272,Customer 272,2025-02-06,Female,Mumbai,Bandra,Referral
+273,Customer 273,2023-12-28,Female,Bengaluru,Indiranagar,Organic
+274,Customer 274,2024-10-07,Male,Delhi,East Delhi,Paid Ads
+275,Customer 275,2024-11-12,Male,Mumbai,Bandra,Paid Ads
+276,Customer 276,2024-10-09,Male,Pune,Viman Nagar,Referral
+277,Customer 277,2023-08-05,Female,Delhi,East Delhi,Organic
+278,Customer 278,2025-02-12,Female,Hyderabad,Hitech City,Paid Ads
+279,Customer 279,2025-03-18,Female,Delhi,West Delhi,Paid Ads
+280,Customer 280,2025-01-24,Male,Pune,Koregaon Park,Paid Ads
+281,Customer 281,2024-06-10,Male,Bengaluru,Koramangala,Paid Ads
+282,Customer 282,2025-04-28,Female,Delhi,West Delhi,Social Media
+283,Customer 283,2024-12-30,Male,Kolkata,Howrah,Referral
+284,Customer 284,2023-10-22,Male,Delhi,East Delhi,Organic
+285,Customer 285,2024-06-24,Male,Mumbai,Thane,Paid Ads
+286,Customer 286,2024-08-18,Female,Pune,Kothrud,Paid Ads
+287,Customer 287,2024-12-15,Male,Kolkata,Gariahat,Referral
+288,Customer 288,2024-03-03,Female,Mumbai,Powai,Social Media
+289,Customer 289,2024-04-26,Male,Delhi,Central Delhi,Organic
+290,Customer 290,2024-02-11,Female,Pune,Viman Nagar,Referral
+291,Customer 291,2023-11-21,Male,Bengaluru,Whitefield,Social Media
+292,Customer 292,2024-06-03,Male,Delhi,North Delhi,Referral
+293,Customer 293,2023-07-09,Female,Mumbai,Bandra,Social Media
+294,Customer 294,2025-05-03,Male,Kolkata,Salt Lake,Social Media
+295,Customer 295,2024-08-09,Male,Kolkata,Howrah,Paid Ads
+296,Customer 296,2023-07-26,Female,Kolkata,Howrah,Referral
+297,Customer 297,2024-10-17,Female,Kolkata,Gariahat,Social Media
+298,Customer 298,2025-04-07,Female,Hyderabad,Hitech City,Paid Ads
+299,Customer 299,2024-04-21,Female,Hyderabad,Secunderabad,Referral
+300,Customer 300,2024-08-16,Male,Pune,Kothrud,Referral
+301,Customer 301,2025-01-04,Male,Pune,Kothrud,Referral
+302,Customer 302,2024-09-30,Male,Hyderabad,Madhapur,Organic
+303,Customer 303,2024-01-11,Female,Delhi,West Delhi,Referral
+304,Customer 304,2024-02-05,Female,Delhi,South Delhi,Paid Ads
+305,Customer 305,2024-03-08,Male,Hyderabad,Hitech City,Paid Ads
+306,Customer 306,2023-06-19,Male,Kolkata,Park Street,Referral
+307,Customer 307,2023-08-30,Male,Pune,Koregaon Park,Social Media
+308,Customer 308,2023-09-24,Male,Delhi,East Delhi,Organic
+309,Customer 309,2025-04-23,Male,Kolkata,Gariahat,Organic
+310,Customer 310,2024-01-20,Female,Pune,Viman Nagar,Organic
+311,Customer 311,2024-12-11,Other,Mumbai,Thane,Paid Ads
+312,Customer 312,2025-02-19,Female,Pune,Viman Nagar,Referral
+313,Customer 313,2024-08-30,Male,Bengaluru,Indiranagar,Paid Ads
+314,Customer 314,2025-05-15,Other,Hyderabad,Secunderabad,Organic
+315,Customer 315,2024-01-21,Male,Kolkata,Gariahat,Organic
+316,Customer 316,2024-07-18,Other,Bengaluru,Koramangala,Paid Ads
+317,Customer 317,2024-06-27,Female,Bengaluru,Indiranagar,Social Media
+318,Customer 318,2023-08-10,Female,Bengaluru,Koramangala,Social Media
+319,Customer 319,2024-02-02,Female,Bengaluru,Indiranagar,Paid Ads
+320,Customer 320,2023-06-22,Other,Mumbai,Navi Mumbai,Organic
+321,Customer 321,2024-02-21,Male,Bengaluru,Electronic City,Paid Ads
+322,Customer 322,2023-08-16,Female,Chennai,Velachery,Social Media
+323,Customer 323,2024-01-29,Female,Chennai,Adyar,Paid Ads
+324,Customer 324,2025-04-15,Male,Pune,Hinjewadi,Organic
+325,Customer 325,2025-05-16,Female,Bengaluru,Indiranagar,Social Media
+326,Customer 326,2025-03-07,Female,Mumbai,Powai,Paid Ads
+327,Customer 327,2024-07-01,Female,Mumbai,Bandra,Social Media
+328,Customer 328,2025-01-15,Male,Mumbai,Andheri,Referral
+329,Customer 329,2024-01-20,Male,Kolkata,Salt Lake,Organic
+330,Customer 330,2024-02-10,Male,Chennai,Velachery,Social Media
+331,Customer 331,2024-05-25,Female,Pune,Koregaon Park,Social Media
+332,Customer 332,2024-04-25,Female,Mumbai,Bandra,Social Media
+333,Customer 333,2023-09-25,Male,Chennai,OMR,Organic
+334,Customer 334,2024-12-24,Male,Hyderabad,Secunderabad,Social Media
+335,Customer 335,2023-09-20,Male,Hyderabad,Secunderabad,Paid Ads
+336,Customer 336,2025-02-23,Female,Mumbai,Navi Mumbai,Social Media
+337,Customer 337,2024-12-12,Male,Bengaluru,HSR Layout,Social Media
+338,Customer 338,2024-11-30,Male,Bengaluru,Electronic City,Paid Ads
+339,Customer 339,2025-04-23,Male,Hyderabad,Secunderabad,Paid Ads
+340,Customer 340,2024-01-21,Female,Pune,Koregaon Park,Social Media
+341,Customer 341,2024-04-30,Female,Kolkata,Park Street,Social Media
+342,Customer 342,2025-05-16,Male,Kolkata,Gariahat,Organic
+343,Customer 343,2025-02-13,Male,Chennai,OMR,Referral
+344,Customer 344,2024-07-25,Male,Pune,Kothrud,Organic
+345,Customer 345,2023-12-03,Male,Bengaluru,Koramangala,Social Media
+346,Customer 346,2025-01-11,Male,Bengaluru,HSR Layout,Social Media
+347,Customer 347,2023-10-02,Female,Kolkata,Howrah,Organic
+348,Customer 348,2025-04-23,Male,Mumbai,Thane,Referral
+349,Customer 349,2025-05-03,Female,Delhi,East Delhi,Organic
+350,Customer 350,2024-02-10,Male,Hyderabad,Secunderabad,Social Media
+351,Customer 351,2023-07-05,Female,Hyderabad,Hitech City,Referral
+352,Customer 352,2024-10-05,Male,Mumbai,Andheri,Referral
+353,Customer 353,2024-06-07,Female,Delhi,West Delhi,Social Media
+354,Customer 354,2023-11-02,Male,Mumbai,Andheri,Referral
+355,Customer 355,2025-05-29,Male,Kolkata,Howrah,Social Media
+356,Customer 356,2024-05-21,Male,Kolkata,Howrah,Paid Ads
+357,Customer 357,2024-07-12,Female,Pune,Kothrud,Organic
+358,Customer 358,2024-08-12,Male,Delhi,West Delhi,Social Media
+359,Customer 359,2023-06-27,Female,Kolkata,Park Street,Paid Ads
+360,Customer 360,2023-10-25,Male,Delhi,West Delhi,Social Media
+361,Customer 361,2024-06-22,Male,Bengaluru,Koramangala,Organic
+362,Customer 362,2024-11-26,Female,Mumbai,Thane,Paid Ads
+363,Customer 363,2025-04-01,Male,Delhi,South Delhi,Paid Ads
+364,Customer 364,2024-05-17,Male,Pune,Kothrud,Social Media
+365,Customer 365,2024-03-18,Female,Chennai,T Nagar,Referral
+366,Customer 366,2024-06-22,Male,Hyderabad,Hitech City,Referral
+367,Customer 367,2024-10-18,Male,Mumbai,Navi Mumbai,Paid Ads
+368,Customer 368,2023-11-15,Male,Mumbai,Andheri,Referral
+369,Customer 369,2023-10-26,Female,Delhi,Central Delhi,Organic
+370,Customer 370,2023-11-04,Male,Hyderabad,Madhapur,Organic
+371,Customer 371,2024-10-01,Female,Chennai,OMR,Referral
+372,Customer 372,2024-07-06,Male,Bengaluru,Koramangala,Referral
+373,Customer 373,2024-10-26,Male,Kolkata,Salt Lake,Referral
+374,Customer 374,2024-01-12,Female,Mumbai,Andheri,Referral
+375,Customer 375,2024-01-01,Male,Mumbai,Andheri,Referral
+376,Customer 376,2025-04-15,Male,Pune,Hinjewadi,Social Media
+377,Customer 377,2023-12-28,Female,Kolkata,Howrah,Paid Ads
+378,Customer 378,2023-11-06,Male,Chennai,T Nagar,Social Media
+379,Customer 379,2024-04-08,Female,Delhi,East Delhi,Organic
+380,Customer 380,2025-03-31,Other,Bengaluru,Whitefield,Organic
+381,Customer 381,2025-05-29,Female,Kolkata,Park Street,Organic
+382,Customer 382,2025-02-01,Female,Bengaluru,Indiranagar,Paid Ads
+383,Customer 383,2025-03-04,Female,Kolkata,Howrah,Referral
+384,Customer 384,2024-06-09,Male,Delhi,North Delhi,Referral
+385,Customer 385,2023-09-23,Male,Bengaluru,Koramangala,Referral
+386,Customer 386,2023-09-05,Male,Bengaluru,Koramangala,Referral
+387,Customer 387,2023-08-22,Male,Hyderabad,Madhapur,Paid Ads
+388,Customer 388,2024-07-04,Male,Hyderabad,Secunderabad,Social Media
+389,Customer 389,2024-02-24,Female,Hyderabad,Madhapur,Referral
+390,Customer 390,2024-09-13,Female,Kolkata,Gariahat,Organic
+391,Customer 391,2024-10-18,Male,Chennai,OMR,Organic
+392,Customer 392,2025-04-24,Male,Hyderabad,Gachibowli,Referral
+393,Customer 393,2024-12-07,Male,Bengaluru,Koramangala,Organic
+394,Customer 394,2024-03-04,Other,Bengaluru,Indiranagar,Referral
+395,Customer 395,2023-07-14,Female,Hyderabad,Madhapur,Social Media
+396,Customer 396,2023-10-17,Male,Chennai,OMR,Referral
+397,Customer 397,2024-08-04,Male,Hyderabad,Hitech City,Referral
+398,Customer 398,2024-06-17,Female,Pune,Koregaon Park,Referral
+399,Customer 399,2024-07-13,Male,Chennai,Adyar,Organic
+400,Customer 400,2025-04-22,Female,Chennai,OMR,Referral
+401,Customer 401,2024-08-16,Female,Pune,Viman Nagar,Organic
+402,Customer 402,2025-01-05,Female,Mumbai,Navi Mumbai,Paid Ads
+403,Customer 403,2025-03-01,Female,Delhi,North Delhi,Organic
+404,Customer 404,2023-11-08,Male,Mumbai,Powai,Referral
+405,Customer 405,2024-06-03,Male,Hyderabad,Hitech City,Social Media
+406,Customer 406,2023-07-09,Female,Chennai,OMR,Referral
+407,Customer 407,2024-11-22,Female,Bengaluru,HSR Layout,Organic
+408,Customer 408,2023-07-02,Male,Pune,Viman Nagar,Referral
+409,Customer 409,2023-11-22,Female,Hyderabad,Secunderabad,Referral
+410,Customer 410,2025-05-01,Female,Mumbai,Andheri,Organic
+411,Customer 411,2024-05-03,Female,Chennai,T Nagar,Paid Ads
+412,Customer 412,2024-03-21,Female,Pune,Koregaon Park,Organic
+413,Customer 413,2025-03-11,Female,Bengaluru,Indiranagar,Paid Ads
+414,Customer 414,2023-06-14,Female,Mumbai,Navi Mumbai,Referral
+415,Customer 415,2023-12-25,Male,Chennai,OMR,Social Media
+416,Customer 416,2024-10-20,Male,Delhi,North Delhi,Organic
+417,Customer 417,2023-08-04,Other,Hyderabad,Gachibowli,Paid Ads
+418,Customer 418,2025-05-15,Male,Delhi,West Delhi,Referral
+419,Customer 419,2023-07-02,Male,Chennai,Adyar,Referral
+420,Customer 420,2024-06-01,Female,Bengaluru,Whitefield,Social Media
+421,Customer 421,2024-07-10,Male,Kolkata,Gariahat,Social Media
+422,Customer 422,2024-03-03,Female,Delhi,North Delhi,Social Media
+423,Customer 423,2024-10-20,Female,Mumbai,Thane,Organic
+424,Customer 424,2024-04-15,Female,Bengaluru,Electronic City,Referral
+425,Customer 425,2024-10-22,Female,Hyderabad,Gachibowli,Organic
+426,Customer 426,2024-08-27,Female,Delhi,West Delhi,Paid Ads
+427,Customer 427,2024-02-03,Male,Chennai,OMR,Paid Ads
+428,Customer 428,2024-11-21,Female,Kolkata,Howrah,Organic
+429,Customer 429,2024-04-26,Female,Mumbai,Powai,Organic
+430,Customer 430,2023-06-27,Male,Hyderabad,Madhapur,Referral
+431,Customer 431,2025-02-01,Male,Mumbai,Navi Mumbai,Social Media
+432,Customer 432,2024-07-30,Other,Kolkata,Park Street,Paid Ads
+433,Customer 433,2023-07-15,Other,Pune,Kothrud,Organic
+434,Customer 434,2023-07-26,Female,Pune,Viman Nagar,Referral
+435,Customer 435,2024-05-16,Male,Mumbai,Bandra,Referral
+436,Customer 436,2025-05-03,Male,Chennai,T Nagar,Referral
+437,Customer 437,2023-08-25,Male,Pune,Hinjewadi,Organic
+438,Customer 438,2024-02-28,Female,Bengaluru,Whitefield,Referral
+439,Customer 439,2023-12-11,Male,Mumbai,Powai,Organic
+440,Customer 440,2024-08-20,Female,Pune,Viman Nagar,Social Media
+441,Customer 441,2025-02-22,Male,Mumbai,Navi Mumbai,Referral
+442,Customer 442,2025-04-23,Female,Kolkata,Salt Lake,Organic
+443,Customer 443,2024-12-26,Male,Delhi,South Delhi,Referral
+444,Customer 444,2025-01-22,Female,Chennai,T Nagar,Paid Ads
+445,Customer 445,2025-03-09,Female,Pune,Kothrud,Paid Ads
+446,Customer 446,2023-12-10,Female,Chennai,Velachery,Referral
+447,Customer 447,2024-05-15,Male,Hyderabad,Gachibowli,Paid Ads
+448,Customer 448,2023-10-06,Female,Bengaluru,HSR Layout,Organic
+449,Customer 449,2024-08-02,Male,Chennai,Adyar,Social Media
+450,Customer 450,2025-03-09,Male,Hyderabad,Madhapur,Paid Ads
+451,Customer 451,2024-03-05,Other,Hyderabad,Gachibowli,Referral
+452,Customer 452,2024-09-17,Male,Pune,Viman Nagar,Referral
+453,Customer 453,2023-12-22,Female,Kolkata,Gariahat,Referral
+454,Customer 454,2024-12-20,Male,Hyderabad,Gachibowli,Referral
+455,Customer 455,2023-12-25,Female,Pune,Kothrud,Referral
+456,Customer 456,2024-01-26,Male,Mumbai,Thane,Organic
+457,Customer 457,2023-10-26,Male,Bengaluru,HSR Layout,Social Media
+458,Customer 458,2023-08-14,Male,Mumbai,Andheri,Organic
+459,Customer 459,2023-12-29,Female,Bengaluru,HSR Layout,Paid Ads
+460,Customer 460,2023-07-16,Female,Mumbai,Bandra,Referral
+461,Customer 461,2024-11-14,Female,Pune,Hinjewadi,Social Media
+462,Customer 462,2023-07-09,Female,Kolkata,Park Street,Paid Ads
+463,Customer 463,2024-05-19,Female,Pune,Koregaon Park,Paid Ads
+464,Customer 464,2023-11-21,Male,Bengaluru,HSR Layout,Organic
+465,Customer 465,2024-11-07,Female,Delhi,East Delhi,Paid Ads
+466,Customer 466,2024-10-08,Male,Mumbai,Bandra,Referral
+467,Customer 467,2023-12-28,Male,Delhi,South Delhi,Referral
+468,Customer 468,2023-06-06,Female,Hyderabad,Madhapur,Referral
+469,Customer 469,2025-02-04,Female,Pune,Kothrud,Organic
+470,Customer 470,2023-10-26,Male,Hyderabad,Gachibowli,Referral
+471,Customer 471,2023-06-15,Male,Chennai,Velachery,Paid Ads
+472,Customer 472,2024-08-31,Female,Bengaluru,Koramangala,Paid Ads
+473,Customer 473,2024-06-28,Male,Delhi,Central Delhi,Social Media
+474,Customer 474,2023-10-03,Female,Bengaluru,Electronic City,Referral
+475,Customer 475,2025-05-21,Female,Delhi,East Delhi,Paid Ads
+476,Customer 476,2025-02-19,Female,Kolkata,Gariahat,Organic
+477,Customer 477,2024-10-30,Female,Mumbai,Andheri,Paid Ads
+478,Customer 478,2023-11-26,Male,Bengaluru,Indiranagar,Referral
+479,Customer 479,2025-04-16,Male,Kolkata,Park Street,Social Media
+480,Customer 480,2023-10-18,Male,Pune,Koregaon Park,Organic
+481,Customer 481,2025-03-01,Female,Delhi,South Delhi,Social Media
+482,Customer 482,2023-06-18,Female,Chennai,Velachery,Paid Ads
+483,Customer 483,2024-10-02,Male,Pune,Koregaon Park,Social Media
+484,Customer 484,2025-05-30,Female,Pune,Viman Nagar,Referral
+485,Customer 485,2023-10-21,Male,Pune,Hinjewadi,Social Media
+486,Customer 486,2025-02-18,Male,Hyderabad,Secunderabad,Referral
+487,Customer 487,2025-03-03,Female,Pune,Koregaon Park,Referral
+488,Customer 488,2025-01-09,Male,Hyderabad,Hitech City,Referral
+489,Customer 489,2024-03-30,Male,Bengaluru,Koramangala,Paid Ads
+490,Customer 490,2024-07-19,Female,Pune,Hinjewadi,Organic
+491,Customer 491,2025-05-23,Female,Pune,Koregaon Park,Referral
+492,Customer 492,2024-06-07,Female,Chennai,T Nagar,Organic
+493,Customer 493,2023-11-26,Female,Pune,Koregaon Park,Social Media
+494,Customer 494,2024-09-10,Female,Pune,Koregaon Park,Social Media
+495,Customer 495,2024-07-18,Female,Kolkata,Park Street,Organic
+496,Customer 496,2025-02-10,Female,Pune,Kothrud,Social Media
+497,Customer 497,2025-05-25,Female,Delhi,East Delhi,Referral
+498,Customer 498,2024-11-05,Female,Hyderabad,Gachibowli,Paid Ads
+499,Customer 499,2024-07-22,Female,Chennai,T Nagar,Paid Ads
+500,Customer 500,2024-01-03,Male,Pune,Koregaon Park,Organic
+501,Customer 501,2023-07-02,Female,Chennai,T Nagar,Social Media
+502,Customer 502,2025-05-20,Male,Pune,Hinjewadi,Paid Ads
+503,Customer 503,2023-12-12,Female,Pune,Koregaon Park,Referral
+504,Customer 504,2025-01-30,Male,Mumbai,Thane,Referral
+505,Customer 505,2024-06-10,Female,Pune,Hinjewadi,Referral
+506,Customer 506,2023-09-09,Male,Pune,Koregaon Park,Social Media
+507,Customer 507,2024-08-17,Male,Mumbai,Powai,Referral
+508,Customer 508,2023-10-16,Male,Mumbai,Powai,Referral
+509,Customer 509,2023-06-09,Male,Chennai,T Nagar,Paid Ads
+510,Customer 510,2024-06-14,Female,Bengaluru,HSR Layout,Referral
+511,Customer 511,2025-04-03,Female,Pune,Hinjewadi,Referral
+512,Customer 512,2023-06-18,Male,Delhi,Central Delhi,Paid Ads
+513,Customer 513,2024-03-13,Male,Hyderabad,Secunderabad,Social Media
+514,Customer 514,2024-11-06,Male,Bengaluru,Koramangala,Referral
+515,Customer 515,2024-07-04,Male,Chennai,Adyar,Referral
+516,Customer 516,2023-06-07,Female,Hyderabad,Secunderabad,Paid Ads
+517,Customer 517,2025-05-08,Male,Mumbai,Bandra,Referral
+518,Customer 518,2024-01-02,Female,Pune,Hinjewadi,Social Media
+519,Customer 519,2024-05-15,Other,Delhi,Central Delhi,Social Media
+520,Customer 520,2024-12-31,Female,Mumbai,Andheri,Social Media
+521,Customer 521,2023-10-02,Female,Chennai,T Nagar,Organic
+522,Customer 522,2024-09-24,Female,Delhi,East Delhi,Referral
+523,Customer 523,2024-01-06,Female,Chennai,OMR,Organic
+524,Customer 524,2024-07-01,Female,Chennai,T Nagar,Organic
+525,Customer 525,2024-08-10,Male,Pune,Viman Nagar,Paid Ads
+526,Customer 526,2024-05-26,Male,Chennai,OMR,Paid Ads
+527,Customer 527,2023-09-03,Male,Chennai,T Nagar,Referral
+528,Customer 528,2024-10-07,Male,Bengaluru,Indiranagar,Organic
+529,Customer 529,2025-05-11,Female,Kolkata,Salt Lake,Social Media
+530,Customer 530,2023-12-29,Male,Pune,Kothrud,Social Media
+531,Customer 531,2024-02-09,Male,Hyderabad,Gachibowli,Organic
+532,Customer 532,2023-12-23,Other,Kolkata,Howrah,Paid Ads
+533,Customer 533,2024-05-22,Male,Mumbai,Powai,Organic
+534,Customer 534,2023-11-26,Male,Delhi,West Delhi,Organic
+535,Customer 535,2024-05-16,Male,Bengaluru,Indiranagar,Paid Ads
+536,Customer 536,2024-01-14,Female,Chennai,OMR,Social Media
+537,Customer 537,2025-03-09,Female,Kolkata,Howrah,Referral
+538,Customer 538,2025-01-07,Male,Mumbai,Andheri,Referral
+539,Customer 539,2025-05-04,Male,Mumbai,Thane,Referral
+540,Customer 540,2024-10-15,Male,Chennai,T Nagar,Organic
+541,Customer 541,2024-03-09,Female,Chennai,Velachery,Referral
+542,Customer 542,2023-07-26,Other,Pune,Viman Nagar,Social Media
+543,Customer 543,2024-08-02,Male,Pune,Koregaon Park,Paid Ads
+544,Customer 544,2025-05-22,Male,Pune,Hinjewadi,Organic
+545,Customer 545,2024-09-04,Male,Hyderabad,Hitech City,Social Media
+546,Customer 546,2023-10-05,Male,Mumbai,Thane,Referral
+547,Customer 547,2024-06-05,Male,Mumbai,Andheri,Referral
+548,Customer 548,2024-08-29,Female,Hyderabad,Gachibowli,Paid Ads
+549,Customer 549,2024-01-05,Male,Kolkata,Gariahat,Referral
+550,Customer 550,2024-08-21,Male,Bengaluru,Electronic City,Organic
+551,Customer 551,2023-07-15,Female,Bengaluru,Indiranagar,Social Media
+552,Customer 552,2024-12-18,Female,Delhi,South Delhi,Paid Ads
+553,Customer 553,2023-09-08,Female,Bengaluru,Whitefield,Paid Ads
+554,Customer 554,2024-12-27,Female,Chennai,Velachery,Organic
+555,Customer 555,2023-09-20,Female,Chennai,Velachery,Referral
+556,Customer 556,2024-07-02,Male,Pune,Viman Nagar,Social Media
+557,Customer 557,2024-01-07,Male,Mumbai,Thane,Social Media
+558,Customer 558,2024-08-23,Male,Hyderabad,Secunderabad,Paid Ads
+559,Customer 559,2025-02-02,Male,Chennai,OMR,Social Media
+560,Customer 560,2024-02-02,Female,Kolkata,Park Street,Organic
+561,Customer 561,2024-12-22,Female,Pune,Koregaon Park,Referral
+562,Customer 562,2024-11-07,Female,Delhi,Central Delhi,Organic
+563,Customer 563,2024-08-29,Other,Delhi,Central Delhi,Social Media
+564,Customer 564,2024-10-28,Female,Pune,Viman Nagar,Social Media
+565,Customer 565,2025-01-26,Other,Bengaluru,Electronic City,Paid Ads
+566,Customer 566,2024-07-30,Other,Delhi,North Delhi,Paid Ads
+567,Customer 567,2025-04-23,Male,Delhi,Central Delhi,Paid Ads
+568,Customer 568,2024-01-23,Female,Kolkata,Salt Lake,Paid Ads
+569,Customer 569,2024-03-30,Female,Mumbai,Navi Mumbai,Paid Ads
+570,Customer 570,2025-01-01,Male,Hyderabad,Hitech City,Paid Ads
+571,Customer 571,2024-07-28,Female,Chennai,Velachery,Organic
+572,Customer 572,2024-05-22,Male,Hyderabad,Secunderabad,Organic
+573,Customer 573,2024-06-25,Male,Chennai,T Nagar,Organic
+574,Customer 574,2023-08-02,Male,Delhi,East Delhi,Referral
+575,Customer 575,2024-01-01,Other,Chennai,Adyar,Organic
+576,Customer 576,2024-12-08,Female,Delhi,East Delhi,Organic
+577,Customer 577,2024-07-25,Other,Bengaluru,HSR Layout,Social Media
+578,Customer 578,2024-03-31,Female,Kolkata,Park Street,Paid Ads
+579,Customer 579,2025-02-07,Male,Bengaluru,HSR Layout,Paid Ads
+580,Customer 580,2023-12-11,Female,Kolkata,Howrah,Paid Ads
+581,Customer 581,2023-10-22,Male,Delhi,Central Delhi,Social Media
+582,Customer 582,2024-06-21,Female,Chennai,Velachery,Organic
+583,Customer 583,2025-05-31,Male,Mumbai,Navi Mumbai,Paid Ads
+584,Customer 584,2023-08-17,Male,Pune,Viman Nagar,Social Media
+585,Customer 585,2025-03-24,Female,Kolkata,Salt Lake,Organic
+586,Customer 586,2024-10-24,Male,Bengaluru,HSR Layout,Paid Ads
+587,Customer 587,2023-06-28,Male,Pune,Koregaon Park,Social Media
+588,Customer 588,2023-10-25,Female,Mumbai,Thane,Referral
+589,Customer 589,2025-03-04,Female,Mumbai,Powai,Social Media
+590,Customer 590,2023-10-25,Male,Chennai,Adyar,Organic
+591,Customer 591,2024-12-24,Female,Kolkata,Howrah,Organic
+592,Customer 592,2024-07-12,Female,Mumbai,Bandra,Organic
+593,Customer 593,2025-02-19,Male,Delhi,Central Delhi,Organic
+594,Customer 594,2023-09-26,Male,Hyderabad,Hitech City,Social Media
+595,Customer 595,2024-02-05,Female,Chennai,Adyar,Paid Ads
+596,Customer 596,2024-08-26,Male,Hyderabad,Gachibowli,Social Media
+597,Customer 597,2024-07-05,Male,Kolkata,Salt Lake,Social Media
+598,Customer 598,2024-03-03,Male,Pune,Hinjewadi,Social Media
+599,Customer 599,2023-08-16,Female,Kolkata,Gariahat,Referral
+600,Customer 600,2023-06-21,Female,Mumbai,Powai,Social Media
+601,Customer 601,2023-10-05,Male,Chennai,T Nagar,Paid Ads
+602,Customer 602,2024-07-31,Female,Bengaluru,Indiranagar,Organic
+603,Customer 603,2024-08-14,Male,Pune,Viman Nagar,Paid Ads
+604,Customer 604,2024-09-07,Female,Pune,Koregaon Park,Organic
+605,Customer 605,2023-09-18,Female,Bengaluru,HSR Layout,Referral
+606,Customer 606,2025-05-29,Female,Chennai,OMR,Paid Ads
+607,Customer 607,2024-07-08,Female,Mumbai,Powai,Paid Ads
+608,Customer 608,2024-03-04,Female,Mumbai,Navi Mumbai,Paid Ads
+609,Customer 609,2024-10-23,Male,Mumbai,Bandra,Referral
+610,Customer 610,2025-05-20,Male,Kolkata,Park Street,Paid Ads
+611,Customer 611,2024-08-01,Female,Delhi,Central Delhi,Paid Ads
+612,Customer 612,2024-08-05,Male,Hyderabad,Gachibowli,Paid Ads
+613,Customer 613,2025-04-19,Female,Mumbai,Powai,Social Media
+614,Customer 614,2024-07-10,Female,Bengaluru,Koramangala,Paid Ads
+615,Customer 615,2024-06-02,Other,Kolkata,Gariahat,Organic
+616,Customer 616,2025-05-11,Male,Pune,Viman Nagar,Organic
+617,Customer 617,2024-06-30,Female,Bengaluru,HSR Layout,Organic
+618,Customer 618,2025-01-28,Other,Kolkata,Salt Lake,Social Media
+619,Customer 619,2023-06-17,Male,Kolkata,Park Street,Paid Ads
+620,Customer 620,2024-07-12,Female,Mumbai,Powai,Referral
+621,Customer 621,2024-02-17,Male,Delhi,North Delhi,Social Media
+622,Customer 622,2024-07-02,Male,Chennai,Adyar,Paid Ads
+623,Customer 623,2024-05-24,Male,Mumbai,Navi Mumbai,Social Media
+624,Customer 624,2023-12-10,Female,Hyderabad,Gachibowli,Referral
+625,Customer 625,2024-12-27,Female,Kolkata,Gariahat,Paid Ads
+626,Customer 626,2025-01-08,Male,Hyderabad,Secunderabad,Referral
+627,Customer 627,2023-08-01,Female,Bengaluru,Indiranagar,Paid Ads
+628,Customer 628,2023-10-21,Male,Hyderabad,Hitech City,Paid Ads
+629,Customer 629,2024-06-21,Female,Kolkata,Gariahat,Social Media
+630,Customer 630,2024-09-11,Female,Bengaluru,Indiranagar,Paid Ads
+631,Customer 631,2023-10-24,Female,Delhi,Central Delhi,Social Media
+632,Customer 632,2024-12-24,Female,Chennai,T Nagar,Organic
+633,Customer 633,2024-07-24,Female,Bengaluru,Electronic City,Paid Ads
+634,Customer 634,2024-03-13,Male,Bengaluru,Whitefield,Social Media
+635,Customer 635,2025-04-26,Male,Bengaluru,Whitefield,Paid Ads
+636,Customer 636,2024-05-12,Male,Pune,Viman Nagar,Paid Ads
+637,Customer 637,2023-07-17,Female,Pune,Hinjewadi,Referral
+638,Customer 638,2025-01-11,Female,Kolkata,Howrah,Paid Ads
+639,Customer 639,2025-02-03,Female,Hyderabad,Gachibowli,Referral
+640,Customer 640,2024-10-24,Male,Mumbai,Bandra,Paid Ads
+641,Customer 641,2023-12-28,Female,Mumbai,Navi Mumbai,Organic
+642,Customer 642,2024-05-19,Male,Pune,Kothrud,Organic
+643,Customer 643,2023-07-20,Female,Kolkata,Salt Lake,Organic
+644,Customer 644,2023-06-12,Female,Hyderabad,Gachibowli,Social Media
+645,Customer 645,2024-08-12,Male,Delhi,North Delhi,Organic
+646,Customer 646,2023-08-07,Female,Mumbai,Navi Mumbai,Paid Ads
+647,Customer 647,2025-04-02,Female,Bengaluru,Koramangala,Paid Ads
+648,Customer 648,2025-01-06,Female,Chennai,OMR,Organic
+649,Customer 649,2024-03-19,Female,Delhi,Central Delhi,Paid Ads
+650,Customer 650,2023-07-15,Male,Delhi,South Delhi,Referral
+651,Customer 651,2025-02-13,Female,Pune,Hinjewadi,Organic
+652,Customer 652,2023-09-09,Female,Pune,Koregaon Park,Social Media
+653,Customer 653,2023-08-09,Male,Delhi,South Delhi,Social Media
+654,Customer 654,2023-08-16,Male,Mumbai,Bandra,Referral
+655,Customer 655,2024-03-03,Female,Kolkata,Gariahat,Referral
+656,Customer 656,2023-08-21,Male,Kolkata,Howrah,Organic
+657,Customer 657,2025-03-16,Female,Bengaluru,HSR Layout,Paid Ads
+658,Customer 658,2024-09-20,Male,Pune,Viman Nagar,Social Media
+659,Customer 659,2024-07-16,Male,Bengaluru,Koramangala,Organic
+660,Customer 660,2023-10-13,Female,Delhi,East Delhi,Paid Ads
+661,Customer 661,2023-11-25,Male,Hyderabad,Madhapur,Organic
+662,Customer 662,2024-12-16,Female,Chennai,Adyar,Social Media
+663,Customer 663,2024-02-28,Other,Delhi,East Delhi,Paid Ads
+664,Customer 664,2023-07-02,Female,Chennai,Velachery,Organic
+665,Customer 665,2023-10-30,Female,Pune,Kothrud,Social Media
+666,Customer 666,2023-11-25,Female,Mumbai,Navi Mumbai,Paid Ads
+667,Customer 667,2023-09-19,Male,Bengaluru,Koramangala,Organic
+668,Customer 668,2024-06-13,Female,Chennai,Velachery,Organic
+669,Customer 669,2025-03-20,Male,Mumbai,Powai,Organic
+670,Customer 670,2025-03-23,Male,Mumbai,Navi Mumbai,Social Media
+671,Customer 671,2023-06-24,Male,Kolkata,Howrah,Organic
+672,Customer 672,2023-08-29,Female,Bengaluru,Whitefield,Social Media
+673,Customer 673,2024-03-30,Male,Pune,Koregaon Park,Referral
+674,Customer 674,2025-01-03,Male,Hyderabad,Gachibowli,Organic
+675,Customer 675,2023-06-20,Female,Pune,Hinjewadi,Organic
+676,Customer 676,2024-05-16,Male,Delhi,East Delhi,Social Media
+677,Customer 677,2024-06-24,Female,Kolkata,Salt Lake,Referral
+678,Customer 678,2023-06-05,Male,Pune,Koregaon Park,Referral
+679,Customer 679,2023-09-26,Female,Delhi,West Delhi,Paid Ads
+680,Customer 680,2024-06-12,Male,Hyderabad,Gachibowli,Referral
+681,Customer 681,2025-02-05,Male,Pune,Koregaon Park,Paid Ads
+682,Customer 682,2024-03-16,Other,Mumbai,Navi Mumbai,Paid Ads
+683,Customer 683,2024-02-10,Female,Delhi,Central Delhi,Referral
+684,Customer 684,2024-07-25,Female,Kolkata,Park Street,Organic
+685,Customer 685,2024-03-12,Male,Delhi,West Delhi,Social Media
+686,Customer 686,2025-04-07,Female,Hyderabad,Gachibowli,Paid Ads
+687,Customer 687,2023-08-14,Male,Bengaluru,Indiranagar,Organic
+688,Customer 688,2023-08-23,Female,Delhi,South Delhi,Referral
+689,Customer 689,2023-08-15,Male,Hyderabad,Secunderabad,Referral
+690,Customer 690,2024-08-26,Male,Delhi,North Delhi,Organic
+691,Customer 691,2025-02-17,Male,Mumbai,Thane,Paid Ads
+692,Customer 692,2024-09-26,Female,Pune,Koregaon Park,Organic
+693,Customer 693,2023-09-07,Female,Delhi,South Delhi,Referral
+694,Customer 694,2025-03-09,Female,Pune,Kothrud,Referral
+695,Customer 695,2024-03-02,Female,Kolkata,Howrah,Organic
+696,Customer 696,2024-12-22,Female,Bengaluru,HSR Layout,Paid Ads
+697,Customer 697,2024-02-27,Female,Kolkata,Salt Lake,Social Media
+698,Customer 698,2024-01-09,Male,Pune,Viman Nagar,Paid Ads
+699,Customer 699,2024-02-06,Male,Mumbai,Bandra,Referral
+700,Customer 700,2023-11-01,Male,Bengaluru,Indiranagar,Paid Ads
+701,Customer 701,2024-03-09,Male,Mumbai,Andheri,Social Media
+702,Customer 702,2024-12-03,Male,Hyderabad,Secunderabad,Paid Ads
+703,Customer 703,2023-08-05,Female,Bengaluru,HSR Layout,Organic
+704,Customer 704,2024-07-25,Male,Bengaluru,Indiranagar,Social Media
+705,Customer 705,2024-04-21,Male,Chennai,OMR,Social Media
+706,Customer 706,2024-06-24,Female,Hyderabad,Hitech City,Social Media
+707,Customer 707,2024-09-30,Male,Bengaluru,Koramangala,Paid Ads
+708,Customer 708,2024-10-05,Male,Bengaluru,Electronic City,Paid Ads
+709,Customer 709,2023-07-24,Female,Kolkata,Gariahat,Paid Ads
+710,Customer 710,2024-12-25,Female,Bengaluru,HSR Layout,Social Media
+711,Customer 711,2023-08-01,Female,Bengaluru,Indiranagar,Social Media
+712,Customer 712,2025-03-26,Female,Hyderabad,Secunderabad,Social Media
+713,Customer 713,2023-12-23,Male,Hyderabad,Secunderabad,Referral
+714,Customer 714,2024-04-22,Male,Chennai,OMR,Social Media
+715,Customer 715,2025-01-22,Male,Bengaluru,HSR Layout,Referral
+716,Customer 716,2024-11-07,Other,Kolkata,Howrah,Referral
+717,Customer 717,2024-09-08,Female,Delhi,Central Delhi,Social Media
+718,Customer 718,2024-09-21,Female,Pune,Viman Nagar,Organic
+719,Customer 719,2024-12-19,Female,Chennai,OMR,Social Media
+720,Customer 720,2025-02-11,Female,Hyderabad,Secunderabad,Organic
+721,Customer 721,2024-10-06,Male,Kolkata,Howrah,Paid Ads
+722,Customer 722,2024-02-04,Male,Mumbai,Powai,Social Media
+723,Customer 723,2025-05-07,Female,Bengaluru,Whitefield,Paid Ads
+724,Customer 724,2024-02-05,Male,Kolkata,Howrah,Organic
+725,Customer 725,2023-12-12,Male,Hyderabad,Madhapur,Paid Ads
+726,Customer 726,2024-12-10,Female,Pune,Koregaon Park,Organic
+727,Customer 727,2025-01-24,Male,Kolkata,Gariahat,Organic
+728,Customer 728,2023-08-18,Female,Delhi,North Delhi,Referral
+729,Customer 729,2023-12-17,Male,Mumbai,Navi Mumbai,Organic
+730,Customer 730,2024-03-11,Female,Pune,Koregaon Park,Referral
+731,Customer 731,2025-04-19,Female,Kolkata,Howrah,Organic
+732,Customer 732,2025-04-02,Male,Delhi,South Delhi,Referral
+733,Customer 733,2024-08-18,Male,Mumbai,Navi Mumbai,Social Media
+734,Customer 734,2024-02-20,Male,Hyderabad,Secunderabad,Paid Ads
+735,Customer 735,2024-06-21,Male,Hyderabad,Gachibowli,Referral
+736,Customer 736,2023-07-12,Male,Delhi,East Delhi,Organic
+737,Customer 737,2025-04-06,Male,Bengaluru,HSR Layout,Organic
+738,Customer 738,2025-03-10,Male,Delhi,North Delhi,Referral
+739,Customer 739,2025-01-03,Male,Bengaluru,Indiranagar,Paid Ads
+740,Customer 740,2024-11-23,Male,Kolkata,Park Street,Paid Ads
+741,Customer 741,2024-09-11,Female,Bengaluru,HSR Layout,Organic
+742,Customer 742,2023-10-01,Female,Hyderabad,Madhapur,Referral
+743,Customer 743,2023-09-25,Male,Delhi,West Delhi,Organic
+744,Customer 744,2025-02-20,Female,Kolkata,Salt Lake,Organic
+745,Customer 745,2024-10-23,Female,Kolkata,Gariahat,Organic
+746,Customer 746,2025-01-28,Female,Chennai,T Nagar,Social Media
+747,Customer 747,2023-07-12,Male,Pune,Viman Nagar,Social Media
+748,Customer 748,2023-09-12,Male,Bengaluru,Electronic City,Paid Ads
+749,Customer 749,2024-02-04,Male,Hyderabad,Gachibowli,Paid Ads
+750,Customer 750,2025-03-01,Male,Chennai,T Nagar,Social Media
+751,Customer 751,2024-03-03,Female,Chennai,OMR,Paid Ads
+752,Customer 752,2023-10-12,Other,Delhi,Central Delhi,Social Media
+753,Customer 753,2024-11-30,Male,Hyderabad,Madhapur,Paid Ads
+754,Customer 754,2024-04-22,Male,Delhi,North Delhi,Social Media
+755,Customer 755,2023-10-19,Female,Bengaluru,Koramangala,Organic
+756,Customer 756,2024-02-16,Male,Kolkata,Park Street,Referral
+757,Customer 757,2024-04-04,Female,Bengaluru,Whitefield,Paid Ads
+758,Customer 758,2025-05-19,Male,Delhi,West Delhi,Paid Ads
+759,Customer 759,2024-10-02,Female,Pune,Hinjewadi,Paid Ads
+760,Customer 760,2023-07-09,Female,Pune,Koregaon Park,Organic
+761,Customer 761,2024-12-10,Male,Bengaluru,Indiranagar,Paid Ads
+762,Customer 762,2024-02-22,Male,Pune,Viman Nagar,Referral
+763,Customer 763,2023-07-02,Female,Pune,Kothrud,Social Media
+764,Customer 764,2024-07-28,Male,Bengaluru,Koramangala,Social Media
+765,Customer 765,2023-09-11,Male,Bengaluru,Koramangala,Social Media
+766,Customer 766,2023-06-24,Female,Bengaluru,Whitefield,Paid Ads
+767,Customer 767,2023-09-16,Female,Hyderabad,Gachibowli,Paid Ads
+768,Customer 768,2024-10-17,Male,Hyderabad,Gachibowli,Paid Ads
+769,Customer 769,2024-03-22,Female,Chennai,T Nagar,Social Media
+770,Customer 770,2023-11-25,Female,Hyderabad,Secunderabad,Social Media
+771,Customer 771,2024-04-30,Male,Mumbai,Powai,Paid Ads
+772,Customer 772,2024-11-21,Female,Pune,Kothrud,Referral
+773,Customer 773,2024-05-04,Female,Delhi,East Delhi,Social Media
+774,Customer 774,2025-01-22,Male,Mumbai,Thane,Paid Ads
+775,Customer 775,2025-05-03,Male,Hyderabad,Madhapur,Paid Ads
+776,Customer 776,2024-10-02,Male,Chennai,OMR,Paid Ads
+777,Customer 777,2024-10-12,Male,Mumbai,Andheri,Organic
+778,Customer 778,2023-06-17,Male,Kolkata,Park Street,Referral
+779,Customer 779,2023-06-06,Female,Delhi,West Delhi,Social Media
+780,Customer 780,2025-03-14,Female,Pune,Hinjewadi,Social Media
+781,Customer 781,2024-12-10,Male,Kolkata,Howrah,Paid Ads
+782,Customer 782,2024-04-11,Other,Pune,Kothrud,Organic
+783,Customer 783,2025-03-06,Female,Bengaluru,Electronic City,Referral
+784,Customer 784,2024-11-13,Male,Pune,Kothrud,Paid Ads
+785,Customer 785,2025-04-19,Female,Pune,Viman Nagar,Paid Ads
+786,Customer 786,2024-03-23,Male,Delhi,North Delhi,Referral
+787,Customer 787,2023-08-07,Male,Kolkata,Salt Lake,Paid Ads
+788,Customer 788,2025-01-04,Female,Bengaluru,Indiranagar,Organic
+789,Customer 789,2024-05-31,Other,Hyderabad,Hitech City,Social Media
+790,Customer 790,2024-03-22,Female,Mumbai,Navi Mumbai,Referral
+791,Customer 791,2024-05-06,Female,Kolkata,Howrah,Social Media
+792,Customer 792,2023-11-16,Male,Pune,Viman Nagar,Social Media
+793,Customer 793,2024-09-13,Female,Kolkata,Park Street,Organic
+794,Customer 794,2024-06-14,Male,Pune,Hinjewadi,Referral
+795,Customer 795,2025-01-14,Male,Pune,Viman Nagar,Referral
+796,Customer 796,2024-05-29,Other,Chennai,Velachery,Referral
+797,Customer 797,2024-10-21,Female,Pune,Hinjewadi,Organic
+798,Customer 798,2024-06-06,Female,Mumbai,Thane,Organic
+799,Customer 799,2024-02-24,Male,Bengaluru,Whitefield,Social Media
+800,Customer 800,2023-11-18,Male,Mumbai,Bandra,Referral
+801,Customer 801,2023-10-20,Male,Kolkata,Park Street,Paid Ads
+802,Customer 802,2024-10-27,Female,Hyderabad,Gachibowli,Referral
+803,Customer 803,2024-11-23,Female,Chennai,OMR,Paid Ads
+804,Customer 804,2025-01-03,Male,Hyderabad,Hitech City,Organic
+805,Customer 805,2024-01-30,Male,Hyderabad,Secunderabad,Referral
+806,Customer 806,2023-07-09,Female,Hyderabad,Madhapur,Referral
+807,Customer 807,2024-08-17,Female,Pune,Kothrud,Organic
+808,Customer 808,2024-10-18,Male,Chennai,OMR,Referral
+809,Customer 809,2024-09-01,Female,Kolkata,Salt Lake,Paid Ads
+810,Customer 810,2024-11-30,Male,Mumbai,Thane,Social Media
+811,Customer 811,2024-01-30,Male,Hyderabad,Secunderabad,Referral
+812,Customer 812,2025-01-28,Male,Kolkata,Gariahat,Referral
+813,Customer 813,2023-09-14,Female,Pune,Viman Nagar,Paid Ads
+814,Customer 814,2024-04-13,Female,Kolkata,Gariahat,Organic
+815,Customer 815,2024-12-11,Male,Delhi,South Delhi,Paid Ads
+816,Customer 816,2023-07-16,Male,Delhi,South Delhi,Social Media
+817,Customer 817,2025-01-30,Female,Hyderabad,Madhapur,Organic
+818,Customer 818,2023-09-09,Female,Hyderabad,Gachibowli,Social Media
+819,Customer 819,2024-10-11,Female,Chennai,Velachery,Social Media
+820,Customer 820,2025-01-03,Female,Kolkata,Gariahat,Organic
+821,Customer 821,2023-08-10,Other,Chennai,Velachery,Referral
+822,Customer 822,2024-08-03,Female,Delhi,West Delhi,Social Media
+823,Customer 823,2023-08-24,Male,Delhi,East Delhi,Referral
+824,Customer 824,2024-11-10,Male,Chennai,T Nagar,Paid Ads
+825,Customer 825,2023-08-09,Other,Chennai,Adyar,Organic
+826,Customer 826,2023-12-15,Female,Delhi,North Delhi,Paid Ads
+827,Customer 827,2024-02-21,Male,Delhi,North Delhi,Social Media
+828,Customer 828,2024-10-31,Female,Pune,Koregaon Park,Organic
+829,Customer 829,2024-08-22,Other,Delhi,West Delhi,Organic
+830,Customer 830,2024-02-24,Female,Kolkata,Howrah,Social Media
+831,Customer 831,2025-03-05,Male,Hyderabad,Hitech City,Social Media
+832,Customer 832,2024-08-27,Female,Hyderabad,Hitech City,Organic
+833,Customer 833,2023-07-01,Female,Delhi,West Delhi,Referral
+834,Customer 834,2024-01-03,Male,Bengaluru,Whitefield,Paid Ads
+835,Customer 835,2025-05-13,Male,Kolkata,Park Street,Social Media
+836,Customer 836,2025-05-02,Female,Delhi,Central Delhi,Organic
+837,Customer 837,2024-05-30,Female,Pune,Viman Nagar,Paid Ads
+838,Customer 838,2024-10-15,Male,Bengaluru,Whitefield,Social Media
+839,Customer 839,2024-06-04,Female,Hyderabad,Madhapur,Social Media
+840,Customer 840,2023-10-26,Male,Delhi,South Delhi,Social Media
+841,Customer 841,2024-09-13,Female,Kolkata,Salt Lake,Paid Ads
+842,Customer 842,2025-02-17,Male,Bengaluru,HSR Layout,Referral
+843,Customer 843,2024-01-27,Male,Kolkata,Park Street,Social Media
+844,Customer 844,2024-04-22,Female,Bengaluru,Koramangala,Social Media
+845,Customer 845,2024-10-13,Female,Pune,Hinjewadi,Organic
+846,Customer 846,2025-03-27,Male,Kolkata,Gariahat,Social Media
+847,Customer 847,2025-05-19,Female,Pune,Viman Nagar,Paid Ads
+848,Customer 848,2023-10-12,Female,Bengaluru,Koramangala,Social Media
+849,Customer 849,2024-07-22,Male,Hyderabad,Madhapur,Organic
+850,Customer 850,2024-11-04,Male,Mumbai,Thane,Organic
+851,Customer 851,2023-09-07,Other,Pune,Kothrud,Referral
+852,Customer 852,2024-05-20,Female,Bengaluru,Whitefield,Paid Ads
+853,Customer 853,2025-03-23,Female,Kolkata,Howrah,Referral
+854,Customer 854,2025-02-20,Male,Pune,Viman Nagar,Paid Ads
+855,Customer 855,2023-09-17,Male,Kolkata,Salt Lake,Organic
+856,Customer 856,2025-05-12,Female,Pune,Kothrud,Organic
+857,Customer 857,2024-10-17,Male,Bengaluru,Whitefield,Organic
+858,Customer 858,2024-02-18,Male,Delhi,East Delhi,Referral
+859,Customer 859,2024-04-22,Male,Chennai,OMR,Paid Ads
+860,Customer 860,2024-11-25,Female,Chennai,OMR,Organic
+861,Customer 861,2025-05-12,Male,Chennai,T Nagar,Referral
+862,Customer 862,2023-10-27,Male,Delhi,West Delhi,Organic
+863,Customer 863,2023-12-23,Female,Pune,Viman Nagar,Social Media
+864,Customer 864,2024-06-30,Male,Pune,Hinjewadi,Paid Ads
+865,Customer 865,2024-01-18,Female,Pune,Kothrud,Referral
+866,Customer 866,2023-12-13,Female,Chennai,OMR,Social Media
+867,Customer 867,2023-10-16,Female,Delhi,North Delhi,Organic
+868,Customer 868,2024-11-25,Female,Hyderabad,Hitech City,Paid Ads
+869,Customer 869,2024-07-17,Male,Pune,Kothrud,Referral
+870,Customer 870,2024-04-21,Female,Chennai,T Nagar,Organic
+871,Customer 871,2025-03-17,Female,Delhi,North Delhi,Organic
+872,Customer 872,2025-02-04,Female,Mumbai,Thane,Referral
+873,Customer 873,2023-06-28,Female,Pune,Hinjewadi,Social Media
+874,Customer 874,2023-07-17,Male,Bengaluru,Whitefield,Referral
+875,Customer 875,2024-11-30,Female,Chennai,Adyar,Organic
+876,Customer 876,2024-02-06,Male,Bengaluru,HSR Layout,Referral
+877,Customer 877,2023-09-12,Male,Pune,Kothrud,Referral
+878,Customer 878,2024-02-11,Female,Chennai,Adyar,Paid Ads
+879,Customer 879,2025-02-03,Female,Hyderabad,Secunderabad,Organic
+880,Customer 880,2024-04-26,Female,Hyderabad,Gachibowli,Referral
+881,Customer 881,2023-08-11,Female,Mumbai,Powai,Organic
+882,Customer 882,2024-04-28,Male,Pune,Kothrud,Social Media
+883,Customer 883,2025-03-15,Female,Chennai,Adyar,Organic
+884,Customer 884,2025-01-15,Other,Kolkata,Salt Lake,Social Media
+885,Customer 885,2024-01-13,Female,Delhi,East Delhi,Referral
+886,Customer 886,2025-01-14,Male,Hyderabad,Gachibowli,Social Media
+887,Customer 887,2023-09-21,Male,Kolkata,Salt Lake,Paid Ads
+888,Customer 888,2024-09-20,Female,Mumbai,Powai,Social Media
+889,Customer 889,2023-06-22,Female,Hyderabad,Secunderabad,Referral
+890,Customer 890,2023-11-16,Female,Kolkata,Salt Lake,Referral
+891,Customer 891,2024-04-01,Female,Delhi,Central Delhi,Organic
+892,Customer 892,2023-10-29,Female,Mumbai,Bandra,Organic
+893,Customer 893,2025-04-13,Male,Hyderabad,Hitech City,Paid Ads
+894,Customer 894,2023-06-28,Male,Kolkata,Gariahat,Referral
+895,Customer 895,2023-10-28,Female,Bengaluru,Koramangala,Paid Ads
+896,Customer 896,2023-09-02,Female,Delhi,West Delhi,Social Media
+897,Customer 897,2023-08-30,Female,Bengaluru,Electronic City,Referral
+898,Customer 898,2023-09-28,Female,Chennai,T Nagar,Paid Ads
+899,Customer 899,2024-12-01,Male,Bengaluru,Electronic City,Paid Ads
+900,Customer 900,2024-06-02,Male,Kolkata,Park Street,Social Media
+901,Customer 901,2023-12-06,Female,Mumbai,Andheri,Paid Ads
+902,Customer 902,2023-12-01,Male,Delhi,North Delhi,Referral
+903,Customer 903,2024-04-19,Male,Chennai,Adyar,Referral
+904,Customer 904,2024-04-13,Male,Delhi,East Delhi,Referral
+905,Customer 905,2024-12-20,Male,Delhi,North Delhi,Social Media
+906,Customer 906,2024-09-04,Male,Hyderabad,Madhapur,Organic
+907,Customer 907,2024-04-27,Female,Mumbai,Powai,Organic
+908,Customer 908,2023-09-22,Female,Delhi,North Delhi,Paid Ads
+909,Customer 909,2023-10-28,Male,Chennai,Velachery,Paid Ads
+910,Customer 910,2024-10-16,Male,Chennai,Adyar,Organic
+911,Customer 911,2023-10-14,Female,Pune,Viman Nagar,Paid Ads
+912,Customer 912,2024-03-17,Male,Delhi,Central Delhi,Organic
+913,Customer 913,2023-07-12,Male,Hyderabad,Gachibowli,Social Media
+914,Customer 914,2023-12-30,Male,Bengaluru,Indiranagar,Referral
+915,Customer 915,2024-04-28,Male,Kolkata,Howrah,Referral
+916,Customer 916,2024-11-10,Other,Bengaluru,HSR Layout,Referral
+917,Customer 917,2023-08-16,Female,Mumbai,Andheri,Social Media
+918,Customer 918,2024-04-01,Female,Mumbai,Navi Mumbai,Organic
+919,Customer 919,2025-01-10,Female,Mumbai,Andheri,Social Media
+920,Customer 920,2024-07-22,Other,Hyderabad,Madhapur,Referral
+921,Customer 921,2023-10-29,Female,Hyderabad,Hitech City,Referral
+922,Customer 922,2024-07-31,Male,Kolkata,Park Street,Paid Ads
+923,Customer 923,2024-05-13,Other,Bengaluru,HSR Layout,Referral
+924,Customer 924,2024-03-13,Male,Kolkata,Salt Lake,Organic
+925,Customer 925,2024-12-05,Female,Mumbai,Powai,Organic
+926,Customer 926,2024-01-28,Male,Mumbai,Powai,Social Media
+927,Customer 927,2023-10-12,Female,Delhi,North Delhi,Referral
+928,Customer 928,2023-10-17,Other,Hyderabad,Hitech City,Referral
+929,Customer 929,2023-11-06,Female,Bengaluru,Whitefield,Organic
+930,Customer 930,2025-04-19,Male,Hyderabad,Madhapur,Social Media
+931,Customer 931,2023-10-12,Female,Delhi,East Delhi,Organic
+932,Customer 932,2023-09-30,Male,Kolkata,Park Street,Organic
+933,Customer 933,2024-11-15,Female,Delhi,South Delhi,Social Media
+934,Customer 934,2024-01-01,Female,Mumbai,Bandra,Paid Ads
+935,Customer 935,2025-02-09,Male,Bengaluru,Koramangala,Referral
+936,Customer 936,2025-02-23,Female,Kolkata,Salt Lake,Organic
+937,Customer 937,2024-03-23,Female,Delhi,North Delhi,Paid Ads
+938,Customer 938,2025-03-07,Male,Kolkata,Park Street,Organic
+939,Customer 939,2024-08-11,Female,Kolkata,Gariahat,Organic
+940,Customer 940,2023-08-21,Other,Delhi,East Delhi,Organic
+941,Customer 941,2024-10-01,Female,Mumbai,Navi Mumbai,Paid Ads
+942,Customer 942,2025-04-30,Male,Kolkata,Howrah,Paid Ads
+943,Customer 943,2023-12-17,Female,Delhi,East Delhi,Paid Ads
+944,Customer 944,2025-03-25,Female,Mumbai,Powai,Social Media
+945,Customer 945,2024-10-30,Male,Mumbai,Powai,Referral
+946,Customer 946,2024-10-31,Female,Hyderabad,Gachibowli,Organic
+947,Customer 947,2023-09-12,Female,Pune,Viman Nagar,Referral
+948,Customer 948,2024-05-16,Male,Hyderabad,Madhapur,Paid Ads
+949,Customer 949,2025-04-04,Female,Delhi,South Delhi,Referral
+950,Customer 950,2024-03-11,Female,Hyderabad,Gachibowli,Paid Ads
+951,Customer 951,2024-09-20,Male,Mumbai,Navi Mumbai,Social Media
+952,Customer 952,2025-04-18,Female,Chennai,Adyar,Paid Ads
+953,Customer 953,2024-10-17,Male,Kolkata,Gariahat,Paid Ads
+954,Customer 954,2024-03-22,Male,Pune,Koregaon Park,Referral
+955,Customer 955,2024-05-18,Male,Pune,Hinjewadi,Paid Ads
+956,Customer 956,2023-06-23,Other,Bengaluru,Whitefield,Organic
+957,Customer 957,2024-01-14,Male,Bengaluru,Electronic City,Social Media
+958,Customer 958,2025-05-24,Male,Delhi,West Delhi,Organic
+959,Customer 959,2024-02-11,Female,Kolkata,Howrah,Referral
+960,Customer 960,2024-02-02,Female,Kolkata,Park Street,Social Media
+961,Customer 961,2023-11-12,Female,Delhi,North Delhi,Social Media
+962,Customer 962,2024-10-06,Female,Bengaluru,Electronic City,Organic
+963,Customer 963,2023-11-25,Male,Kolkata,Park Street,Paid Ads
+964,Customer 964,2024-03-04,Female,Bengaluru,Whitefield,Social Media
+965,Customer 965,2024-05-10,Male,Mumbai,Navi Mumbai,Referral
+966,Customer 966,2024-08-22,Male,Kolkata,Gariahat,Organic
+967,Customer 967,2025-04-22,Female,Chennai,Velachery,Social Media
+968,Customer 968,2024-10-24,Male,Pune,Viman Nagar,Paid Ads
+969,Customer 969,2023-12-29,Female,Pune,Hinjewadi,Social Media
+970,Customer 970,2023-07-14,Male,Hyderabad,Hitech City,Organic
+971,Customer 971,2024-09-14,Female,Delhi,North Delhi,Social Media
+972,Customer 972,2024-05-31,Male,Delhi,Central Delhi,Paid Ads
+973,Customer 973,2023-12-05,Male,Delhi,West Delhi,Social Media
+974,Customer 974,2025-05-16,Other,Kolkata,Park Street,Referral
+975,Customer 975,2025-02-12,Other,Chennai,T Nagar,Referral
+976,Customer 976,2023-12-16,Female,Delhi,South Delhi,Social Media
+977,Customer 977,2024-12-21,Male,Pune,Viman Nagar,Organic
+978,Customer 978,2025-02-19,Other,Kolkata,Gariahat,Organic
+979,Customer 979,2023-11-08,Male,Bengaluru,HSR Layout,Organic
+980,Customer 980,2023-12-12,Male,Bengaluru,Indiranagar,Referral
+981,Customer 981,2024-11-17,Female,Mumbai,Bandra,Paid Ads
+982,Customer 982,2023-08-05,Male,Kolkata,Howrah,Referral
+983,Customer 983,2023-08-26,Other,Mumbai,Navi Mumbai,Referral
+984,Customer 984,2024-02-11,Female,Mumbai,Navi Mumbai,Social Media
+985,Customer 985,2024-05-25,Female,Hyderabad,Secunderabad,Referral
+986,Customer 986,2023-08-25,Female,Mumbai,Bandra,Organic
+987,Customer 987,2024-05-20,Male,Chennai,OMR,Organic
+988,Customer 988,2024-06-02,Male,Mumbai,Navi Mumbai,Referral
+989,Customer 989,2023-06-07,Male,Kolkata,Park Street,Organic
+990,Customer 990,2025-01-21,Female,Hyderabad,Gachibowli,Referral
+991,Customer 991,2024-08-28,Male,Chennai,Adyar,Social Media
+992,Customer 992,2024-10-26,Male,Bengaluru,Indiranagar,Social Media
+993,Customer 993,2023-07-27,Male,Chennai,Adyar,Referral
+994,Customer 994,2025-04-21,Female,Hyderabad,Hitech City,Referral
+995,Customer 995,2024-06-28,Female,Mumbai,Bandra,Organic
+996,Customer 996,2024-08-26,Female,Bengaluru,Indiranagar,Organic
+997,Customer 997,2023-08-09,Female,Chennai,Adyar,Organic
+998,Customer 998,2023-09-20,Male,Hyderabad,Madhapur,Paid Ads
+999,Customer 999,2024-08-16,Male,Mumbai,Thane,Paid Ads
+1000,Customer 1000,2024-09-02,Male,Hyderabad,Secunderabad,Paid Ads
+1001,Customer 1001,2024-02-04,Female,Delhi,East Delhi,Social Media
+1002,Customer 1002,2024-12-27,Female,Mumbai,Thane,Organic
+1003,Customer 1003,2024-03-04,Female,Kolkata,Salt Lake,Referral
+1004,Customer 1004,2025-01-28,Other,Delhi,West Delhi,Referral
+1005,Customer 1005,2023-08-31,Female,Delhi,South Delhi,Referral
+1006,Customer 1006,2024-01-02,Female,Mumbai,Thane,Social Media
+1007,Customer 1007,2025-01-09,Male,Chennai,Adyar,Organic
+1008,Customer 1008,2024-10-17,Female,Bengaluru,Electronic City,Paid Ads
+1009,Customer 1009,2024-08-03,Female,Chennai,Adyar,Paid Ads
+1010,Customer 1010,2024-02-27,Male,Chennai,T Nagar,Paid Ads
+1011,Customer 1011,2024-05-04,Female,Mumbai,Andheri,Organic
+1012,Customer 1012,2024-11-06,Male,Bengaluru,Whitefield,Social Media
+1013,Customer 1013,2023-08-25,Female,Hyderabad,Secunderabad,Referral
+1014,Customer 1014,2024-04-20,Male,Bengaluru,Whitefield,Organic
+1015,Customer 1015,2024-06-12,Male,Delhi,East Delhi,Paid Ads
+1016,Customer 1016,2023-11-29,Male,Mumbai,Andheri,Referral
+1017,Customer 1017,2024-01-17,Female,Delhi,East Delhi,Organic
+1018,Customer 1018,2023-12-02,Male,Bengaluru,Electronic City,Paid Ads
+1019,Customer 1019,2024-01-11,Male,Mumbai,Andheri,Organic
+1020,Customer 1020,2024-08-24,Male,Mumbai,Bandra,Referral
+1021,Customer 1021,2024-09-04,Female,Delhi,East Delhi,Organic
+1022,Customer 1022,2023-06-05,Male,Bengaluru,HSR Layout,Paid Ads
+1023,Customer 1023,2025-03-10,Other,Hyderabad,Secunderabad,Organic
+1024,Customer 1024,2024-04-01,Female,Chennai,OMR,Social Media
+1025,Customer 1025,2024-08-21,Male,Bengaluru,HSR Layout,Referral
+1026,Customer 1026,2024-07-09,Female,Mumbai,Thane,Organic
+1027,Customer 1027,2025-03-20,Male,Bengaluru,HSR Layout,Paid Ads
+1028,Customer 1028,2024-05-22,Female,Bengaluru,Whitefield,Referral
+1029,Customer 1029,2024-04-29,Male,Pune,Kothrud,Social Media
+1030,Customer 1030,2024-03-21,Female,Kolkata,Salt Lake,Organic
+1031,Customer 1031,2024-02-22,Male,Chennai,Velachery,Paid Ads
+1032,Customer 1032,2024-07-16,Female,Kolkata,Park Street,Organic
+1033,Customer 1033,2025-03-04,Female,Kolkata,Howrah,Paid Ads
+1034,Customer 1034,2024-07-02,Female,Pune,Koregaon Park,Social Media
+1035,Customer 1035,2023-06-24,Male,Hyderabad,Secunderabad,Organic
+1036,Customer 1036,2024-01-04,Female,Hyderabad,Hitech City,Social Media
+1037,Customer 1037,2023-09-18,Male,Delhi,East Delhi,Social Media
+1038,Customer 1038,2023-09-08,Male,Mumbai,Bandra,Social Media
+1039,Customer 1039,2023-07-07,Female,Mumbai,Andheri,Paid Ads
+1040,Customer 1040,2025-03-31,Female,Delhi,East Delhi,Social Media
+1041,Customer 1041,2023-08-01,Male,Kolkata,Park Street,Referral
+1042,Customer 1042,2023-11-03,Female,Bengaluru,Koramangala,Organic
+1043,Customer 1043,2024-02-18,Female,Hyderabad,Madhapur,Referral
+1044,Customer 1044,2024-07-11,Male,Kolkata,Gariahat,Paid Ads
+1045,Customer 1045,2023-07-18,Male,Kolkata,Salt Lake,Paid Ads
+1046,Customer 1046,2024-11-12,Female,Delhi,East Delhi,Social Media
+1047,Customer 1047,2024-07-12,Female,Mumbai,Navi Mumbai,Organic
+1048,Customer 1048,2024-02-05,Female,Delhi,Central Delhi,Organic
+1049,Customer 1049,2025-03-28,Male,Kolkata,Gariahat,Referral
+1050,Customer 1050,2024-06-23,Male,Hyderabad,Secunderabad,Paid Ads
+1051,Customer 1051,2024-07-04,Female,Chennai,OMR,Paid Ads
+1052,Customer 1052,2024-12-09,Female,Delhi,North Delhi,Referral
+1053,Customer 1053,2023-08-12,Female,Hyderabad,Gachibowli,Paid Ads
+1054,Customer 1054,2023-10-05,Male,Delhi,East Delhi,Referral
+1055,Customer 1055,2023-12-16,Female,Chennai,T Nagar,Organic
+1056,Customer 1056,2024-01-13,Female,Chennai,OMR,Referral
+1057,Customer 1057,2025-01-20,Female,Bengaluru,Koramangala,Referral
+1058,Customer 1058,2024-06-18,Male,Kolkata,Gariahat,Referral
+1059,Customer 1059,2024-04-21,Female,Bengaluru,HSR Layout,Organic
+1060,Customer 1060,2023-10-31,Female,Kolkata,Park Street,Social Media
+1061,Customer 1061,2024-11-19,Male,Bengaluru,HSR Layout,Referral
+1062,Customer 1062,2024-06-19,Female,Bengaluru,HSR Layout,Organic
+1063,Customer 1063,2023-10-26,Female,Mumbai,Thane,Social Media
+1064,Customer 1064,2024-09-12,Female,Kolkata,Howrah,Paid Ads
+1065,Customer 1065,2023-06-10,Male,Kolkata,Gariahat,Organic
+1066,Customer 1066,2024-09-12,Male,Pune,Viman Nagar,Organic
+1067,Customer 1067,2023-08-23,Male,Bengaluru,Electronic City,Paid Ads
+1068,Customer 1068,2024-06-04,Other,Mumbai,Navi Mumbai,Organic
+1069,Customer 1069,2025-02-28,Male,Mumbai,Bandra,Social Media
+1070,Customer 1070,2024-04-03,Male,Kolkata,Salt Lake,Social Media
+1071,Customer 1071,2024-03-26,Male,Delhi,East Delhi,Organic
+1072,Customer 1072,2023-07-13,Female,Bengaluru,Whitefield,Referral
+1073,Customer 1073,2025-04-13,Male,Bengaluru,HSR Layout,Paid Ads
+1074,Customer 1074,2024-11-23,Female,Chennai,Adyar,Organic
+1075,Customer 1075,2024-04-23,Male,Mumbai,Powai,Paid Ads
+1076,Customer 1076,2023-10-08,Male,Pune,Koregaon Park,Social Media
+1077,Customer 1077,2023-06-28,Female,Kolkata,Howrah,Referral
+1078,Customer 1078,2024-06-03,Male,Bengaluru,Whitefield,Referral
+1079,Customer 1079,2024-10-11,Male,Chennai,Adyar,Referral
+1080,Customer 1080,2023-11-30,Male,Delhi,East Delhi,Organic
+1081,Customer 1081,2023-12-20,Male,Mumbai,Navi Mumbai,Social Media
+1082,Customer 1082,2023-11-08,Female,Kolkata,Park Street,Social Media
+1083,Customer 1083,2025-04-21,Male,Chennai,T Nagar,Referral
+1084,Customer 1084,2023-06-28,Female,Chennai,OMR,Organic
+1085,Customer 1085,2023-08-12,Male,Kolkata,Salt Lake,Paid Ads
+1086,Customer 1086,2025-01-25,Male,Mumbai,Bandra,Organic
+1087,Customer 1087,2025-05-31,Male,Mumbai,Powai,Referral
+1088,Customer 1088,2025-05-13,Male,Chennai,Velachery,Paid Ads
+1089,Customer 1089,2024-03-02,Female,Hyderabad,Secunderabad,Paid Ads
+1090,Customer 1090,2025-02-12,Female,Bengaluru,Whitefield,Paid Ads
+1091,Customer 1091,2024-10-04,Male,Bengaluru,Electronic City,Paid Ads
+1092,Customer 1092,2023-10-08,Other,Pune,Kothrud,Organic
+1093,Customer 1093,2024-09-24,Female,Pune,Hinjewadi,Referral
+1094,Customer 1094,2024-12-30,Female,Bengaluru,Koramangala,Paid Ads
+1095,Customer 1095,2024-06-23,Female,Delhi,West Delhi,Referral
+1096,Customer 1096,2024-03-27,Male,Chennai,Velachery,Referral
+1097,Customer 1097,2023-07-15,Female,Bengaluru,Indiranagar,Social Media
+1098,Customer 1098,2023-08-13,Male,Mumbai,Navi Mumbai,Social Media
+1099,Customer 1099,2023-07-29,Male,Delhi,Central Delhi,Paid Ads
+1100,Customer 1100,2023-10-16,Male,Chennai,Velachery,Social Media
+1101,Customer 1101,2024-04-15,Female,Chennai,Adyar,Paid Ads
+1102,Customer 1102,2025-02-08,Male,Bengaluru,Indiranagar,Paid Ads
+1103,Customer 1103,2024-05-19,Male,Hyderabad,Madhapur,Organic
+1104,Customer 1104,2025-04-21,Female,Pune,Viman Nagar,Referral
+1105,Customer 1105,2025-02-16,Female,Chennai,T Nagar,Paid Ads
+1106,Customer 1106,2024-09-08,Female,Chennai,Velachery,Referral
+1107,Customer 1107,2023-11-16,Female,Kolkata,Park Street,Social Media
+1108,Customer 1108,2024-05-20,Male,Bengaluru,Koramangala,Paid Ads
+1109,Customer 1109,2025-03-09,Female,Mumbai,Powai,Social Media
+1110,Customer 1110,2023-09-11,Female,Chennai,Velachery,Organic
+1111,Customer 1111,2023-07-24,Female,Mumbai,Powai,Social Media
+1112,Customer 1112,2024-06-16,Male,Chennai,Velachery,Paid Ads
+1113,Customer 1113,2025-03-12,Female,Kolkata,Gariahat,Referral
+1114,Customer 1114,2024-09-06,Male,Bengaluru,Electronic City,Referral
+1115,Customer 1115,2024-07-25,Female,Hyderabad,Hitech City,Paid Ads
+1116,Customer 1116,2024-06-09,Male,Delhi,Central Delhi,Organic
+1117,Customer 1117,2025-04-13,Male,Hyderabad,Gachibowli,Organic
+1118,Customer 1118,2024-08-26,Female,Kolkata,Howrah,Referral
+1119,Customer 1119,2024-08-11,Female,Hyderabad,Hitech City,Social Media
+1120,Customer 1120,2024-03-20,Female,Mumbai,Bandra,Referral
+1121,Customer 1121,2024-04-07,Female,Hyderabad,Madhapur,Social Media
+1122,Customer 1122,2024-05-22,Female,Bengaluru,Whitefield,Organic
+1123,Customer 1123,2023-09-06,Female,Hyderabad,Secunderabad,Social Media
+1124,Customer 1124,2024-06-02,Female,Bengaluru,Koramangala,Organic
+1125,Customer 1125,2024-03-07,Male,Hyderabad,Secunderabad,Social Media
+1126,Customer 1126,2024-12-11,Female,Kolkata,Park Street,Social Media
+1127,Customer 1127,2025-03-30,Male,Hyderabad,Hitech City,Social Media
+1128,Customer 1128,2025-03-18,Female,Pune,Koregaon Park,Paid Ads
+1129,Customer 1129,2025-02-03,Female,Hyderabad,Madhapur,Paid Ads
+1130,Customer 1130,2023-07-23,Female,Hyderabad,Hitech City,Organic
+1131,Customer 1131,2023-08-03,Male,Pune,Viman Nagar,Referral
+1132,Customer 1132,2024-11-17,Male,Delhi,West Delhi,Social Media
+1133,Customer 1133,2024-11-20,Female,Delhi,South Delhi,Social Media
+1134,Customer 1134,2023-08-02,Female,Mumbai,Powai,Referral
+1135,Customer 1135,2024-04-08,Male,Mumbai,Andheri,Paid Ads
+1136,Customer 1136,2024-02-08,Female,Pune,Hinjewadi,Social Media
+1137,Customer 1137,2024-05-02,Male,Delhi,South Delhi,Referral
+1138,Customer 1138,2023-11-03,Female,Bengaluru,HSR Layout,Referral
+1139,Customer 1139,2023-07-14,Male,Hyderabad,Gachibowli,Referral
+1140,Customer 1140,2024-11-09,Female,Hyderabad,Secunderabad,Social Media
+1141,Customer 1141,2025-05-01,Female,Mumbai,Thane,Organic
+1142,Customer 1142,2024-03-24,Male,Mumbai,Bandra,Social Media
+1143,Customer 1143,2024-05-21,Other,Mumbai,Andheri,Social Media
+1144,Customer 1144,2023-10-31,Other,Delhi,West Delhi,Organic
+1145,Customer 1145,2023-08-05,Male,Hyderabad,Secunderabad,Organic
+1146,Customer 1146,2024-06-03,Male,Pune,Kothrud,Organic
+1147,Customer 1147,2024-10-10,Male,Chennai,Adyar,Organic
+1148,Customer 1148,2024-09-12,Female,Chennai,Adyar,Paid Ads
+1149,Customer 1149,2024-09-29,Male,Hyderabad,Madhapur,Organic
+1150,Customer 1150,2024-02-02,Female,Pune,Hinjewadi,Paid Ads
+1151,Customer 1151,2023-11-30,Other,Chennai,T Nagar,Social Media
+1152,Customer 1152,2025-04-27,Female,Chennai,Adyar,Referral
+1153,Customer 1153,2023-06-24,Other,Hyderabad,Hitech City,Referral
+1154,Customer 1154,2024-11-12,Other,Pune,Viman Nagar,Paid Ads
+1155,Customer 1155,2025-03-16,Female,Kolkata,Salt Lake,Organic
+1156,Customer 1156,2023-09-02,Male,Bengaluru,Koramangala,Organic
+1157,Customer 1157,2025-02-12,Other,Hyderabad,Gachibowli,Social Media
+1158,Customer 1158,2024-08-27,Female,Kolkata,Gariahat,Social Media
+1159,Customer 1159,2024-12-18,Male,Bengaluru,HSR Layout,Referral
+1160,Customer 1160,2023-07-28,Male,Mumbai,Andheri,Paid Ads
+1161,Customer 1161,2024-05-18,Female,Mumbai,Thane,Referral
+1162,Customer 1162,2023-11-25,Female,Mumbai,Andheri,Organic
+1163,Customer 1163,2025-02-12,Male,Chennai,Adyar,Organic
+1164,Customer 1164,2024-01-21,Female,Kolkata,Howrah,Social Media
+1165,Customer 1165,2024-05-14,Male,Delhi,Central Delhi,Organic
+1166,Customer 1166,2024-08-05,Female,Chennai,Adyar,Referral
+1167,Customer 1167,2024-01-19,Male,Chennai,T Nagar,Paid Ads
+1168,Customer 1168,2024-08-25,Other,Bengaluru,Indiranagar,Paid Ads
+1169,Customer 1169,2025-02-10,Female,Delhi,South Delhi,Social Media
+1170,Customer 1170,2024-03-23,Female,Kolkata,Salt Lake,Referral
+1171,Customer 1171,2025-02-22,Female,Bengaluru,Indiranagar,Paid Ads
+1172,Customer 1172,2025-02-17,Male,Chennai,Adyar,Organic
+1173,Customer 1173,2023-08-07,Female,Kolkata,Salt Lake,Organic
+1174,Customer 1174,2024-12-18,Female,Kolkata,Park Street,Social Media
+1175,Customer 1175,2023-12-29,Male,Bengaluru,Indiranagar,Paid Ads
+1176,Customer 1176,2023-08-14,Female,Pune,Hinjewadi,Organic
+1177,Customer 1177,2023-08-12,Male,Bengaluru,Indiranagar,Social Media
+1178,Customer 1178,2025-03-02,Female,Delhi,East Delhi,Paid Ads
+1179,Customer 1179,2024-09-07,Male,Hyderabad,Secunderabad,Paid Ads
+1180,Customer 1180,2023-11-20,Female,Chennai,OMR,Paid Ads
+1181,Customer 1181,2023-08-10,Female,Chennai,T Nagar,Organic
+1182,Customer 1182,2024-01-31,Male,Mumbai,Andheri,Social Media
+1183,Customer 1183,2024-11-29,Male,Delhi,East Delhi,Paid Ads
+1184,Customer 1184,2023-11-21,Male,Kolkata,Howrah,Social Media
+1185,Customer 1185,2023-10-28,Male,Pune,Koregaon Park,Referral
+1186,Customer 1186,2025-01-05,Female,Pune,Kothrud,Social Media
+1187,Customer 1187,2023-09-20,Male,Hyderabad,Madhapur,Organic
+1188,Customer 1188,2023-10-28,Female,Hyderabad,Madhapur,Organic
+1189,Customer 1189,2024-10-16,Male,Delhi,West Delhi,Referral
+1190,Customer 1190,2024-04-10,Female,Delhi,Central Delhi,Social Media
+1191,Customer 1191,2024-04-20,Male,Chennai,Velachery,Organic
+1192,Customer 1192,2023-06-17,Female,Hyderabad,Gachibowli,Paid Ads
+1193,Customer 1193,2024-01-19,Female,Bengaluru,HSR Layout,Social Media
+1194,Customer 1194,2023-07-11,Female,Kolkata,Salt Lake,Organic
+1195,Customer 1195,2025-03-11,Male,Chennai,T Nagar,Paid Ads
+1196,Customer 1196,2023-07-15,Female,Kolkata,Howrah,Social Media
+1197,Customer 1197,2024-06-01,Male,Delhi,East Delhi,Referral
+1198,Customer 1198,2024-01-07,Male,Mumbai,Powai,Referral
+1199,Customer 1199,2025-02-05,Male,Delhi,Central Delhi,Social Media
+1200,Customer 1200,2024-06-29,Female,Pune,Koregaon Park,Paid Ads
+1201,Customer 1201,2025-01-05,Male,Kolkata,Park Street,Organic
+1202,Customer 1202,2024-07-13,Male,Hyderabad,Madhapur,Paid Ads
+1203,Customer 1203,2025-05-19,Other,Delhi,East Delhi,Paid Ads
+1204,Customer 1204,2023-07-01,Female,Bengaluru,Koramangala,Paid Ads
+1205,Customer 1205,2023-06-12,Female,Chennai,Adyar,Organic
+1206,Customer 1206,2025-05-10,Female,Hyderabad,Madhapur,Organic
+1207,Customer 1207,2023-07-19,Female,Pune,Kothrud,Organic
+1208,Customer 1208,2024-07-16,Male,Kolkata,Gariahat,Social Media
+1209,Customer 1209,2024-11-09,Female,Chennai,OMR,Referral
+1210,Customer 1210,2023-08-07,Female,Bengaluru,Koramangala,Social Media
+1211,Customer 1211,2024-08-19,Other,Kolkata,Howrah,Referral
+1212,Customer 1212,2024-08-02,Other,Pune,Koregaon Park,Referral
+1213,Customer 1213,2024-05-27,Female,Chennai,OMR,Organic
+1214,Customer 1214,2025-02-08,Male,Delhi,North Delhi,Organic
+1215,Customer 1215,2023-12-07,Male,Bengaluru,Indiranagar,Referral
+1216,Customer 1216,2025-03-28,Male,Pune,Hinjewadi,Organic
+1217,Customer 1217,2023-11-30,Female,Delhi,North Delhi,Paid Ads
+1218,Customer 1218,2023-11-30,Male,Mumbai,Thane,Organic
+1219,Customer 1219,2023-08-23,Female,Bengaluru,Electronic City,Social Media
+1220,Customer 1220,2025-01-24,Female,Mumbai,Andheri,Paid Ads
+1221,Customer 1221,2024-09-17,Female,Mumbai,Thane,Social Media
+1222,Customer 1222,2024-11-19,Male,Chennai,Velachery,Organic
+1223,Customer 1223,2023-12-14,Male,Kolkata,Howrah,Organic
+1224,Customer 1224,2024-05-13,Female,Chennai,Adyar,Paid Ads
+1225,Customer 1225,2024-06-08,Male,Hyderabad,Gachibowli,Paid Ads
+1226,Customer 1226,2023-10-26,Male,Delhi,Central Delhi,Organic
+1227,Customer 1227,2024-11-25,Female,Pune,Koregaon Park,Paid Ads
+1228,Customer 1228,2024-08-15,Male,Pune,Viman Nagar,Social Media
+1229,Customer 1229,2025-03-10,Female,Chennai,T Nagar,Organic
+1230,Customer 1230,2023-12-21,Female,Hyderabad,Secunderabad,Paid Ads
+1231,Customer 1231,2023-08-14,Female,Hyderabad,Gachibowli,Referral
+1232,Customer 1232,2024-05-17,Female,Hyderabad,Secunderabad,Referral
+1233,Customer 1233,2024-11-25,Male,Hyderabad,Gachibowli,Social Media
+1234,Customer 1234,2024-02-13,Male,Hyderabad,Secunderabad,Referral
+1235,Customer 1235,2025-02-10,Male,Chennai,T Nagar,Social Media
+1236,Customer 1236,2024-08-15,Male,Mumbai,Navi Mumbai,Referral
+1237,Customer 1237,2024-10-29,Female,Chennai,Velachery,Social Media
+1238,Customer 1238,2023-11-12,Female,Chennai,T Nagar,Referral
+1239,Customer 1239,2024-10-13,Male,Chennai,Adyar,Referral
+1240,Customer 1240,2024-07-15,Female,Pune,Koregaon Park,Paid Ads
+1241,Customer 1241,2023-08-01,Other,Chennai,Velachery,Paid Ads
+1242,Customer 1242,2023-12-16,Male,Kolkata,Salt Lake,Organic
+1243,Customer 1243,2024-07-23,Female,Delhi,East Delhi,Social Media
+1244,Customer 1244,2025-05-01,Female,Delhi,South Delhi,Social Media
+1245,Customer 1245,2025-05-09,Female,Bengaluru,Whitefield,Referral
+1246,Customer 1246,2025-03-19,Female,Chennai,Velachery,Social Media
+1247,Customer 1247,2024-03-02,Female,Kolkata,Salt Lake,Referral
+1248,Customer 1248,2023-08-11,Female,Mumbai,Navi Mumbai,Organic
+1249,Customer 1249,2025-05-18,Male,Bengaluru,HSR Layout,Organic
+1250,Customer 1250,2025-04-09,Female,Pune,Viman Nagar,Paid Ads
+1251,Customer 1251,2025-05-10,Female,Mumbai,Navi Mumbai,Referral
+1252,Customer 1252,2024-09-14,Male,Chennai,Adyar,Paid Ads
+1253,Customer 1253,2024-02-16,Female,Hyderabad,Madhapur,Referral
+1254,Customer 1254,2025-05-20,Male,Pune,Kothrud,Organic
+1255,Customer 1255,2024-08-15,Male,Chennai,Velachery,Social Media
+1256,Customer 1256,2024-06-12,Female,Pune,Koregaon Park,Social Media
+1257,Customer 1257,2023-06-16,Male,Chennai,Velachery,Social Media
+1258,Customer 1258,2024-03-17,Male,Kolkata,Park Street,Referral
+1259,Customer 1259,2024-12-29,Female,Hyderabad,Gachibowli,Organic
+1260,Customer 1260,2023-06-06,Female,Mumbai,Bandra,Organic
+1261,Customer 1261,2024-06-23,Female,Hyderabad,Hitech City,Paid Ads
+1262,Customer 1262,2024-05-07,Male,Bengaluru,Electronic City,Referral
+1263,Customer 1263,2024-12-26,Female,Mumbai,Bandra,Referral
+1264,Customer 1264,2023-09-07,Male,Delhi,West Delhi,Paid Ads
+1265,Customer 1265,2023-08-12,Female,Chennai,T Nagar,Organic
+1266,Customer 1266,2023-07-28,Male,Mumbai,Powai,Organic
+1267,Customer 1267,2023-09-28,Female,Kolkata,Gariahat,Paid Ads
+1268,Customer 1268,2025-01-11,Male,Kolkata,Gariahat,Organic
+1269,Customer 1269,2024-11-15,Male,Kolkata,Gariahat,Social Media
+1270,Customer 1270,2023-07-11,Male,Mumbai,Navi Mumbai,Organic
+1271,Customer 1271,2023-07-04,Male,Kolkata,Park Street,Paid Ads
+1272,Customer 1272,2023-06-03,Female,Pune,Koregaon Park,Organic
+1273,Customer 1273,2024-12-08,Male,Bengaluru,Whitefield,Social Media
+1274,Customer 1274,2024-10-09,Female,Chennai,Velachery,Referral
+1275,Customer 1275,2023-12-13,Female,Bengaluru,Indiranagar,Social Media
+1276,Customer 1276,2024-03-06,Female,Kolkata,Howrah,Organic
+1277,Customer 1277,2023-10-04,Male,Delhi,West Delhi,Paid Ads
+1278,Customer 1278,2023-06-09,Female,Mumbai,Navi Mumbai,Social Media
+1279,Customer 1279,2025-02-20,Male,Delhi,West Delhi,Paid Ads
+1280,Customer 1280,2023-12-09,Female,Kolkata,Salt Lake,Paid Ads
+1281,Customer 1281,2024-06-11,Male,Bengaluru,Electronic City,Referral
+1282,Customer 1282,2023-08-13,Female,Delhi,Central Delhi,Referral
+1283,Customer 1283,2024-10-17,Male,Pune,Koregaon Park,Paid Ads
+1284,Customer 1284,2024-03-03,Female,Delhi,West Delhi,Social Media
+1285,Customer 1285,2024-11-03,Female,Bengaluru,Electronic City,Organic
+1286,Customer 1286,2025-02-21,Female,Delhi,North Delhi,Organic
+1287,Customer 1287,2023-12-21,Male,Chennai,Adyar,Social Media
+1288,Customer 1288,2024-12-17,Male,Chennai,T Nagar,Paid Ads
+1289,Customer 1289,2025-02-21,Female,Kolkata,Salt Lake,Social Media
+1290,Customer 1290,2024-12-10,Male,Pune,Koregaon Park,Organic
+1291,Customer 1291,2023-06-04,Female,Chennai,T Nagar,Organic
+1292,Customer 1292,2024-08-31,Female,Hyderabad,Secunderabad,Organic
+1293,Customer 1293,2024-07-10,Female,Delhi,South Delhi,Organic
+1294,Customer 1294,2025-01-03,Female,Mumbai,Powai,Organic
+1295,Customer 1295,2024-03-20,Female,Pune,Viman Nagar,Referral
+1296,Customer 1296,2023-12-16,Male,Hyderabad,Madhapur,Paid Ads
+1297,Customer 1297,2024-10-17,Female,Chennai,OMR,Paid Ads
+1298,Customer 1298,2025-04-13,Male,Bengaluru,Koramangala,Paid Ads
+1299,Customer 1299,2023-08-21,Female,Chennai,Adyar,Organic
+1300,Customer 1300,2025-04-09,Female,Chennai,Adyar,Organic
+1301,Customer 1301,2023-12-24,Male,Chennai,Adyar,Referral
+1302,Customer 1302,2024-04-29,Male,Pune,Kothrud,Referral
+1303,Customer 1303,2024-05-10,Male,Kolkata,Gariahat,Organic
+1304,Customer 1304,2025-05-15,Female,Bengaluru,HSR Layout,Paid Ads
+1305,Customer 1305,2023-12-13,Female,Hyderabad,Hitech City,Paid Ads
+1306,Customer 1306,2024-04-18,Other,Mumbai,Navi Mumbai,Social Media
+1307,Customer 1307,2024-11-25,Male,Mumbai,Thane,Referral
+1308,Customer 1308,2025-02-02,Female,Chennai,T Nagar,Referral
+1309,Customer 1309,2023-07-15,Male,Chennai,Velachery,Organic
+1310,Customer 1310,2023-10-06,Other,Pune,Viman Nagar,Organic
+1311,Customer 1311,2024-01-16,Male,Delhi,South Delhi,Paid Ads
+1312,Customer 1312,2023-07-03,Male,Pune,Kothrud,Referral
+1313,Customer 1313,2023-07-28,Male,Mumbai,Powai,Social Media
+1314,Customer 1314,2024-05-06,Male,Hyderabad,Gachibowli,Social Media
+1315,Customer 1315,2024-01-17,Male,Mumbai,Bandra,Referral
+1316,Customer 1316,2025-04-07,Female,Mumbai,Andheri,Social Media
+1317,Customer 1317,2023-09-02,Female,Chennai,Adyar,Paid Ads
+1318,Customer 1318,2023-06-12,Male,Chennai,Adyar,Referral
+1319,Customer 1319,2024-02-03,Female,Chennai,Adyar,Referral
+1320,Customer 1320,2024-10-16,Female,Delhi,North Delhi,Paid Ads
+1321,Customer 1321,2024-03-01,Female,Bengaluru,Indiranagar,Social Media
+1322,Customer 1322,2024-10-19,Female,Chennai,T Nagar,Organic
+1323,Customer 1323,2024-01-14,Male,Bengaluru,Electronic City,Organic
+1324,Customer 1324,2024-10-30,Male,Mumbai,Powai,Paid Ads
+1325,Customer 1325,2023-09-24,Male,Hyderabad,Secunderabad,Referral
+1326,Customer 1326,2024-01-29,Female,Chennai,T Nagar,Referral
+1327,Customer 1327,2024-10-18,Male,Kolkata,Gariahat,Paid Ads
+1328,Customer 1328,2025-03-14,Male,Mumbai,Andheri,Referral
+1329,Customer 1329,2024-10-26,Female,Mumbai,Bandra,Paid Ads
+1330,Customer 1330,2025-02-17,Female,Bengaluru,Indiranagar,Social Media
+1331,Customer 1331,2023-08-26,Female,Chennai,Velachery,Paid Ads
+1332,Customer 1332,2024-03-24,Female,Hyderabad,Madhapur,Referral
+1333,Customer 1333,2023-12-09,Female,Kolkata,Gariahat,Paid Ads
+1334,Customer 1334,2023-12-20,Male,Pune,Kothrud,Social Media
+1335,Customer 1335,2024-01-26,Female,Chennai,Adyar,Referral
+1336,Customer 1336,2024-03-17,Female,Kolkata,Park Street,Social Media
+1337,Customer 1337,2024-05-03,Male,Bengaluru,Koramangala,Organic
+1338,Customer 1338,2024-06-27,Male,Delhi,Central Delhi,Organic
+1339,Customer 1339,2023-07-09,Female,Kolkata,Howrah,Social Media
+1340,Customer 1340,2025-03-25,Male,Delhi,Central Delhi,Referral
+1341,Customer 1341,2024-04-15,Female,Pune,Koregaon Park,Social Media
+1342,Customer 1342,2025-04-13,Female,Bengaluru,HSR Layout,Social Media
+1343,Customer 1343,2025-02-19,Male,Kolkata,Gariahat,Social Media
+1344,Customer 1344,2023-07-02,Female,Hyderabad,Hitech City,Paid Ads
+1345,Customer 1345,2024-12-24,Female,Bengaluru,Electronic City,Organic
+1346,Customer 1346,2024-10-02,Female,Chennai,T Nagar,Social Media
+1347,Customer 1347,2025-05-27,Male,Kolkata,Park Street,Paid Ads
+1348,Customer 1348,2024-06-05,Male,Mumbai,Bandra,Social Media
+1349,Customer 1349,2023-11-13,Male,Chennai,OMR,Referral
+1350,Customer 1350,2024-04-05,Female,Delhi,North Delhi,Paid Ads
+1351,Customer 1351,2025-05-17,Male,Mumbai,Andheri,Referral
+1352,Customer 1352,2025-01-30,Female,Bengaluru,Whitefield,Organic
+1353,Customer 1353,2024-03-05,Female,Chennai,T Nagar,Referral
+1354,Customer 1354,2023-11-05,Female,Hyderabad,Madhapur,Paid Ads
+1355,Customer 1355,2024-11-03,Female,Delhi,South Delhi,Referral
+1356,Customer 1356,2024-08-03,Male,Delhi,Central Delhi,Referral
+1357,Customer 1357,2025-05-29,Male,Kolkata,Gariahat,Social Media
+1358,Customer 1358,2025-02-28,Male,Hyderabad,Madhapur,Referral
+1359,Customer 1359,2024-01-25,Male,Pune,Kothrud,Referral
+1360,Customer 1360,2024-12-22,Male,Hyderabad,Gachibowli,Paid Ads
+1361,Customer 1361,2024-07-05,Female,Bengaluru,Indiranagar,Paid Ads
+1362,Customer 1362,2023-12-26,Male,Kolkata,Howrah,Organic
+1363,Customer 1363,2024-01-26,Other,Pune,Viman Nagar,Paid Ads
+1364,Customer 1364,2024-09-02,Female,Mumbai,Bandra,Organic
+1365,Customer 1365,2024-09-22,Other,Pune,Hinjewadi,Social Media
+1366,Customer 1366,2023-07-03,Other,Mumbai,Bandra,Social Media
+1367,Customer 1367,2024-07-04,Male,Bengaluru,Electronic City,Organic
+1368,Customer 1368,2023-10-09,Female,Chennai,T Nagar,Paid Ads
+1369,Customer 1369,2024-07-25,Male,Kolkata,Gariahat,Organic
+1370,Customer 1370,2024-12-29,Male,Hyderabad,Madhapur,Paid Ads
+1371,Customer 1371,2023-09-20,Female,Mumbai,Navi Mumbai,Social Media
+1372,Customer 1372,2023-11-08,Male,Chennai,OMR,Organic
+1373,Customer 1373,2024-09-01,Other,Mumbai,Andheri,Social Media
+1374,Customer 1374,2024-09-29,Other,Pune,Viman Nagar,Social Media
+1375,Customer 1375,2024-09-27,Male,Chennai,Adyar,Social Media
+1376,Customer 1376,2024-06-04,Male,Delhi,North Delhi,Referral
+1377,Customer 1377,2024-06-14,Male,Mumbai,Navi Mumbai,Paid Ads
+1378,Customer 1378,2023-10-04,Female,Pune,Kothrud,Referral
+1379,Customer 1379,2025-04-23,Female,Delhi,North Delhi,Paid Ads
+1380,Customer 1380,2023-10-14,Female,Pune,Koregaon Park,Paid Ads
+1381,Customer 1381,2025-02-28,Male,Mumbai,Bandra,Paid Ads
+1382,Customer 1382,2025-01-15,Female,Pune,Viman Nagar,Social Media
+1383,Customer 1383,2023-12-01,Male,Pune,Hinjewadi,Social Media
+1384,Customer 1384,2024-01-06,Female,Chennai,Velachery,Paid Ads
+1385,Customer 1385,2024-09-19,Female,Pune,Kothrud,Social Media
+1386,Customer 1386,2023-06-04,Female,Hyderabad,Madhapur,Social Media
+1387,Customer 1387,2024-07-14,Female,Delhi,South Delhi,Social Media
+1388,Customer 1388,2023-10-07,Male,Pune,Koregaon Park,Social Media
+1389,Customer 1389,2024-12-28,Male,Pune,Kothrud,Social Media
+1390,Customer 1390,2024-03-07,Female,Hyderabad,Hitech City,Organic
+1391,Customer 1391,2024-12-10,Male,Delhi,East Delhi,Social Media
+1392,Customer 1392,2024-09-09,Male,Pune,Kothrud,Paid Ads
+1393,Customer 1393,2024-09-27,Female,Pune,Koregaon Park,Referral
+1394,Customer 1394,2024-01-19,Male,Kolkata,Salt Lake,Paid Ads
+1395,Customer 1395,2023-10-09,Female,Mumbai,Thane,Paid Ads
+1396,Customer 1396,2024-04-23,Female,Bengaluru,Electronic City,Organic
+1397,Customer 1397,2023-07-27,Male,Hyderabad,Gachibowli,Referral
+1398,Customer 1398,2024-06-07,Female,Hyderabad,Gachibowli,Organic
+1399,Customer 1399,2023-06-14,Female,Bengaluru,Electronic City,Paid Ads
+1400,Customer 1400,2023-07-17,Male,Bengaluru,Whitefield,Organic
+1401,Customer 1401,2023-07-09,Male,Chennai,Adyar,Organic
+1402,Customer 1402,2024-07-12,Female,Pune,Kothrud,Paid Ads
+1403,Customer 1403,2025-04-04,Female,Chennai,T Nagar,Referral
+1404,Customer 1404,2024-04-23,Male,Hyderabad,Secunderabad,Organic
+1405,Customer 1405,2024-09-08,Female,Mumbai,Thane,Referral
+1406,Customer 1406,2025-04-21,Male,Bengaluru,Electronic City,Paid Ads
+1407,Customer 1407,2024-11-20,Male,Pune,Hinjewadi,Referral
+1408,Customer 1408,2024-06-12,Female,Chennai,OMR,Social Media
+1409,Customer 1409,2023-10-30,Female,Hyderabad,Madhapur,Social Media
+1410,Customer 1410,2023-08-20,Female,Bengaluru,Electronic City,Paid Ads
+1411,Customer 1411,2023-08-10,Female,Bengaluru,Indiranagar,Referral
+1412,Customer 1412,2024-08-23,Female,Kolkata,Howrah,Social Media
+1413,Customer 1413,2025-02-12,Male,Kolkata,Salt Lake,Social Media
+1414,Customer 1414,2024-08-02,Female,Hyderabad,Gachibowli,Organic
+1415,Customer 1415,2024-12-29,Female,Mumbai,Navi Mumbai,Paid Ads
+1416,Customer 1416,2024-04-22,Female,Kolkata,Gariahat,Organic
+1417,Customer 1417,2025-03-09,Male,Mumbai,Thane,Organic
+1418,Customer 1418,2023-09-12,Male,Kolkata,Salt Lake,Social Media
+1419,Customer 1419,2023-11-26,Male,Hyderabad,Madhapur,Organic
+1420,Customer 1420,2025-02-09,Female,Delhi,West Delhi,Social Media
+1421,Customer 1421,2024-01-24,Male,Bengaluru,Koramangala,Organic
+1422,Customer 1422,2024-09-03,Female,Chennai,OMR,Paid Ads
+1423,Customer 1423,2023-06-25,Male,Pune,Hinjewadi,Organic
+1424,Customer 1424,2024-08-22,Female,Kolkata,Park Street,Paid Ads
+1425,Customer 1425,2024-11-24,Female,Hyderabad,Hitech City,Social Media
+1426,Customer 1426,2023-12-13,Male,Kolkata,Gariahat,Social Media
+1427,Customer 1427,2025-05-28,Male,Delhi,Central Delhi,Social Media
+1428,Customer 1428,2024-03-25,Female,Pune,Viman Nagar,Organic
+1429,Customer 1429,2024-09-26,Male,Bengaluru,Whitefield,Organic
+1430,Customer 1430,2023-10-29,Male,Mumbai,Andheri,Referral
+1431,Customer 1431,2024-12-02,Female,Kolkata,Howrah,Referral
+1432,Customer 1432,2024-01-09,Male,Chennai,OMR,Paid Ads
+1433,Customer 1433,2023-11-13,Male,Pune,Viman Nagar,Organic
+1434,Customer 1434,2023-08-21,Male,Chennai,Adyar,Organic
+1435,Customer 1435,2023-09-25,Male,Pune,Hinjewadi,Referral
+1436,Customer 1436,2024-07-19,Male,Bengaluru,Indiranagar,Social Media
+1437,Customer 1437,2024-05-13,Male,Pune,Viman Nagar,Paid Ads
+1438,Customer 1438,2025-04-24,Female,Hyderabad,Hitech City,Referral
+1439,Customer 1439,2024-04-07,Female,Mumbai,Thane,Organic
+1440,Customer 1440,2024-06-23,Female,Pune,Kothrud,Referral
+1441,Customer 1441,2023-12-07,Male,Bengaluru,Koramangala,Referral
+1442,Customer 1442,2023-12-12,Male,Pune,Hinjewadi,Paid Ads
+1443,Customer 1443,2024-11-07,Male,Hyderabad,Madhapur,Social Media
+1444,Customer 1444,2024-01-22,Female,Kolkata,Gariahat,Paid Ads
+1445,Customer 1445,2023-11-28,Male,Chennai,OMR,Organic
+1446,Customer 1446,2025-05-10,Male,Hyderabad,Hitech City,Referral
+1447,Customer 1447,2023-08-10,Male,Delhi,East Delhi,Social Media
+1448,Customer 1448,2024-09-02,Male,Chennai,T Nagar,Referral
+1449,Customer 1449,2024-11-11,Male,Hyderabad,Secunderabad,Organic
+1450,Customer 1450,2024-12-21,Female,Chennai,Velachery,Social Media
+1451,Customer 1451,2023-12-28,Male,Bengaluru,Koramangala,Paid Ads
+1452,Customer 1452,2024-02-07,Male,Chennai,Velachery,Organic
+1453,Customer 1453,2024-01-13,Male,Pune,Viman Nagar,Paid Ads
+1454,Customer 1454,2023-11-19,Male,Bengaluru,Indiranagar,Social Media
+1455,Customer 1455,2024-12-30,Male,Pune,Hinjewadi,Social Media
+1456,Customer 1456,2025-02-19,Female,Chennai,T Nagar,Paid Ads
+1457,Customer 1457,2024-11-22,Female,Chennai,T Nagar,Social Media
+1458,Customer 1458,2025-03-12,Female,Chennai,T Nagar,Referral
+1459,Customer 1459,2025-03-05,Male,Mumbai,Bandra,Social Media
+1460,Customer 1460,2025-02-25,Male,Kolkata,Park Street,Referral
+1461,Customer 1461,2024-11-15,Female,Mumbai,Andheri,Organic
+1462,Customer 1462,2024-04-20,Male,Delhi,East Delhi,Organic
+1463,Customer 1463,2024-01-09,Female,Kolkata,Salt Lake,Paid Ads
+1464,Customer 1464,2023-10-17,Male,Bengaluru,Electronic City,Referral
+1465,Customer 1465,2023-07-21,Male,Hyderabad,Secunderabad,Paid Ads
+1466,Customer 1466,2025-01-11,Male,Mumbai,Navi Mumbai,Referral
+1467,Customer 1467,2024-06-26,Other,Hyderabad,Gachibowli,Social Media
+1468,Customer 1468,2024-01-03,Male,Delhi,Central Delhi,Paid Ads
+1469,Customer 1469,2023-11-18,Female,Hyderabad,Hitech City,Referral
+1470,Customer 1470,2024-12-08,Male,Hyderabad,Gachibowli,Paid Ads
+1471,Customer 1471,2024-11-21,Male,Delhi,Central Delhi,Paid Ads
+1472,Customer 1472,2024-02-13,Male,Bengaluru,Koramangala,Organic
+1473,Customer 1473,2023-12-05,Male,Chennai,T Nagar,Paid Ads
+1474,Customer 1474,2024-03-06,Male,Pune,Kothrud,Referral
+1475,Customer 1475,2025-04-19,Female,Bengaluru,Electronic City,Referral
+1476,Customer 1476,2024-01-30,Female,Mumbai,Navi Mumbai,Referral
+1477,Customer 1477,2024-09-04,Female,Mumbai,Powai,Paid Ads
+1478,Customer 1478,2023-06-04,Female,Pune,Hinjewadi,Referral
+1479,Customer 1479,2024-12-15,Male,Mumbai,Thane,Paid Ads
+1480,Customer 1480,2024-11-20,Male,Mumbai,Thane,Referral
+1481,Customer 1481,2024-06-30,Female,Bengaluru,HSR Layout,Referral
+1482,Customer 1482,2023-12-24,Other,Hyderabad,Gachibowli,Social Media
+1483,Customer 1483,2024-02-04,Other,Pune,Viman Nagar,Organic
+1484,Customer 1484,2023-10-18,Male,Chennai,Velachery,Social Media
+1485,Customer 1485,2024-02-29,Female,Pune,Koregaon Park,Paid Ads
+1486,Customer 1486,2025-02-26,Male,Mumbai,Bandra,Social Media
+1487,Customer 1487,2025-01-01,Male,Hyderabad,Hitech City,Social Media
+1488,Customer 1488,2025-05-10,Female,Hyderabad,Madhapur,Social Media
+1489,Customer 1489,2023-12-30,Male,Kolkata,Gariahat,Paid Ads
+1490,Customer 1490,2024-05-22,Female,Bengaluru,Indiranagar,Organic
+1491,Customer 1491,2023-10-15,Female,Hyderabad,Hitech City,Social Media
+1492,Customer 1492,2024-01-18,Female,Delhi,North Delhi,Referral
+1493,Customer 1493,2025-01-28,Male,Hyderabad,Hitech City,Paid Ads
+1494,Customer 1494,2025-05-20,Male,Chennai,Velachery,Referral
+1495,Customer 1495,2024-07-05,Male,Bengaluru,Indiranagar,Referral
+1496,Customer 1496,2025-01-12,Female,Bengaluru,Koramangala,Paid Ads
+1497,Customer 1497,2025-02-24,Male,Delhi,West Delhi,Social Media
+1498,Customer 1498,2025-03-24,Male,Pune,Viman Nagar,Referral
+1499,Customer 1499,2025-04-03,Male,Bengaluru,Indiranagar,Paid Ads
+1500,Customer 1500,2025-04-12,Male,Kolkata,Howrah,Organic
+1501,Customer 1501,2025-05-13,Female,Hyderabad,Secunderabad,Paid Ads
+1502,Customer 1502,2024-03-08,Male,Chennai,T Nagar,Social Media
+1503,Customer 1503,2023-07-23,Female,Chennai,Velachery,Paid Ads
+1504,Customer 1504,2025-01-11,Female,Chennai,OMR,Organic
+1505,Customer 1505,2024-05-06,Female,Delhi,North Delhi,Referral
+1506,Customer 1506,2023-12-23,Female,Mumbai,Powai,Referral
+1507,Customer 1507,2025-01-24,Female,Chennai,Velachery,Referral
+1508,Customer 1508,2024-04-23,Male,Pune,Koregaon Park,Referral
+1509,Customer 1509,2024-06-28,Female,Hyderabad,Secunderabad,Paid Ads
+1510,Customer 1510,2024-06-05,Other,Hyderabad,Gachibowli,Social Media
+1511,Customer 1511,2024-10-26,Male,Kolkata,Salt Lake,Social Media
+1512,Customer 1512,2024-11-11,Male,Chennai,T Nagar,Referral
+1513,Customer 1513,2023-12-31,Female,Chennai,Adyar,Social Media
+1514,Customer 1514,2024-04-15,Male,Mumbai,Thane,Organic
+1515,Customer 1515,2025-03-11,Female,Delhi,South Delhi,Paid Ads
+1516,Customer 1516,2024-04-02,Male,Pune,Kothrud,Organic
+1517,Customer 1517,2023-07-13,Male,Kolkata,Howrah,Organic
+1518,Customer 1518,2024-05-10,Male,Delhi,West Delhi,Social Media
+1519,Customer 1519,2024-06-21,Female,Delhi,East Delhi,Referral
+1520,Customer 1520,2024-01-04,Male,Mumbai,Bandra,Referral
+1521,Customer 1521,2023-10-24,Female,Hyderabad,Gachibowli,Social Media
+1522,Customer 1522,2024-12-29,Female,Pune,Viman Nagar,Organic
+1523,Customer 1523,2024-08-10,Male,Delhi,West Delhi,Referral
+1524,Customer 1524,2024-01-23,Other,Kolkata,Howrah,Paid Ads
+1525,Customer 1525,2023-11-26,Male,Kolkata,Gariahat,Paid Ads
+1526,Customer 1526,2025-02-13,Male,Mumbai,Navi Mumbai,Social Media
+1527,Customer 1527,2024-02-04,Female,Pune,Koregaon Park,Paid Ads
+1528,Customer 1528,2024-04-13,Female,Pune,Hinjewadi,Referral
+1529,Customer 1529,2025-01-18,Male,Hyderabad,Gachibowli,Organic
+1530,Customer 1530,2025-03-20,Female,Hyderabad,Secunderabad,Referral
+1531,Customer 1531,2023-11-19,Female,Hyderabad,Secunderabad,Social Media
+1532,Customer 1532,2024-03-15,Male,Bengaluru,Koramangala,Organic
+1533,Customer 1533,2024-01-10,Male,Pune,Viman Nagar,Referral
+1534,Customer 1534,2024-03-06,Female,Bengaluru,HSR Layout,Organic
+1535,Customer 1535,2024-12-29,Male,Chennai,OMR,Paid Ads
+1536,Customer 1536,2025-03-14,Male,Bengaluru,Koramangala,Paid Ads
+1537,Customer 1537,2023-11-19,Male,Kolkata,Gariahat,Social Media
+1538,Customer 1538,2024-09-26,Female,Kolkata,Salt Lake,Referral
+1539,Customer 1539,2023-09-30,Male,Mumbai,Thane,Paid Ads
+1540,Customer 1540,2024-08-21,Female,Hyderabad,Gachibowli,Social Media
+1541,Customer 1541,2024-08-04,Female,Chennai,OMR,Paid Ads
+1542,Customer 1542,2025-01-15,Male,Mumbai,Powai,Organic
+1543,Customer 1543,2023-08-21,Male,Hyderabad,Gachibowli,Referral
+1544,Customer 1544,2024-10-07,Female,Bengaluru,Electronic City,Referral
+1545,Customer 1545,2024-09-12,Other,Hyderabad,Gachibowli,Organic
+1546,Customer 1546,2023-08-14,Male,Mumbai,Bandra,Referral
+1547,Customer 1547,2025-04-08,Male,Delhi,East Delhi,Paid Ads
+1548,Customer 1548,2024-01-11,Male,Bengaluru,Electronic City,Paid Ads
+1549,Customer 1549,2024-04-18,Male,Mumbai,Powai,Organic
+1550,Customer 1550,2024-09-03,Female,Mumbai,Andheri,Organic
+1551,Customer 1551,2024-05-18,Female,Mumbai,Andheri,Referral
+1552,Customer 1552,2024-09-26,Male,Bengaluru,Whitefield,Paid Ads
+1553,Customer 1553,2025-04-19,Female,Chennai,Adyar,Social Media
+1554,Customer 1554,2024-12-13,Female,Delhi,North Delhi,Organic
+1555,Customer 1555,2024-01-25,Male,Hyderabad,Gachibowli,Referral
+1556,Customer 1556,2024-05-28,Female,Hyderabad,Secunderabad,Paid Ads
+1557,Customer 1557,2025-02-10,Female,Bengaluru,HSR Layout,Organic
+1558,Customer 1558,2025-04-15,Male,Bengaluru,Koramangala,Social Media
+1559,Customer 1559,2024-05-31,Male,Delhi,West Delhi,Paid Ads
+1560,Customer 1560,2024-08-09,Male,Delhi,Central Delhi,Paid Ads
+1561,Customer 1561,2024-07-22,Female,Mumbai,Bandra,Referral
+1562,Customer 1562,2023-12-21,Male,Kolkata,Howrah,Organic
+1563,Customer 1563,2024-08-01,Male,Delhi,North Delhi,Paid Ads
+1564,Customer 1564,2024-06-28,Female,Kolkata,Howrah,Social Media
+1565,Customer 1565,2024-08-30,Male,Chennai,Adyar,Social Media
+1566,Customer 1566,2024-07-17,Female,Hyderabad,Hitech City,Social Media
+1567,Customer 1567,2023-07-16,Male,Hyderabad,Madhapur,Referral
+1568,Customer 1568,2023-10-07,Female,Bengaluru,Whitefield,Organic
+1569,Customer 1569,2023-07-11,Female,Chennai,Adyar,Referral
+1570,Customer 1570,2023-06-11,Female,Hyderabad,Secunderabad,Social Media
+1571,Customer 1571,2024-05-07,Female,Bengaluru,Koramangala,Social Media
+1572,Customer 1572,2024-08-10,Male,Delhi,North Delhi,Paid Ads
+1573,Customer 1573,2023-07-08,Female,Bengaluru,Koramangala,Social Media
+1574,Customer 1574,2023-11-11,Female,Kolkata,Gariahat,Organic
+1575,Customer 1575,2024-03-13,Female,Hyderabad,Gachibowli,Organic
+1576,Customer 1576,2025-01-29,Female,Delhi,Central Delhi,Paid Ads
+1577,Customer 1577,2023-07-22,Male,Chennai,T Nagar,Referral
+1578,Customer 1578,2024-09-22,Male,Kolkata,Salt Lake,Social Media
+1579,Customer 1579,2024-07-01,Male,Mumbai,Thane,Organic
+1580,Customer 1580,2025-03-30,Male,Chennai,Velachery,Organic
+1581,Customer 1581,2025-01-13,Female,Delhi,West Delhi,Social Media
+1582,Customer 1582,2024-11-08,Male,Chennai,Adyar,Social Media
+1583,Customer 1583,2024-09-18,Male,Hyderabad,Gachibowli,Referral
+1584,Customer 1584,2025-03-05,Female,Pune,Hinjewadi,Paid Ads
+1585,Customer 1585,2024-11-06,Male,Chennai,T Nagar,Organic
+1586,Customer 1586,2025-05-29,Male,Chennai,OMR,Referral
+1587,Customer 1587,2025-01-31,Male,Chennai,T Nagar,Referral
+1588,Customer 1588,2025-04-24,Male,Delhi,East Delhi,Paid Ads
+1589,Customer 1589,2023-08-26,Female,Pune,Hinjewadi,Paid Ads
+1590,Customer 1590,2025-05-11,Female,Mumbai,Navi Mumbai,Social Media
+1591,Customer 1591,2023-09-19,Female,Pune,Hinjewadi,Referral
+1592,Customer 1592,2023-10-15,Male,Chennai,OMR,Referral
+1593,Customer 1593,2025-03-24,Male,Kolkata,Park Street,Organic
+1594,Customer 1594,2025-01-12,Male,Pune,Viman Nagar,Paid Ads
+1595,Customer 1595,2024-07-24,Female,Bengaluru,Indiranagar,Referral
+1596,Customer 1596,2023-08-06,Male,Hyderabad,Hitech City,Paid Ads
+1597,Customer 1597,2024-07-17,Male,Chennai,T Nagar,Organic
+1598,Customer 1598,2024-12-30,Female,Pune,Hinjewadi,Social Media
+1599,Customer 1599,2023-12-05,Female,Bengaluru,Koramangala,Paid Ads
+1600,Customer 1600,2024-05-08,Male,Mumbai,Navi Mumbai,Paid Ads
+1601,Customer 1601,2024-12-06,Female,Kolkata,Park Street,Referral
+1602,Customer 1602,2025-02-24,Male,Bengaluru,HSR Layout,Referral
+1603,Customer 1603,2025-01-15,Male,Delhi,South Delhi,Organic
+1604,Customer 1604,2025-02-12,Female,Delhi,North Delhi,Social Media
+1605,Customer 1605,2023-08-09,Female,Kolkata,Salt Lake,Social Media
+1606,Customer 1606,2024-09-13,Female,Delhi,East Delhi,Social Media
+1607,Customer 1607,2024-02-22,Male,Delhi,South Delhi,Paid Ads
+1608,Customer 1608,2024-04-13,Male,Chennai,OMR,Referral
+1609,Customer 1609,2023-06-06,Male,Delhi,West Delhi,Social Media
+1610,Customer 1610,2024-10-05,Female,Pune,Kothrud,Organic
+1611,Customer 1611,2023-08-18,Female,Mumbai,Thane,Organic
+1612,Customer 1612,2024-05-25,Male,Hyderabad,Hitech City,Referral
+1613,Customer 1613,2025-04-17,Male,Pune,Koregaon Park,Referral
+1614,Customer 1614,2023-09-24,Female,Kolkata,Salt Lake,Referral
+1615,Customer 1615,2024-02-02,Female,Pune,Kothrud,Organic
+1616,Customer 1616,2025-05-14,Male,Kolkata,Gariahat,Organic
+1617,Customer 1617,2024-08-16,Male,Mumbai,Navi Mumbai,Organic
+1618,Customer 1618,2023-09-02,Male,Delhi,North Delhi,Paid Ads
+1619,Customer 1619,2024-01-19,Male,Mumbai,Bandra,Social Media
+1620,Customer 1620,2023-08-21,Female,Pune,Viman Nagar,Paid Ads
+1621,Customer 1621,2025-02-06,Male,Chennai,Adyar,Referral
+1622,Customer 1622,2023-06-19,Male,Chennai,OMR,Paid Ads
+1623,Customer 1623,2025-05-21,Male,Delhi,North Delhi,Social Media
+1624,Customer 1624,2024-09-27,Male,Pune,Koregaon Park,Referral
+1625,Customer 1625,2025-01-25,Male,Chennai,T Nagar,Paid Ads
+1626,Customer 1626,2024-05-15,Other,Bengaluru,Indiranagar,Referral
+1627,Customer 1627,2023-10-26,Other,Kolkata,Gariahat,Paid Ads
+1628,Customer 1628,2025-01-15,Male,Kolkata,Howrah,Referral
+1629,Customer 1629,2024-02-06,Female,Pune,Viman Nagar,Social Media
+1630,Customer 1630,2024-07-06,Male,Hyderabad,Secunderabad,Referral
+1631,Customer 1631,2024-03-09,Male,Hyderabad,Madhapur,Paid Ads
+1632,Customer 1632,2024-06-12,Male,Delhi,South Delhi,Referral
+1633,Customer 1633,2025-02-28,Female,Pune,Kothrud,Social Media
+1634,Customer 1634,2024-11-08,Female,Bengaluru,Koramangala,Referral
+1635,Customer 1635,2024-09-29,Male,Mumbai,Bandra,Referral
+1636,Customer 1636,2024-08-10,Male,Delhi,West Delhi,Social Media
+1637,Customer 1637,2024-08-23,Female,Delhi,South Delhi,Paid Ads
+1638,Customer 1638,2024-09-05,Male,Bengaluru,Whitefield,Social Media
+1639,Customer 1639,2024-07-31,Female,Bengaluru,Indiranagar,Social Media
+1640,Customer 1640,2024-07-22,Female,Mumbai,Powai,Referral
+1641,Customer 1641,2024-11-20,Male,Delhi,Central Delhi,Paid Ads
+1642,Customer 1642,2023-12-20,Female,Pune,Viman Nagar,Organic
+1643,Customer 1643,2024-09-23,Male,Chennai,Velachery,Paid Ads
+1644,Customer 1644,2024-11-06,Female,Mumbai,Thane,Organic
+1645,Customer 1645,2024-04-11,Female,Pune,Hinjewadi,Organic
+1646,Customer 1646,2025-01-08,Male,Chennai,OMR,Organic
+1647,Customer 1647,2023-08-03,Female,Kolkata,Salt Lake,Referral
+1648,Customer 1648,2025-02-28,Female,Bengaluru,HSR Layout,Paid Ads
+1649,Customer 1649,2024-06-30,Male,Kolkata,Salt Lake,Social Media
+1650,Customer 1650,2024-06-02,Male,Chennai,Adyar,Paid Ads
+1651,Customer 1651,2024-11-14,Male,Delhi,West Delhi,Organic
+1652,Customer 1652,2024-06-27,Female,Bengaluru,Electronic City,Social Media
+1653,Customer 1653,2024-03-29,Male,Bengaluru,Electronic City,Social Media
+1654,Customer 1654,2025-01-13,Male,Mumbai,Andheri,Paid Ads
+1655,Customer 1655,2023-12-07,Female,Hyderabad,Hitech City,Social Media
+1656,Customer 1656,2023-08-13,Female,Hyderabad,Secunderabad,Paid Ads
+1657,Customer 1657,2023-11-19,Male,Mumbai,Bandra,Referral
+1658,Customer 1658,2023-08-23,Female,Delhi,East Delhi,Organic
+1659,Customer 1659,2023-06-16,Male,Pune,Koregaon Park,Referral
+1660,Customer 1660,2024-08-13,Female,Delhi,East Delhi,Paid Ads
+1661,Customer 1661,2025-02-05,Female,Kolkata,Park Street,Social Media
+1662,Customer 1662,2023-07-17,Male,Hyderabad,Gachibowli,Paid Ads
+1663,Customer 1663,2024-07-03,Female,Hyderabad,Gachibowli,Social Media
+1664,Customer 1664,2024-07-01,Male,Mumbai,Andheri,Referral
+1665,Customer 1665,2024-10-23,Female,Kolkata,Howrah,Referral
+1666,Customer 1666,2024-07-13,Male,Chennai,Adyar,Organic
+1667,Customer 1667,2023-07-08,Female,Chennai,OMR,Paid Ads
+1668,Customer 1668,2025-04-22,Male,Bengaluru,Indiranagar,Social Media
+1669,Customer 1669,2023-11-05,Male,Bengaluru,Indiranagar,Organic
+1670,Customer 1670,2023-11-07,Female,Kolkata,Gariahat,Social Media
+1671,Customer 1671,2025-01-30,Male,Bengaluru,Electronic City,Paid Ads
+1672,Customer 1672,2025-02-25,Male,Pune,Viman Nagar,Paid Ads
+1673,Customer 1673,2024-10-09,Female,Delhi,North Delhi,Social Media
+1674,Customer 1674,2024-09-18,Male,Chennai,Velachery,Social Media
+1675,Customer 1675,2024-06-18,Female,Kolkata,Salt Lake,Organic
+1676,Customer 1676,2024-02-05,Female,Chennai,Adyar,Social Media
+1677,Customer 1677,2023-06-13,Male,Pune,Viman Nagar,Referral
+1678,Customer 1678,2025-01-16,Male,Delhi,West Delhi,Organic
+1679,Customer 1679,2024-07-22,Female,Bengaluru,HSR Layout,Paid Ads
+1680,Customer 1680,2024-03-29,Male,Delhi,West Delhi,Social Media
+1681,Customer 1681,2024-02-07,Female,Chennai,T Nagar,Social Media
+1682,Customer 1682,2023-06-11,Male,Pune,Hinjewadi,Paid Ads
+1683,Customer 1683,2024-11-02,Female,Pune,Viman Nagar,Organic
+1684,Customer 1684,2023-12-08,Male,Hyderabad,Hitech City,Referral
+1685,Customer 1685,2025-03-01,Male,Mumbai,Andheri,Referral
+1686,Customer 1686,2024-10-24,Male,Mumbai,Navi Mumbai,Referral
+1687,Customer 1687,2024-03-16,Female,Delhi,East Delhi,Organic
+1688,Customer 1688,2023-06-05,Female,Delhi,East Delhi,Referral
+1689,Customer 1689,2023-11-03,Female,Chennai,Velachery,Organic
+1690,Customer 1690,2024-01-28,Female,Delhi,West Delhi,Paid Ads
+1691,Customer 1691,2024-02-17,Female,Mumbai,Thane,Organic
+1692,Customer 1692,2023-07-20,Male,Bengaluru,HSR Layout,Organic
+1693,Customer 1693,2024-09-07,Male,Mumbai,Bandra,Paid Ads
+1694,Customer 1694,2023-12-29,Female,Pune,Kothrud,Organic
+1695,Customer 1695,2025-04-22,Female,Mumbai,Navi Mumbai,Referral
+1696,Customer 1696,2024-05-11,Male,Bengaluru,HSR Layout,Paid Ads
+1697,Customer 1697,2023-06-16,Female,Chennai,T Nagar,Organic
+1698,Customer 1698,2024-05-02,Male,Bengaluru,Indiranagar,Referral
+1699,Customer 1699,2023-10-17,Female,Chennai,Velachery,Social Media
+1700,Customer 1700,2024-12-05,Male,Pune,Hinjewadi,Organic
+1701,Customer 1701,2023-08-13,Other,Chennai,Velachery,Paid Ads
+1702,Customer 1702,2024-05-28,Male,Kolkata,Salt Lake,Referral
+1703,Customer 1703,2024-01-13,Male,Mumbai,Bandra,Referral
+1704,Customer 1704,2023-07-24,Female,Hyderabad,Gachibowli,Organic
+1705,Customer 1705,2025-04-01,Male,Chennai,OMR,Social Media
+1706,Customer 1706,2023-07-17,Female,Hyderabad,Gachibowli,Social Media
+1707,Customer 1707,2024-05-19,Male,Hyderabad,Secunderabad,Referral
+1708,Customer 1708,2023-10-24,Female,Hyderabad,Gachibowli,Social Media
+1709,Customer 1709,2024-11-06,Female,Chennai,T Nagar,Social Media
+1710,Customer 1710,2024-06-26,Female,Kolkata,Park Street,Referral
+1711,Customer 1711,2024-06-26,Male,Chennai,T Nagar,Paid Ads
+1712,Customer 1712,2023-12-09,Male,Kolkata,Park Street,Social Media
+1713,Customer 1713,2023-07-25,Male,Bengaluru,Koramangala,Organic
+1714,Customer 1714,2025-03-23,Male,Mumbai,Powai,Social Media
+1715,Customer 1715,2023-10-02,Male,Chennai,Adyar,Referral
+1716,Customer 1716,2024-01-01,Female,Hyderabad,Madhapur,Referral
+1717,Customer 1717,2023-07-12,Female,Hyderabad,Secunderabad,Social Media
+1718,Customer 1718,2024-10-27,Female,Kolkata,Park Street,Organic
+1719,Customer 1719,2023-07-03,Female,Mumbai,Bandra,Organic
+1720,Customer 1720,2024-03-03,Other,Kolkata,Gariahat,Social Media
+1721,Customer 1721,2024-10-14,Male,Pune,Viman Nagar,Social Media
+1722,Customer 1722,2024-09-10,Male,Chennai,Adyar,Referral
+1723,Customer 1723,2024-12-01,Female,Delhi,East Delhi,Social Media
+1724,Customer 1724,2023-11-29,Male,Pune,Koregaon Park,Referral
+1725,Customer 1725,2024-08-29,Female,Mumbai,Thane,Paid Ads
+1726,Customer 1726,2025-03-02,Female,Hyderabad,Gachibowli,Social Media
+1727,Customer 1727,2024-02-29,Male,Mumbai,Bandra,Organic
+1728,Customer 1728,2023-07-27,Female,Hyderabad,Hitech City,Referral
+1729,Customer 1729,2024-04-27,Male,Hyderabad,Gachibowli,Social Media
+1730,Customer 1730,2024-02-28,Male,Kolkata,Park Street,Organic
+1731,Customer 1731,2024-01-19,Male,Mumbai,Thane,Paid Ads
+1732,Customer 1732,2024-01-10,Female,Chennai,Velachery,Paid Ads
+1733,Customer 1733,2023-10-12,Male,Mumbai,Thane,Paid Ads
+1734,Customer 1734,2024-02-25,Female,Kolkata,Salt Lake,Paid Ads
+1735,Customer 1735,2024-03-25,Female,Chennai,Velachery,Paid Ads
+1736,Customer 1736,2023-07-07,Female,Pune,Kothrud,Organic
+1737,Customer 1737,2024-10-09,Male,Hyderabad,Madhapur,Organic
+1738,Customer 1738,2024-01-03,Female,Mumbai,Navi Mumbai,Paid Ads
+1739,Customer 1739,2025-01-27,Female,Chennai,Adyar,Paid Ads
+1740,Customer 1740,2023-12-12,Male,Pune,Kothrud,Social Media
+1741,Customer 1741,2023-12-08,Female,Bengaluru,HSR Layout,Paid Ads
+1742,Customer 1742,2023-07-19,Female,Bengaluru,Indiranagar,Paid Ads
+1743,Customer 1743,2023-11-06,Male,Mumbai,Thane,Referral
+1744,Customer 1744,2024-08-29,Female,Pune,Kothrud,Social Media
+1745,Customer 1745,2023-08-20,Female,Hyderabad,Madhapur,Organic
+1746,Customer 1746,2023-07-07,Female,Chennai,Adyar,Social Media
+1747,Customer 1747,2024-11-22,Male,Kolkata,Park Street,Paid Ads
+1748,Customer 1748,2023-11-16,Male,Hyderabad,Secunderabad,Paid Ads
+1749,Customer 1749,2023-11-17,Female,Delhi,North Delhi,Paid Ads
+1750,Customer 1750,2025-02-08,Male,Pune,Viman Nagar,Paid Ads
+1751,Customer 1751,2023-07-24,Female,Delhi,West Delhi,Referral
+1752,Customer 1752,2023-06-17,Female,Chennai,T Nagar,Organic
+1753,Customer 1753,2024-11-24,Female,Delhi,South Delhi,Paid Ads
+1754,Customer 1754,2023-11-12,Female,Chennai,Velachery,Organic
+1755,Customer 1755,2024-02-16,Female,Pune,Koregaon Park,Social Media
+1756,Customer 1756,2023-08-26,Male,Hyderabad,Madhapur,Organic
+1757,Customer 1757,2023-11-08,Female,Kolkata,Park Street,Referral
+1758,Customer 1758,2024-12-01,Male,Pune,Viman Nagar,Social Media
+1759,Customer 1759,2025-03-29,Female,Kolkata,Park Street,Social Media
+1760,Customer 1760,2024-11-20,Male,Kolkata,Salt Lake,Paid Ads
+1761,Customer 1761,2024-04-21,Male,Bengaluru,Indiranagar,Paid Ads
+1762,Customer 1762,2023-06-11,Female,Bengaluru,Whitefield,Organic
+1763,Customer 1763,2023-08-17,Male,Mumbai,Bandra,Organic
+1764,Customer 1764,2024-03-24,Female,Pune,Hinjewadi,Organic
+1765,Customer 1765,2024-05-22,Male,Hyderabad,Madhapur,Paid Ads
+1766,Customer 1766,2024-11-06,Female,Pune,Kothrud,Paid Ads
+1767,Customer 1767,2025-02-03,Female,Mumbai,Bandra,Paid Ads
+1768,Customer 1768,2024-12-17,Female,Hyderabad,Madhapur,Paid Ads
+1769,Customer 1769,2024-11-29,Other,Delhi,Central Delhi,Organic
+1770,Customer 1770,2025-05-19,Male,Mumbai,Navi Mumbai,Referral
+1771,Customer 1771,2024-03-20,Female,Pune,Viman Nagar,Organic
+1772,Customer 1772,2025-01-02,Female,Mumbai,Bandra,Organic
+1773,Customer 1773,2025-05-03,Male,Chennai,Velachery,Organic
+1774,Customer 1774,2023-06-11,Female,Mumbai,Andheri,Referral
+1775,Customer 1775,2023-09-12,Male,Bengaluru,Koramangala,Organic
+1776,Customer 1776,2023-12-30,Female,Delhi,East Delhi,Social Media
+1777,Customer 1777,2024-10-05,Female,Mumbai,Powai,Social Media
+1778,Customer 1778,2024-12-28,Female,Hyderabad,Secunderabad,Organic
+1779,Customer 1779,2025-03-05,Female,Delhi,West Delhi,Referral
+1780,Customer 1780,2025-03-20,Other,Bengaluru,HSR Layout,Organic
+1781,Customer 1781,2024-11-01,Male,Kolkata,Howrah,Organic
+1782,Customer 1782,2024-02-22,Female,Bengaluru,HSR Layout,Social Media
+1783,Customer 1783,2023-09-09,Female,Delhi,West Delhi,Referral
+1784,Customer 1784,2024-11-06,Female,Pune,Koregaon Park,Social Media
+1785,Customer 1785,2024-05-31,Male,Chennai,T Nagar,Organic
+1786,Customer 1786,2024-07-27,Other,Delhi,Central Delhi,Organic
+1787,Customer 1787,2025-03-29,Female,Hyderabad,Secunderabad,Paid Ads
+1788,Customer 1788,2024-01-24,Male,Pune,Hinjewadi,Referral
+1789,Customer 1789,2025-03-22,Male,Pune,Hinjewadi,Social Media
+1790,Customer 1790,2024-08-29,Male,Pune,Koregaon Park,Paid Ads
+1791,Customer 1791,2023-06-04,Male,Hyderabad,Gachibowli,Social Media
+1792,Customer 1792,2023-11-15,Male,Chennai,Velachery,Social Media
+1793,Customer 1793,2025-03-09,Other,Delhi,South Delhi,Organic
+1794,Customer 1794,2023-09-02,Male,Hyderabad,Hitech City,Social Media
+1795,Customer 1795,2023-10-26,Male,Kolkata,Howrah,Paid Ads
+1796,Customer 1796,2025-04-06,Male,Delhi,West Delhi,Referral
+1797,Customer 1797,2025-02-11,Female,Pune,Viman Nagar,Organic
+1798,Customer 1798,2025-02-28,Male,Chennai,T Nagar,Referral
+1799,Customer 1799,2025-04-02,Female,Bengaluru,Koramangala,Referral
+1800,Customer 1800,2023-12-09,Male,Bengaluru,Electronic City,Referral
+1801,Customer 1801,2023-09-03,Male,Kolkata,Salt Lake,Organic
+1802,Customer 1802,2025-04-26,Male,Chennai,Velachery,Referral
+1803,Customer 1803,2025-03-07,Female,Hyderabad,Hitech City,Social Media
+1804,Customer 1804,2024-06-28,Male,Mumbai,Powai,Referral
+1805,Customer 1805,2024-05-14,Other,Chennai,OMR,Paid Ads
+1806,Customer 1806,2024-05-21,Male,Kolkata,Salt Lake,Social Media
+1807,Customer 1807,2023-08-29,Female,Hyderabad,Gachibowli,Paid Ads
+1808,Customer 1808,2025-05-21,Female,Kolkata,Gariahat,Paid Ads
+1809,Customer 1809,2025-02-25,Male,Kolkata,Howrah,Organic
+1810,Customer 1810,2024-11-21,Female,Kolkata,Gariahat,Referral
+1811,Customer 1811,2024-04-03,Male,Pune,Kothrud,Social Media
+1812,Customer 1812,2024-06-11,Male,Pune,Hinjewadi,Referral
+1813,Customer 1813,2024-03-12,Female,Delhi,North Delhi,Referral
+1814,Customer 1814,2025-03-28,Male,Kolkata,Salt Lake,Referral
+1815,Customer 1815,2024-01-28,Female,Hyderabad,Gachibowli,Paid Ads
+1816,Customer 1816,2025-02-15,Male,Mumbai,Navi Mumbai,Organic
+1817,Customer 1817,2024-10-18,Male,Kolkata,Gariahat,Referral
+1818,Customer 1818,2025-03-04,Female,Chennai,Adyar,Referral
+1819,Customer 1819,2024-05-26,Other,Hyderabad,Hitech City,Paid Ads
+1820,Customer 1820,2024-04-28,Male,Mumbai,Powai,Paid Ads
+1821,Customer 1821,2024-01-15,Female,Kolkata,Gariahat,Social Media
+1822,Customer 1822,2025-04-30,Female,Pune,Hinjewadi,Social Media
+1823,Customer 1823,2023-08-11,Male,Delhi,West Delhi,Organic
+1824,Customer 1824,2025-03-11,Male,Kolkata,Park Street,Organic
+1825,Customer 1825,2024-11-12,Male,Hyderabad,Hitech City,Paid Ads
+1826,Customer 1826,2024-03-30,Female,Pune,Viman Nagar,Social Media
+1827,Customer 1827,2024-03-14,Male,Bengaluru,HSR Layout,Referral
+1828,Customer 1828,2024-10-17,Female,Kolkata,Gariahat,Social Media
+1829,Customer 1829,2024-03-19,Female,Kolkata,Salt Lake,Social Media
+1830,Customer 1830,2024-11-26,Female,Mumbai,Andheri,Paid Ads
+1831,Customer 1831,2024-01-30,Male,Hyderabad,Hitech City,Organic
+1832,Customer 1832,2024-10-15,Female,Bengaluru,Koramangala,Organic
+1833,Customer 1833,2023-10-21,Female,Bengaluru,HSR Layout,Organic
+1834,Customer 1834,2024-09-04,Female,Delhi,Central Delhi,Referral
+1835,Customer 1835,2025-01-20,Other,Delhi,Central Delhi,Referral
+1836,Customer 1836,2025-03-21,Male,Chennai,T Nagar,Referral
+1837,Customer 1837,2023-07-30,Male,Mumbai,Bandra,Referral
+1838,Customer 1838,2024-11-22,Female,Bengaluru,Electronic City,Referral
+1839,Customer 1839,2024-10-24,Male,Kolkata,Howrah,Organic
+1840,Customer 1840,2024-03-07,Male,Bengaluru,Whitefield,Social Media
+1841,Customer 1841,2024-10-07,Male,Bengaluru,Koramangala,Organic
+1842,Customer 1842,2023-06-12,Male,Pune,Kothrud,Social Media
+1843,Customer 1843,2024-04-05,Other,Pune,Hinjewadi,Referral
+1844,Customer 1844,2025-03-21,Male,Bengaluru,Whitefield,Referral
+1845,Customer 1845,2025-05-26,Male,Pune,Viman Nagar,Social Media
+1846,Customer 1846,2023-09-29,Female,Delhi,West Delhi,Referral
+1847,Customer 1847,2023-07-03,Male,Pune,Koregaon Park,Organic
+1848,Customer 1848,2024-06-17,Female,Mumbai,Andheri,Paid Ads
+1849,Customer 1849,2023-06-30,Other,Chennai,Adyar,Organic
+1850,Customer 1850,2025-01-25,Male,Hyderabad,Hitech City,Organic
+1851,Customer 1851,2023-06-07,Female,Hyderabad,Madhapur,Social Media
+1852,Customer 1852,2024-01-31,Female,Chennai,OMR,Referral
+1853,Customer 1853,2024-05-09,Male,Bengaluru,Indiranagar,Social Media
+1854,Customer 1854,2023-09-01,Female,Chennai,Adyar,Paid Ads
+1855,Customer 1855,2024-08-29,Male,Pune,Viman Nagar,Organic
+1856,Customer 1856,2024-06-29,Male,Kolkata,Howrah,Organic
+1857,Customer 1857,2024-02-06,Female,Hyderabad,Secunderabad,Paid Ads
+1858,Customer 1858,2024-09-01,Male,Hyderabad,Gachibowli,Social Media
+1859,Customer 1859,2024-07-08,Female,Mumbai,Navi Mumbai,Referral
+1860,Customer 1860,2025-02-12,Female,Bengaluru,HSR Layout,Social Media
+1861,Customer 1861,2024-07-08,Male,Chennai,Velachery,Referral
+1862,Customer 1862,2024-02-13,Female,Hyderabad,Madhapur,Organic
+1863,Customer 1863,2024-10-15,Male,Delhi,East Delhi,Organic
+1864,Customer 1864,2024-02-14,Female,Bengaluru,HSR Layout,Paid Ads
+1865,Customer 1865,2025-05-30,Female,Kolkata,Park Street,Referral
+1866,Customer 1866,2024-01-07,Female,Kolkata,Gariahat,Social Media
+1867,Customer 1867,2025-05-19,Female,Pune,Kothrud,Paid Ads
+1868,Customer 1868,2024-10-06,Female,Kolkata,Salt Lake,Referral
+1869,Customer 1869,2024-12-12,Male,Pune,Kothrud,Referral
+1870,Customer 1870,2023-08-10,Male,Pune,Koregaon Park,Paid Ads
+1871,Customer 1871,2024-02-20,Female,Pune,Koregaon Park,Social Media
+1872,Customer 1872,2024-11-12,Male,Pune,Viman Nagar,Social Media
+1873,Customer 1873,2024-06-02,Female,Hyderabad,Madhapur,Organic
+1874,Customer 1874,2024-02-16,Female,Bengaluru,Whitefield,Paid Ads
+1875,Customer 1875,2024-04-10,Female,Kolkata,Howrah,Referral
+1876,Customer 1876,2023-08-22,Female,Pune,Viman Nagar,Social Media
+1877,Customer 1877,2025-05-31,Female,Chennai,Adyar,Paid Ads
+1878,Customer 1878,2025-02-23,Male,Delhi,Central Delhi,Paid Ads
+1879,Customer 1879,2025-01-12,Female,Bengaluru,Electronic City,Organic
+1880,Customer 1880,2025-03-21,Female,Kolkata,Howrah,Social Media
+1881,Customer 1881,2024-09-06,Male,Bengaluru,HSR Layout,Organic
+1882,Customer 1882,2024-10-12,Male,Pune,Kothrud,Paid Ads
+1883,Customer 1883,2025-01-13,Female,Bengaluru,HSR Layout,Organic
+1884,Customer 1884,2024-09-01,Male,Delhi,North Delhi,Social Media
+1885,Customer 1885,2024-01-12,Female,Pune,Kothrud,Social Media
+1886,Customer 1886,2024-04-03,Female,Chennai,T Nagar,Paid Ads
+1887,Customer 1887,2024-05-07,Male,Pune,Hinjewadi,Paid Ads
+1888,Customer 1888,2023-09-26,Male,Pune,Koregaon Park,Social Media
+1889,Customer 1889,2024-11-21,Male,Mumbai,Powai,Referral
+1890,Customer 1890,2023-06-20,Female,Pune,Hinjewadi,Paid Ads
+1891,Customer 1891,2024-10-17,Male,Chennai,Velachery,Organic
+1892,Customer 1892,2025-01-03,Other,Pune,Kothrud,Paid Ads
+1893,Customer 1893,2025-03-30,Male,Kolkata,Park Street,Referral
+1894,Customer 1894,2023-08-03,Female,Delhi,West Delhi,Organic
+1895,Customer 1895,2025-05-26,Female,Delhi,Central Delhi,Referral
+1896,Customer 1896,2025-05-04,Female,Delhi,West Delhi,Organic
+1897,Customer 1897,2025-02-02,Female,Mumbai,Thane,Paid Ads
+1898,Customer 1898,2024-09-30,Female,Chennai,Velachery,Paid Ads
+1899,Customer 1899,2024-10-26,Female,Hyderabad,Madhapur,Paid Ads
+1900,Customer 1900,2023-07-26,Other,Pune,Viman Nagar,Social Media
+1901,Customer 1901,2024-07-28,Female,Hyderabad,Gachibowli,Social Media
+1902,Customer 1902,2025-02-16,Male,Pune,Koregaon Park,Referral
+1903,Customer 1903,2023-07-02,Other,Kolkata,Howrah,Social Media
+1904,Customer 1904,2024-11-27,Male,Bengaluru,Whitefield,Social Media
+1905,Customer 1905,2023-07-06,Male,Delhi,South Delhi,Organic
+1906,Customer 1906,2024-11-03,Other,Mumbai,Thane,Paid Ads
+1907,Customer 1907,2023-10-01,Female,Mumbai,Andheri,Social Media
+1908,Customer 1908,2024-02-15,Male,Chennai,OMR,Paid Ads
+1909,Customer 1909,2024-01-26,Male,Kolkata,Howrah,Social Media
+1910,Customer 1910,2024-05-30,Male,Hyderabad,Madhapur,Paid Ads
+1911,Customer 1911,2023-10-22,Male,Hyderabad,Secunderabad,Social Media
+1912,Customer 1912,2024-05-22,Other,Mumbai,Thane,Organic
+1913,Customer 1913,2023-12-12,Female,Pune,Koregaon Park,Social Media
+1914,Customer 1914,2023-10-31,Male,Chennai,Velachery,Paid Ads
+1915,Customer 1915,2024-01-08,Male,Pune,Hinjewadi,Organic
+1916,Customer 1916,2025-03-20,Female,Delhi,Central Delhi,Paid Ads
+1917,Customer 1917,2024-06-06,Female,Chennai,Velachery,Organic
+1918,Customer 1918,2024-12-31,Female,Pune,Koregaon Park,Organic
+1919,Customer 1919,2024-08-22,Male,Mumbai,Navi Mumbai,Referral
+1920,Customer 1920,2024-09-03,Male,Hyderabad,Hitech City,Organic
+1921,Customer 1921,2025-02-16,Female,Mumbai,Thane,Organic
+1922,Customer 1922,2024-08-23,Female,Chennai,Velachery,Organic
+1923,Customer 1923,2024-06-15,Male,Bengaluru,Electronic City,Organic
+1924,Customer 1924,2025-01-12,Female,Hyderabad,Madhapur,Paid Ads
+1925,Customer 1925,2025-03-06,Male,Pune,Hinjewadi,Paid Ads
+1926,Customer 1926,2024-05-29,Male,Bengaluru,Indiranagar,Referral
+1927,Customer 1927,2023-10-09,Female,Mumbai,Andheri,Referral
+1928,Customer 1928,2024-05-19,Female,Chennai,Velachery,Organic
+1929,Customer 1929,2024-03-25,Female,Chennai,OMR,Social Media
+1930,Customer 1930,2024-02-18,Female,Pune,Kothrud,Referral
+1931,Customer 1931,2024-02-06,Male,Kolkata,Salt Lake,Referral
+1932,Customer 1932,2025-01-09,Female,Hyderabad,Hitech City,Social Media
+1933,Customer 1933,2024-08-03,Female,Pune,Kothrud,Referral
+1934,Customer 1934,2025-03-23,Female,Bengaluru,Whitefield,Referral
+1935,Customer 1935,2025-02-09,Male,Bengaluru,Indiranagar,Organic
+1936,Customer 1936,2024-02-16,Female,Chennai,Adyar,Social Media
+1937,Customer 1937,2023-12-19,Male,Pune,Viman Nagar,Paid Ads
+1938,Customer 1938,2023-06-06,Female,Bengaluru,Whitefield,Referral
+1939,Customer 1939,2024-11-21,Female,Kolkata,Park Street,Paid Ads
+1940,Customer 1940,2024-10-02,Female,Mumbai,Navi Mumbai,Organic
+1941,Customer 1941,2024-12-03,Male,Bengaluru,Koramangala,Social Media
+1942,Customer 1942,2024-01-15,Male,Pune,Viman Nagar,Paid Ads
+1943,Customer 1943,2024-11-21,Male,Kolkata,Howrah,Paid Ads
+1944,Customer 1944,2024-10-07,Male,Mumbai,Thane,Social Media
+1945,Customer 1945,2023-11-30,Male,Mumbai,Navi Mumbai,Referral
+1946,Customer 1946,2024-10-07,Female,Delhi,West Delhi,Organic
+1947,Customer 1947,2024-11-16,Male,Delhi,North Delhi,Paid Ads
+1948,Customer 1948,2024-01-04,Female,Hyderabad,Madhapur,Referral
+1949,Customer 1949,2023-07-02,Female,Hyderabad,Gachibowli,Paid Ads
+1950,Customer 1950,2025-02-13,Male,Chennai,OMR,Paid Ads
+1951,Customer 1951,2023-10-08,Female,Bengaluru,Whitefield,Paid Ads
+1952,Customer 1952,2024-03-13,Male,Delhi,West Delhi,Paid Ads
+1953,Customer 1953,2023-10-04,Male,Hyderabad,Secunderabad,Organic
+1954,Customer 1954,2023-07-04,Male,Delhi,Central Delhi,Referral
+1955,Customer 1955,2024-01-23,Male,Kolkata,Howrah,Referral
+1956,Customer 1956,2023-12-06,Male,Bengaluru,Indiranagar,Referral
+1957,Customer 1957,2023-10-22,Female,Kolkata,Salt Lake,Referral
+1958,Customer 1958,2024-08-27,Male,Chennai,OMR,Paid Ads
+1959,Customer 1959,2025-02-10,Female,Kolkata,Park Street,Social Media
+1960,Customer 1960,2024-11-22,Female,Pune,Hinjewadi,Social Media
+1961,Customer 1961,2024-04-01,Female,Bengaluru,Electronic City,Organic
+1962,Customer 1962,2024-11-04,Male,Chennai,Adyar,Organic
+1963,Customer 1963,2023-09-29,Male,Delhi,East Delhi,Organic
+1964,Customer 1964,2025-05-24,Male,Pune,Kothrud,Paid Ads
+1965,Customer 1965,2023-12-20,Female,Bengaluru,Whitefield,Referral
+1966,Customer 1966,2023-08-18,Male,Bengaluru,Whitefield,Organic
+1967,Customer 1967,2024-01-22,Male,Delhi,Central Delhi,Organic
+1968,Customer 1968,2024-12-20,Male,Delhi,Central Delhi,Social Media
+1969,Customer 1969,2024-10-05,Male,Pune,Kothrud,Organic
+1970,Customer 1970,2023-08-16,Female,Delhi,Central Delhi,Social Media
+1971,Customer 1971,2024-09-05,Male,Hyderabad,Gachibowli,Organic
+1972,Customer 1972,2024-09-29,Male,Chennai,T Nagar,Referral
+1973,Customer 1973,2025-04-02,Male,Bengaluru,HSR Layout,Organic
+1974,Customer 1974,2023-11-09,Female,Chennai,OMR,Referral
+1975,Customer 1975,2024-10-27,Female,Kolkata,Howrah,Referral
+1976,Customer 1976,2025-05-27,Male,Bengaluru,Whitefield,Organic
+1977,Customer 1977,2024-05-07,Male,Bengaluru,Koramangala,Paid Ads
+1978,Customer 1978,2024-03-10,Female,Hyderabad,Secunderabad,Organic
+1979,Customer 1979,2024-05-09,Female,Bengaluru,Indiranagar,Social Media
+1980,Customer 1980,2023-12-23,Female,Hyderabad,Hitech City,Paid Ads
+1981,Customer 1981,2024-05-13,Male,Mumbai,Navi Mumbai,Paid Ads
+1982,Customer 1982,2024-04-28,Female,Mumbai,Thane,Organic
+1983,Customer 1983,2024-01-27,Male,Mumbai,Navi Mumbai,Paid Ads
+1984,Customer 1984,2024-04-08,Male,Mumbai,Navi Mumbai,Organic
+1985,Customer 1985,2023-09-28,Female,Hyderabad,Secunderabad,Organic
+1986,Customer 1986,2025-01-30,Female,Delhi,South Delhi,Organic
+1987,Customer 1987,2024-07-19,Male,Pune,Hinjewadi,Paid Ads
+1988,Customer 1988,2024-07-09,Male,Delhi,East Delhi,Social Media
+1989,Customer 1989,2025-03-28,Male,Chennai,Adyar,Organic
+1990,Customer 1990,2024-12-19,Male,Chennai,OMR,Referral
+1991,Customer 1991,2025-01-24,Female,Mumbai,Powai,Paid Ads
+1992,Customer 1992,2024-02-24,Male,Pune,Kothrud,Paid Ads
+1993,Customer 1993,2024-11-26,Male,Hyderabad,Madhapur,Paid Ads
+1994,Customer 1994,2024-11-23,Male,Kolkata,Salt Lake,Social Media
+1995,Customer 1995,2024-08-21,Female,Delhi,East Delhi,Paid Ads
+1996,Customer 1996,2024-11-19,Female,Delhi,Central Delhi,Referral
+1997,Customer 1997,2025-01-16,Female,Bengaluru,Indiranagar,Paid Ads
+1998,Customer 1998,2024-12-12,Male,Delhi,South Delhi,Referral
+1999,Customer 1999,2024-01-31,Male,Pune,Hinjewadi,Organic
+2000,Customer 2000,2023-10-27,Female,Kolkata,Howrah,Referral
+2001,Customer 2001,2024-05-26,Male,Chennai,T Nagar,Social Media
+2002,Customer 2002,2025-01-27,Female,Pune,Kothrud,Paid Ads
+2003,Customer 2003,2024-02-29,Male,Chennai,T Nagar,Referral
+2004,Customer 2004,2024-11-16,Female,Chennai,OMR,Organic
+2005,Customer 2005,2024-04-04,Female,Chennai,Velachery,Paid Ads
+2006,Customer 2006,2024-12-12,Female,Delhi,East Delhi,Social Media
+2007,Customer 2007,2023-08-08,Female,Mumbai,Andheri,Social Media
+2008,Customer 2008,2023-09-06,Male,Delhi,Central Delhi,Social Media
+2009,Customer 2009,2023-09-20,Male,Hyderabad,Madhapur,Organic
+2010,Customer 2010,2025-05-26,Male,Kolkata,Gariahat,Paid Ads
+2011,Customer 2011,2025-01-06,Male,Pune,Koregaon Park,Organic
+2012,Customer 2012,2023-10-02,Male,Delhi,West Delhi,Organic
+2013,Customer 2013,2024-11-11,Female,Bengaluru,Koramangala,Paid Ads
+2014,Customer 2014,2023-09-16,Female,Delhi,North Delhi,Paid Ads
+2015,Customer 2015,2024-03-11,Male,Chennai,T Nagar,Social Media
+2016,Customer 2016,2023-08-20,Female,Delhi,South Delhi,Social Media
+2017,Customer 2017,2025-02-25,Other,Hyderabad,Hitech City,Paid Ads
+2018,Customer 2018,2024-03-06,Male,Pune,Kothrud,Social Media
+2019,Customer 2019,2024-04-11,Female,Chennai,T Nagar,Organic
+2020,Customer 2020,2024-03-04,Male,Mumbai,Andheri,Referral
+2021,Customer 2021,2024-11-20,Male,Kolkata,Salt Lake,Paid Ads
+2022,Customer 2022,2024-01-03,Other,Pune,Viman Nagar,Organic
+2023,Customer 2023,2025-03-17,Female,Kolkata,Salt Lake,Organic
+2024,Customer 2024,2024-10-19,Male,Hyderabad,Gachibowli,Organic
+2025,Customer 2025,2024-09-23,Female,Kolkata,Park Street,Paid Ads
+2026,Customer 2026,2023-06-18,Female,Bengaluru,HSR Layout,Referral
+2027,Customer 2027,2024-12-08,Male,Delhi,Central Delhi,Social Media
+2028,Customer 2028,2024-09-18,Female,Bengaluru,Whitefield,Organic
+2029,Customer 2029,2024-08-24,Male,Pune,Viman Nagar,Referral
+2030,Customer 2030,2024-10-07,Female,Delhi,South Delhi,Referral
+2031,Customer 2031,2024-01-23,Female,Mumbai,Thane,Social Media
+2032,Customer 2032,2023-06-14,Female,Chennai,Velachery,Social Media
+2033,Customer 2033,2024-01-24,Male,Hyderabad,Gachibowli,Organic
+2034,Customer 2034,2024-05-22,Female,Mumbai,Andheri,Paid Ads
+2035,Customer 2035,2025-05-07,Female,Kolkata,Park Street,Organic
+2036,Customer 2036,2025-02-05,Male,Hyderabad,Hitech City,Organic
+2037,Customer 2037,2025-02-22,Male,Delhi,North Delhi,Organic
+2038,Customer 2038,2023-10-13,Female,Chennai,Velachery,Paid Ads
+2039,Customer 2039,2023-07-17,Male,Chennai,OMR,Social Media
+2040,Customer 2040,2023-06-11,Male,Mumbai,Bandra,Referral
+2041,Customer 2041,2023-11-03,Male,Pune,Koregaon Park,Paid Ads
+2042,Customer 2042,2025-01-31,Male,Mumbai,Bandra,Organic
+2043,Customer 2043,2025-04-08,Male,Pune,Viman Nagar,Paid Ads
+2044,Customer 2044,2024-10-03,Male,Pune,Kothrud,Referral
+2045,Customer 2045,2024-02-04,Male,Bengaluru,HSR Layout,Organic
+2046,Customer 2046,2023-08-15,Male,Pune,Viman Nagar,Social Media
+2047,Customer 2047,2024-06-02,Male,Delhi,Central Delhi,Organic
+2048,Customer 2048,2024-10-05,Male,Pune,Hinjewadi,Social Media
+2049,Customer 2049,2025-03-17,Male,Hyderabad,Gachibowli,Referral
+2050,Customer 2050,2023-08-29,Male,Delhi,North Delhi,Organic
+2051,Customer 2051,2024-08-22,Female,Kolkata,Park Street,Paid Ads
+2052,Customer 2052,2025-03-21,Female,Hyderabad,Gachibowli,Social Media
+2053,Customer 2053,2023-11-04,Male,Chennai,Adyar,Organic
+2054,Customer 2054,2025-05-20,Male,Chennai,Velachery,Referral
+2055,Customer 2055,2023-11-24,Female,Mumbai,Thane,Referral
+2056,Customer 2056,2024-09-21,Male,Bengaluru,Electronic City,Paid Ads
+2057,Customer 2057,2023-12-29,Female,Delhi,South Delhi,Organic
+2058,Customer 2058,2023-06-12,Male,Pune,Viman Nagar,Social Media
+2059,Customer 2059,2023-09-10,Male,Kolkata,Salt Lake,Paid Ads
+2060,Customer 2060,2025-03-17,Male,Pune,Kothrud,Organic
+2061,Customer 2061,2023-08-08,Male,Mumbai,Thane,Referral
+2062,Customer 2062,2025-03-22,Male,Hyderabad,Gachibowli,Referral
+2063,Customer 2063,2025-01-28,Female,Mumbai,Andheri,Referral
+2064,Customer 2064,2024-11-18,Male,Mumbai,Andheri,Social Media
+2065,Customer 2065,2024-03-27,Female,Chennai,OMR,Social Media
+2066,Customer 2066,2024-02-26,Female,Hyderabad,Gachibowli,Organic
+2067,Customer 2067,2025-03-29,Male,Hyderabad,Madhapur,Organic
+2068,Customer 2068,2024-07-25,Male,Hyderabad,Gachibowli,Social Media
+2069,Customer 2069,2023-08-11,Female,Pune,Koregaon Park,Social Media
+2070,Customer 2070,2024-12-19,Male,Hyderabad,Secunderabad,Social Media
+2071,Customer 2071,2024-10-20,Female,Hyderabad,Gachibowli,Referral
+2072,Customer 2072,2025-05-02,Male,Bengaluru,Whitefield,Referral
+2073,Customer 2073,2024-02-16,Female,Mumbai,Andheri,Organic
+2074,Customer 2074,2024-03-31,Female,Bengaluru,Whitefield,Organic
+2075,Customer 2075,2024-10-23,Male,Kolkata,Howrah,Paid Ads
+2076,Customer 2076,2023-07-10,Female,Hyderabad,Gachibowli,Referral
+2077,Customer 2077,2023-11-29,Male,Mumbai,Powai,Social Media
+2078,Customer 2078,2024-10-05,Female,Kolkata,Park Street,Social Media
+2079,Customer 2079,2025-01-04,Female,Delhi,East Delhi,Paid Ads
+2080,Customer 2080,2024-05-09,Male,Kolkata,Park Street,Paid Ads
+2081,Customer 2081,2024-01-01,Male,Kolkata,Howrah,Referral
+2082,Customer 2082,2023-09-02,Female,Delhi,East Delhi,Social Media
+2083,Customer 2083,2024-08-27,Female,Mumbai,Powai,Paid Ads
+2084,Customer 2084,2024-08-05,Male,Pune,Viman Nagar,Social Media
+2085,Customer 2085,2023-08-22,Male,Pune,Kothrud,Paid Ads
+2086,Customer 2086,2025-01-17,Male,Delhi,South Delhi,Paid Ads
+2087,Customer 2087,2024-01-28,Female,Chennai,Adyar,Paid Ads
+2088,Customer 2088,2024-05-13,Female,Pune,Koregaon Park,Paid Ads
+2089,Customer 2089,2024-11-24,Female,Kolkata,Salt Lake,Paid Ads
+2090,Customer 2090,2023-10-03,Male,Hyderabad,Gachibowli,Organic
+2091,Customer 2091,2024-11-26,Male,Pune,Kothrud,Paid Ads
+2092,Customer 2092,2025-01-22,Female,Mumbai,Bandra,Referral
+2093,Customer 2093,2025-01-08,Female,Bengaluru,Whitefield,Organic
+2094,Customer 2094,2024-04-04,Female,Delhi,East Delhi,Referral
+2095,Customer 2095,2025-02-14,Male,Mumbai,Thane,Organic
+2096,Customer 2096,2024-06-25,Female,Hyderabad,Madhapur,Social Media
+2097,Customer 2097,2024-04-17,Female,Kolkata,Howrah,Social Media
+2098,Customer 2098,2023-10-03,Male,Kolkata,Gariahat,Paid Ads
+2099,Customer 2099,2024-06-18,Male,Chennai,Adyar,Organic
+2100,Customer 2100,2023-11-20,Male,Hyderabad,Secunderabad,Organic
+2101,Customer 2101,2023-09-22,Female,Bengaluru,HSR Layout,Referral
+2102,Customer 2102,2023-09-22,Female,Chennai,T Nagar,Organic
+2103,Customer 2103,2025-02-13,Male,Pune,Hinjewadi,Organic
+2104,Customer 2104,2024-08-09,Male,Pune,Hinjewadi,Organic
+2105,Customer 2105,2024-07-05,Female,Delhi,East Delhi,Referral
+2106,Customer 2106,2025-05-20,Male,Hyderabad,Hitech City,Referral
+2107,Customer 2107,2024-12-01,Female,Bengaluru,Whitefield,Organic
+2108,Customer 2108,2023-08-15,Male,Pune,Viman Nagar,Social Media
+2109,Customer 2109,2023-07-08,Male,Bengaluru,Whitefield,Organic
+2110,Customer 2110,2023-07-24,Male,Chennai,OMR,Social Media
+2111,Customer 2111,2025-02-25,Male,Kolkata,Park Street,Referral
+2112,Customer 2112,2024-03-14,Female,Bengaluru,Indiranagar,Paid Ads
+2113,Customer 2113,2024-06-05,Female,Bengaluru,Koramangala,Organic
+2114,Customer 2114,2024-08-02,Male,Bengaluru,Indiranagar,Paid Ads
+2115,Customer 2115,2023-06-12,Male,Hyderabad,Hitech City,Paid Ads
+2116,Customer 2116,2024-11-28,Female,Chennai,Velachery,Paid Ads
+2117,Customer 2117,2024-06-03,Male,Pune,Hinjewadi,Organic
+2118,Customer 2118,2024-06-30,Male,Mumbai,Thane,Organic
+2119,Customer 2119,2024-02-13,Female,Delhi,East Delhi,Social Media
+2120,Customer 2120,2025-05-20,Male,Bengaluru,Koramangala,Organic
+2121,Customer 2121,2023-10-22,Male,Mumbai,Powai,Organic
+2122,Customer 2122,2023-12-27,Male,Chennai,T Nagar,Paid Ads
+2123,Customer 2123,2023-07-14,Male,Mumbai,Bandra,Organic
+2124,Customer 2124,2025-04-02,Female,Bengaluru,HSR Layout,Social Media
+2125,Customer 2125,2024-03-23,Female,Hyderabad,Secunderabad,Paid Ads
+2126,Customer 2126,2024-04-19,Male,Hyderabad,Hitech City,Referral
+2127,Customer 2127,2024-05-11,Female,Mumbai,Andheri,Organic
+2128,Customer 2128,2025-03-15,Male,Kolkata,Park Street,Referral
+2129,Customer 2129,2023-12-22,Female,Hyderabad,Secunderabad,Referral
+2130,Customer 2130,2024-12-27,Male,Hyderabad,Madhapur,Paid Ads
+2131,Customer 2131,2024-08-25,Male,Bengaluru,Electronic City,Social Media
+2132,Customer 2132,2023-09-18,Male,Kolkata,Gariahat,Social Media
+2133,Customer 2133,2023-08-13,Male,Kolkata,Gariahat,Social Media
+2134,Customer 2134,2023-07-28,Female,Hyderabad,Secunderabad,Referral
+2135,Customer 2135,2024-07-04,Male,Kolkata,Salt Lake,Social Media
+2136,Customer 2136,2024-03-04,Female,Bengaluru,Indiranagar,Paid Ads
+2137,Customer 2137,2024-04-07,Female,Mumbai,Navi Mumbai,Social Media
+2138,Customer 2138,2023-09-01,Female,Chennai,Velachery,Social Media
+2139,Customer 2139,2024-06-10,Female,Mumbai,Bandra,Social Media
+2140,Customer 2140,2025-02-25,Female,Mumbai,Andheri,Organic
+2141,Customer 2141,2024-12-19,Female,Bengaluru,Electronic City,Social Media
+2142,Customer 2142,2024-08-11,Male,Hyderabad,Secunderabad,Referral
+2143,Customer 2143,2024-02-07,Female,Mumbai,Bandra,Organic
+2144,Customer 2144,2024-04-27,Male,Chennai,Velachery,Referral
+2145,Customer 2145,2024-03-06,Male,Mumbai,Powai,Paid Ads
+2146,Customer 2146,2024-02-25,Male,Pune,Viman Nagar,Referral
+2147,Customer 2147,2023-06-14,Female,Delhi,South Delhi,Paid Ads
+2148,Customer 2148,2024-06-29,Female,Hyderabad,Gachibowli,Paid Ads
+2149,Customer 2149,2025-01-10,Male,Bengaluru,Whitefield,Organic
+2150,Customer 2150,2023-11-21,Male,Chennai,Velachery,Referral
+2151,Customer 2151,2023-11-23,Female,Hyderabad,Secunderabad,Social Media
+2152,Customer 2152,2024-07-26,Female,Kolkata,Howrah,Referral
+2153,Customer 2153,2023-09-30,Male,Chennai,Adyar,Paid Ads
+2154,Customer 2154,2024-05-25,Female,Delhi,North Delhi,Organic
+2155,Customer 2155,2024-11-07,Male,Bengaluru,Koramangala,Paid Ads
+2156,Customer 2156,2024-09-29,Female,Pune,Viman Nagar,Paid Ads
+2157,Customer 2157,2024-02-11,Male,Bengaluru,Koramangala,Referral
+2158,Customer 2158,2024-11-23,Female,Delhi,Central Delhi,Social Media
+2159,Customer 2159,2024-09-23,Female,Pune,Viman Nagar,Referral
+2160,Customer 2160,2023-08-26,Female,Mumbai,Andheri,Organic
+2161,Customer 2161,2024-07-10,Female,Pune,Koregaon Park,Organic
+2162,Customer 2162,2023-10-03,Male,Pune,Koregaon Park,Social Media
+2163,Customer 2163,2024-01-10,Male,Hyderabad,Secunderabad,Organic
+2164,Customer 2164,2025-03-21,Male,Chennai,Velachery,Paid Ads
+2165,Customer 2165,2023-06-08,Male,Mumbai,Thane,Referral
+2166,Customer 2166,2023-10-02,Male,Hyderabad,Secunderabad,Organic
+2167,Customer 2167,2023-11-13,Male,Bengaluru,Indiranagar,Referral
+2168,Customer 2168,2025-04-08,Female,Bengaluru,HSR Layout,Organic
+2169,Customer 2169,2023-09-29,Female,Mumbai,Thane,Paid Ads
+2170,Customer 2170,2024-11-20,Male,Kolkata,Howrah,Referral
+2171,Customer 2171,2024-03-21,Male,Mumbai,Thane,Paid Ads
+2172,Customer 2172,2023-06-26,Female,Mumbai,Navi Mumbai,Organic
+2173,Customer 2173,2024-07-10,Female,Mumbai,Bandra,Referral
+2174,Customer 2174,2025-02-09,Male,Hyderabad,Secunderabad,Organic
+2175,Customer 2175,2025-01-21,Female,Pune,Koregaon Park,Organic
+2176,Customer 2176,2023-06-23,Female,Delhi,East Delhi,Referral
+2177,Customer 2177,2024-11-09,Female,Hyderabad,Gachibowli,Paid Ads
+2178,Customer 2178,2024-08-29,Female,Chennai,T Nagar,Social Media
+2179,Customer 2179,2024-10-01,Male,Mumbai,Thane,Referral
+2180,Customer 2180,2025-02-19,Male,Pune,Koregaon Park,Organic
+2181,Customer 2181,2024-12-12,Male,Kolkata,Gariahat,Referral
+2182,Customer 2182,2024-11-25,Female,Hyderabad,Madhapur,Social Media
+2183,Customer 2183,2024-02-11,Male,Delhi,South Delhi,Social Media
+2184,Customer 2184,2025-04-19,Male,Bengaluru,Indiranagar,Paid Ads
+2185,Customer 2185,2024-11-13,Other,Delhi,West Delhi,Paid Ads
+2186,Customer 2186,2023-09-13,Male,Mumbai,Thane,Social Media
+2187,Customer 2187,2024-08-06,Male,Delhi,South Delhi,Referral
+2188,Customer 2188,2025-01-15,Male,Hyderabad,Hitech City,Referral
+2189,Customer 2189,2024-11-02,Female,Pune,Koregaon Park,Paid Ads
+2190,Customer 2190,2024-03-23,Female,Kolkata,Gariahat,Paid Ads
+2191,Customer 2191,2024-03-19,Male,Chennai,Adyar,Referral
+2192,Customer 2192,2023-08-05,Male,Pune,Kothrud,Referral
+2193,Customer 2193,2023-12-26,Male,Mumbai,Navi Mumbai,Organic
+2194,Customer 2194,2024-03-31,Male,Mumbai,Powai,Paid Ads
+2195,Customer 2195,2024-05-28,Female,Chennai,T Nagar,Referral
+2196,Customer 2196,2023-11-02,Other,Mumbai,Andheri,Referral
+2197,Customer 2197,2024-07-08,Female,Bengaluru,HSR Layout,Referral
+2198,Customer 2198,2024-05-21,Male,Delhi,West Delhi,Referral
+2199,Customer 2199,2024-06-07,Male,Pune,Kothrud,Social Media
+2200,Customer 2200,2023-08-05,Female,Kolkata,Park Street,Organic
+2201,Customer 2201,2023-08-19,Male,Pune,Viman Nagar,Referral
+2202,Customer 2202,2023-09-11,Female,Kolkata,Gariahat,Referral
+2203,Customer 2203,2023-10-10,Female,Bengaluru,Indiranagar,Organic
+2204,Customer 2204,2024-09-05,Female,Pune,Hinjewadi,Social Media
+2205,Customer 2205,2025-02-03,Male,Delhi,North Delhi,Referral
+2206,Customer 2206,2025-02-05,Female,Bengaluru,HSR Layout,Paid Ads
+2207,Customer 2207,2025-03-18,Female,Bengaluru,Whitefield,Organic
+2208,Customer 2208,2025-05-25,Male,Mumbai,Bandra,Social Media
+2209,Customer 2209,2023-12-26,Male,Kolkata,Park Street,Organic
+2210,Customer 2210,2024-10-29,Female,Hyderabad,Madhapur,Organic
+2211,Customer 2211,2024-01-20,Female,Delhi,North Delhi,Organic
+2212,Customer 2212,2024-05-30,Male,Hyderabad,Secunderabad,Referral
+2213,Customer 2213,2025-04-08,Male,Chennai,Velachery,Social Media
+2214,Customer 2214,2024-12-19,Male,Kolkata,Howrah,Referral
+2215,Customer 2215,2023-12-02,Female,Mumbai,Powai,Organic
+2216,Customer 2216,2024-09-01,Male,Chennai,Adyar,Social Media
+2217,Customer 2217,2024-04-13,Female,Mumbai,Bandra,Social Media
+2218,Customer 2218,2023-07-17,Male,Bengaluru,Whitefield,Social Media
+2219,Customer 2219,2024-10-27,Male,Mumbai,Andheri,Paid Ads
+2220,Customer 2220,2023-09-22,Female,Chennai,Adyar,Organic
+2221,Customer 2221,2024-12-02,Male,Delhi,East Delhi,Paid Ads
+2222,Customer 2222,2024-09-30,Male,Delhi,North Delhi,Organic
+2223,Customer 2223,2024-07-16,Female,Delhi,Central Delhi,Organic
+2224,Customer 2224,2024-01-28,Female,Hyderabad,Hitech City,Referral
+2225,Customer 2225,2023-06-10,Male,Delhi,South Delhi,Referral
+2226,Customer 2226,2024-07-06,Male,Chennai,Adyar,Organic
+2227,Customer 2227,2024-05-06,Female,Kolkata,Salt Lake,Social Media
+2228,Customer 2228,2024-07-30,Male,Pune,Viman Nagar,Social Media
+2229,Customer 2229,2023-07-29,Male,Chennai,Velachery,Organic
+2230,Customer 2230,2024-11-25,Male,Delhi,North Delhi,Referral
+2231,Customer 2231,2023-08-27,Male,Pune,Hinjewadi,Referral
+2232,Customer 2232,2024-09-14,Female,Mumbai,Navi Mumbai,Social Media
+2233,Customer 2233,2024-02-09,Male,Pune,Kothrud,Organic
+2234,Customer 2234,2024-11-24,Female,Kolkata,Salt Lake,Social Media
+2235,Customer 2235,2024-08-13,Female,Chennai,T Nagar,Referral
+2236,Customer 2236,2023-09-05,Female,Mumbai,Navi Mumbai,Organic
+2237,Customer 2237,2023-12-05,Female,Chennai,Adyar,Social Media
+2238,Customer 2238,2023-08-13,Male,Pune,Koregaon Park,Referral
+2239,Customer 2239,2024-04-14,Male,Chennai,T Nagar,Paid Ads
+2240,Customer 2240,2023-11-20,Female,Chennai,Adyar,Social Media
+2241,Customer 2241,2025-05-01,Female,Kolkata,Gariahat,Paid Ads
+2242,Customer 2242,2023-12-20,Female,Hyderabad,Gachibowli,Social Media
+2243,Customer 2243,2025-04-23,Female,Hyderabad,Hitech City,Referral
+2244,Customer 2244,2023-12-07,Male,Delhi,East Delhi,Organic
+2245,Customer 2245,2024-11-10,Female,Pune,Viman Nagar,Paid Ads
+2246,Customer 2246,2024-09-06,Female,Kolkata,Gariahat,Referral
+2247,Customer 2247,2023-12-19,Male,Pune,Kothrud,Organic
+2248,Customer 2248,2024-09-19,Female,Bengaluru,HSR Layout,Organic
+2249,Customer 2249,2024-09-17,Male,Hyderabad,Secunderabad,Paid Ads
+2250,Customer 2250,2023-10-11,Male,Pune,Hinjewadi,Paid Ads
+2251,Customer 2251,2024-05-07,Female,Mumbai,Navi Mumbai,Paid Ads
+2252,Customer 2252,2023-06-20,Female,Bengaluru,HSR Layout,Social Media
+2253,Customer 2253,2025-05-13,Female,Kolkata,Salt Lake,Paid Ads
+2254,Customer 2254,2023-10-03,Other,Chennai,Velachery,Social Media
+2255,Customer 2255,2023-12-07,Female,Delhi,East Delhi,Organic
+2256,Customer 2256,2025-04-29,Male,Hyderabad,Madhapur,Organic
+2257,Customer 2257,2023-12-25,Other,Delhi,North Delhi,Paid Ads
+2258,Customer 2258,2024-12-28,Male,Hyderabad,Hitech City,Social Media
+2259,Customer 2259,2024-09-28,Male,Delhi,West Delhi,Social Media
+2260,Customer 2260,2023-12-08,Male,Bengaluru,Whitefield,Paid Ads
+2261,Customer 2261,2023-06-30,Male,Delhi,North Delhi,Paid Ads
+2262,Customer 2262,2023-07-10,Male,Chennai,OMR,Referral
+2263,Customer 2263,2024-12-11,Male,Kolkata,Gariahat,Paid Ads
+2264,Customer 2264,2024-09-15,Male,Bengaluru,HSR Layout,Paid Ads
+2265,Customer 2265,2023-06-10,Male,Hyderabad,Secunderabad,Social Media
+2266,Customer 2266,2024-04-06,Female,Kolkata,Howrah,Organic
+2267,Customer 2267,2024-06-02,Male,Delhi,West Delhi,Paid Ads
+2268,Customer 2268,2024-05-19,Male,Hyderabad,Gachibowli,Social Media
+2269,Customer 2269,2023-06-10,Male,Delhi,South Delhi,Organic
+2270,Customer 2270,2025-02-23,Female,Kolkata,Salt Lake,Paid Ads
+2271,Customer 2271,2025-05-10,Male,Chennai,Adyar,Social Media
+2272,Customer 2272,2024-05-14,Female,Hyderabad,Secunderabad,Social Media
+2273,Customer 2273,2025-05-07,Male,Bengaluru,Electronic City,Organic
+2274,Customer 2274,2025-03-08,Male,Kolkata,Salt Lake,Paid Ads
+2275,Customer 2275,2025-01-08,Female,Kolkata,Howrah,Social Media
+2276,Customer 2276,2023-07-23,Female,Bengaluru,HSR Layout,Paid Ads
+2277,Customer 2277,2024-10-24,Male,Pune,Hinjewadi,Referral
+2278,Customer 2278,2024-03-25,Female,Kolkata,Salt Lake,Organic
+2279,Customer 2279,2024-03-29,Female,Hyderabad,Hitech City,Paid Ads
+2280,Customer 2280,2024-03-05,Female,Hyderabad,Secunderabad,Paid Ads
+2281,Customer 2281,2023-11-25,Male,Hyderabad,Madhapur,Organic
+2282,Customer 2282,2024-03-15,Male,Delhi,North Delhi,Referral
+2283,Customer 2283,2025-01-29,Male,Chennai,T Nagar,Paid Ads
+2284,Customer 2284,2024-06-27,Female,Hyderabad,Gachibowli,Referral
+2285,Customer 2285,2025-05-03,Male,Chennai,OMR,Paid Ads
+2286,Customer 2286,2023-12-31,Male,Kolkata,Salt Lake,Paid Ads
+2287,Customer 2287,2024-08-11,Female,Chennai,OMR,Paid Ads
+2288,Customer 2288,2025-01-05,Female,Pune,Viman Nagar,Organic
+2289,Customer 2289,2023-12-29,Female,Hyderabad,Secunderabad,Paid Ads
+2290,Customer 2290,2024-06-26,Male,Pune,Koregaon Park,Referral
+2291,Customer 2291,2023-07-11,Male,Kolkata,Gariahat,Referral
+2292,Customer 2292,2023-11-22,Female,Delhi,South Delhi,Organic
+2293,Customer 2293,2025-05-16,Female,Mumbai,Powai,Referral
+2294,Customer 2294,2024-01-22,Male,Kolkata,Salt Lake,Referral
+2295,Customer 2295,2024-07-02,Other,Hyderabad,Hitech City,Paid Ads
+2296,Customer 2296,2024-07-09,Male,Bengaluru,Indiranagar,Paid Ads
+2297,Customer 2297,2023-09-26,Female,Bengaluru,Koramangala,Social Media
+2298,Customer 2298,2024-04-19,Female,Mumbai,Bandra,Referral
+2299,Customer 2299,2024-03-30,Male,Pune,Kothrud,Organic
+2300,Customer 2300,2024-01-27,Female,Kolkata,Gariahat,Organic
+2301,Customer 2301,2023-06-20,Male,Bengaluru,Whitefield,Organic
+2302,Customer 2302,2024-07-30,Male,Pune,Hinjewadi,Organic
+2303,Customer 2303,2024-02-22,Female,Hyderabad,Madhapur,Paid Ads
+2304,Customer 2304,2024-01-24,Female,Bengaluru,Koramangala,Paid Ads
+2305,Customer 2305,2024-04-07,Male,Pune,Kothrud,Referral
+2306,Customer 2306,2024-12-12,Female,Hyderabad,Madhapur,Referral
+2307,Customer 2307,2024-03-31,Male,Pune,Kothrud,Paid Ads
+2308,Customer 2308,2024-11-23,Male,Delhi,North Delhi,Referral
+2309,Customer 2309,2023-08-13,Female,Hyderabad,Secunderabad,Social Media
+2310,Customer 2310,2024-07-17,Female,Pune,Hinjewadi,Referral
+2311,Customer 2311,2024-12-04,Male,Hyderabad,Gachibowli,Paid Ads
+2312,Customer 2312,2023-07-30,Male,Chennai,Adyar,Social Media
+2313,Customer 2313,2024-10-12,Female,Bengaluru,Indiranagar,Organic
+2314,Customer 2314,2024-02-06,Male,Bengaluru,Electronic City,Paid Ads
+2315,Customer 2315,2024-09-25,Male,Kolkata,Park Street,Organic
+2316,Customer 2316,2024-07-13,Other,Chennai,Adyar,Referral
+2317,Customer 2317,2023-12-31,Female,Bengaluru,Koramangala,Paid Ads
+2318,Customer 2318,2024-03-26,Male,Hyderabad,Gachibowli,Referral
+2319,Customer 2319,2024-03-29,Male,Kolkata,Salt Lake,Referral
+2320,Customer 2320,2023-12-12,Male,Pune,Hinjewadi,Paid Ads
+2321,Customer 2321,2024-05-30,Male,Chennai,Velachery,Social Media
+2322,Customer 2322,2024-05-27,Male,Hyderabad,Madhapur,Referral
+2323,Customer 2323,2023-10-22,Male,Pune,Koregaon Park,Social Media
+2324,Customer 2324,2025-02-07,Female,Delhi,Central Delhi,Social Media
+2325,Customer 2325,2024-03-19,Female,Pune,Koregaon Park,Social Media
+2326,Customer 2326,2025-04-27,Male,Chennai,OMR,Referral
+2327,Customer 2327,2023-12-11,Female,Chennai,OMR,Organic
+2328,Customer 2328,2024-05-23,Female,Pune,Viman Nagar,Referral
+2329,Customer 2329,2023-06-04,Male,Hyderabad,Gachibowli,Social Media
+2330,Customer 2330,2023-11-16,Female,Mumbai,Powai,Paid Ads
+2331,Customer 2331,2023-06-06,Male,Hyderabad,Secunderabad,Organic
+2332,Customer 2332,2024-01-16,Male,Chennai,T Nagar,Paid Ads
+2333,Customer 2333,2025-03-17,Female,Bengaluru,Indiranagar,Social Media
+2334,Customer 2334,2023-07-03,Male,Bengaluru,Electronic City,Social Media
+2335,Customer 2335,2023-12-09,Female,Hyderabad,Gachibowli,Organic
+2336,Customer 2336,2024-09-21,Male,Mumbai,Bandra,Organic
+2337,Customer 2337,2025-04-25,Female,Mumbai,Powai,Paid Ads
+2338,Customer 2338,2023-09-30,Female,Hyderabad,Madhapur,Paid Ads
+2339,Customer 2339,2024-12-15,Female,Chennai,Adyar,Social Media
+2340,Customer 2340,2023-09-02,Female,Mumbai,Powai,Social Media
+2341,Customer 2341,2024-07-26,Male,Delhi,West Delhi,Referral
+2342,Customer 2342,2023-12-09,Female,Chennai,T Nagar,Organic
+2343,Customer 2343,2024-03-14,Other,Chennai,OMR,Organic
+2344,Customer 2344,2024-10-08,Female,Delhi,South Delhi,Referral
+2345,Customer 2345,2024-10-30,Female,Pune,Hinjewadi,Organic
+2346,Customer 2346,2025-03-08,Other,Hyderabad,Secunderabad,Organic
+2347,Customer 2347,2025-03-28,Male,Hyderabad,Gachibowli,Social Media
+2348,Customer 2348,2023-09-13,Female,Delhi,Central Delhi,Organic
+2349,Customer 2349,2024-06-14,Male,Pune,Hinjewadi,Paid Ads
+2350,Customer 2350,2024-01-27,Male,Delhi,North Delhi,Organic
+2351,Customer 2351,2024-02-24,Male,Kolkata,Gariahat,Referral
+2352,Customer 2352,2024-07-23,Male,Kolkata,Howrah,Social Media
+2353,Customer 2353,2024-02-21,Male,Hyderabad,Gachibowli,Social Media
+2354,Customer 2354,2024-08-02,Male,Delhi,North Delhi,Social Media
+2355,Customer 2355,2023-07-20,Male,Bengaluru,HSR Layout,Paid Ads
+2356,Customer 2356,2024-03-26,Female,Bengaluru,Electronic City,Organic
+2357,Customer 2357,2023-08-25,Male,Hyderabad,Secunderabad,Organic
+2358,Customer 2358,2024-09-29,Female,Bengaluru,Electronic City,Paid Ads
+2359,Customer 2359,2023-12-16,Female,Hyderabad,Gachibowli,Referral
+2360,Customer 2360,2025-02-09,Male,Kolkata,Park Street,Referral
+2361,Customer 2361,2024-12-06,Male,Hyderabad,Secunderabad,Referral
+2362,Customer 2362,2025-02-20,Female,Delhi,Central Delhi,Organic
+2363,Customer 2363,2023-10-06,Female,Kolkata,Salt Lake,Social Media
+2364,Customer 2364,2023-12-12,Male,Bengaluru,Electronic City,Paid Ads
+2365,Customer 2365,2024-08-08,Male,Bengaluru,Indiranagar,Organic
+2366,Customer 2366,2024-09-25,Male,Pune,Viman Nagar,Paid Ads
+2367,Customer 2367,2025-03-18,Female,Hyderabad,Hitech City,Paid Ads
+2368,Customer 2368,2024-12-15,Male,Bengaluru,Indiranagar,Organic
+2369,Customer 2369,2024-06-11,Male,Kolkata,Park Street,Referral
+2370,Customer 2370,2023-12-18,Female,Mumbai,Bandra,Paid Ads
+2371,Customer 2371,2024-10-03,Male,Chennai,Velachery,Paid Ads
+2372,Customer 2372,2024-06-22,Female,Kolkata,Salt Lake,Referral
+2373,Customer 2373,2023-06-30,Female,Kolkata,Salt Lake,Paid Ads
+2374,Customer 2374,2024-12-30,Male,Hyderabad,Madhapur,Referral
+2375,Customer 2375,2024-01-10,Male,Chennai,OMR,Organic
+2376,Customer 2376,2024-02-05,Female,Kolkata,Park Street,Referral
+2377,Customer 2377,2024-10-23,Female,Pune,Kothrud,Referral
+2378,Customer 2378,2023-06-09,Female,Hyderabad,Secunderabad,Paid Ads
+2379,Customer 2379,2024-12-01,Female,Chennai,Adyar,Organic
+2380,Customer 2380,2023-08-30,Male,Chennai,T Nagar,Paid Ads
+2381,Customer 2381,2024-02-06,Male,Kolkata,Park Street,Organic
+2382,Customer 2382,2024-03-19,Male,Hyderabad,Gachibowli,Referral
+2383,Customer 2383,2024-06-21,Female,Bengaluru,Electronic City,Organic
+2384,Customer 2384,2023-08-25,Female,Delhi,North Delhi,Social Media
+2385,Customer 2385,2025-03-23,Female,Pune,Viman Nagar,Paid Ads
+2386,Customer 2386,2025-04-14,Male,Kolkata,Gariahat,Paid Ads
+2387,Customer 2387,2024-08-18,Male,Hyderabad,Gachibowli,Referral
+2388,Customer 2388,2023-12-07,Female,Mumbai,Navi Mumbai,Referral
+2389,Customer 2389,2024-08-31,Male,Kolkata,Gariahat,Social Media
+2390,Customer 2390,2024-05-16,Female,Delhi,East Delhi,Referral
+2391,Customer 2391,2025-05-17,Male,Mumbai,Thane,Paid Ads
+2392,Customer 2392,2024-12-15,Female,Kolkata,Park Street,Organic
+2393,Customer 2393,2025-01-15,Male,Delhi,Central Delhi,Social Media
+2394,Customer 2394,2024-11-04,Male,Delhi,East Delhi,Social Media
+2395,Customer 2395,2023-09-29,Female,Bengaluru,Whitefield,Organic
+2396,Customer 2396,2025-03-24,Male,Hyderabad,Madhapur,Referral
+2397,Customer 2397,2025-03-14,Female,Mumbai,Andheri,Referral
+2398,Customer 2398,2023-10-05,Female,Mumbai,Navi Mumbai,Organic
+2399,Customer 2399,2023-09-19,Female,Delhi,Central Delhi,Paid Ads
+2400,Customer 2400,2025-02-26,Male,Kolkata,Howrah,Paid Ads
+2401,Customer 2401,2025-03-26,Male,Delhi,North Delhi,Social Media
+2402,Customer 2402,2024-05-31,Male,Mumbai,Powai,Referral
+2403,Customer 2403,2025-02-04,Male,Chennai,OMR,Paid Ads
+2404,Customer 2404,2024-02-02,Male,Mumbai,Thane,Social Media
+2405,Customer 2405,2024-12-19,Female,Pune,Viman Nagar,Referral
+2406,Customer 2406,2024-09-06,Male,Chennai,T Nagar,Paid Ads
+2407,Customer 2407,2024-01-10,Female,Mumbai,Thane,Social Media
+2408,Customer 2408,2024-07-28,Female,Delhi,West Delhi,Referral
+2409,Customer 2409,2023-11-07,Male,Mumbai,Navi Mumbai,Paid Ads
+2410,Customer 2410,2024-01-31,Male,Mumbai,Powai,Paid Ads
+2411,Customer 2411,2023-08-02,Male,Delhi,South Delhi,Paid Ads
+2412,Customer 2412,2024-12-04,Female,Mumbai,Powai,Paid Ads
+2413,Customer 2413,2025-03-04,Male,Chennai,T Nagar,Paid Ads
+2414,Customer 2414,2024-11-30,Male,Chennai,OMR,Referral
+2415,Customer 2415,2025-01-22,Other,Delhi,South Delhi,Organic
+2416,Customer 2416,2023-09-06,Female,Delhi,West Delhi,Social Media
+2417,Customer 2417,2025-02-15,Female,Hyderabad,Secunderabad,Organic
+2418,Customer 2418,2023-06-25,Male,Delhi,West Delhi,Paid Ads
+2419,Customer 2419,2023-10-16,Male,Bengaluru,HSR Layout,Referral
+2420,Customer 2420,2024-11-21,Female,Mumbai,Navi Mumbai,Organic
+2421,Customer 2421,2023-06-06,Male,Pune,Viman Nagar,Referral
+2422,Customer 2422,2024-02-20,Female,Mumbai,Navi Mumbai,Paid Ads
+2423,Customer 2423,2024-07-18,Female,Bengaluru,HSR Layout,Social Media
+2424,Customer 2424,2024-10-28,Female,Delhi,West Delhi,Paid Ads
+2425,Customer 2425,2025-05-17,Female,Mumbai,Powai,Organic
+2426,Customer 2426,2023-12-02,Female,Bengaluru,Koramangala,Social Media
+2427,Customer 2427,2024-02-20,Other,Hyderabad,Secunderabad,Referral
+2428,Customer 2428,2023-12-30,Male,Hyderabad,Secunderabad,Referral
+2429,Customer 2429,2024-07-31,Male,Pune,Hinjewadi,Referral
+2430,Customer 2430,2025-02-10,Male,Hyderabad,Gachibowli,Referral
+2431,Customer 2431,2023-07-11,Male,Chennai,OMR,Social Media
+2432,Customer 2432,2023-10-18,Female,Pune,Koregaon Park,Organic
+2433,Customer 2433,2023-11-25,Female,Mumbai,Bandra,Organic
+2434,Customer 2434,2024-12-10,Female,Mumbai,Bandra,Organic
+2435,Customer 2435,2024-12-28,Female,Hyderabad,Secunderabad,Social Media
+2436,Customer 2436,2023-12-01,Male,Chennai,OMR,Paid Ads
+2437,Customer 2437,2024-10-29,Female,Delhi,East Delhi,Organic
+2438,Customer 2438,2025-01-26,Male,Hyderabad,Secunderabad,Paid Ads
+2439,Customer 2439,2023-07-16,Female,Hyderabad,Madhapur,Organic
+2440,Customer 2440,2023-12-11,Male,Kolkata,Park Street,Organic
+2441,Customer 2441,2024-02-05,Male,Bengaluru,Koramangala,Social Media
+2442,Customer 2442,2025-03-18,Female,Kolkata,Gariahat,Social Media
+2443,Customer 2443,2025-03-15,Male,Kolkata,Park Street,Referral
+2444,Customer 2444,2023-07-14,Male,Pune,Viman Nagar,Organic
+2445,Customer 2445,2024-11-29,Male,Pune,Viman Nagar,Paid Ads
+2446,Customer 2446,2024-07-08,Female,Delhi,North Delhi,Paid Ads
+2447,Customer 2447,2025-02-09,Male,Chennai,Adyar,Referral
+2448,Customer 2448,2025-04-03,Female,Delhi,West Delhi,Organic
+2449,Customer 2449,2023-09-19,Female,Hyderabad,Secunderabad,Organic
+2450,Customer 2450,2024-11-22,Male,Kolkata,Gariahat,Social Media
+2451,Customer 2451,2023-06-24,Female,Delhi,South Delhi,Paid Ads
+2452,Customer 2452,2024-05-10,Male,Kolkata,Howrah,Paid Ads
+2453,Customer 2453,2023-09-24,Female,Chennai,Velachery,Organic
+2454,Customer 2454,2025-05-31,Male,Bengaluru,Koramangala,Paid Ads
+2455,Customer 2455,2024-10-14,Male,Bengaluru,Electronic City,Social Media
+2456,Customer 2456,2025-03-06,Male,Mumbai,Andheri,Referral
+2457,Customer 2457,2024-08-07,Female,Bengaluru,Koramangala,Organic
+2458,Customer 2458,2023-07-12,Male,Pune,Koregaon Park,Organic
+2459,Customer 2459,2024-12-18,Female,Hyderabad,Secunderabad,Social Media
+2460,Customer 2460,2024-05-14,Male,Mumbai,Thane,Organic
+2461,Customer 2461,2024-03-26,Female,Delhi,North Delhi,Social Media
+2462,Customer 2462,2024-10-20,Female,Hyderabad,Madhapur,Referral
+2463,Customer 2463,2023-07-15,Male,Chennai,T Nagar,Organic
+2464,Customer 2464,2025-02-05,Male,Bengaluru,HSR Layout,Paid Ads
+2465,Customer 2465,2024-05-29,Female,Chennai,Velachery,Social Media
+2466,Customer 2466,2024-04-12,Male,Bengaluru,Koramangala,Referral
+2467,Customer 2467,2025-05-08,Male,Pune,Viman Nagar,Paid Ads
+2468,Customer 2468,2025-04-12,Male,Hyderabad,Madhapur,Paid Ads
+2469,Customer 2469,2024-01-20,Male,Bengaluru,Electronic City,Paid Ads
+2470,Customer 2470,2023-10-28,Male,Delhi,East Delhi,Referral
+2471,Customer 2471,2023-11-17,Female,Pune,Viman Nagar,Paid Ads
+2472,Customer 2472,2023-10-19,Male,Chennai,OMR,Organic
+2473,Customer 2473,2023-11-20,Female,Delhi,Central Delhi,Referral
+2474,Customer 2474,2024-01-30,Male,Hyderabad,Gachibowli,Social Media
+2475,Customer 2475,2024-09-18,Male,Hyderabad,Hitech City,Referral
+2476,Customer 2476,2025-05-31,Male,Hyderabad,Madhapur,Organic
+2477,Customer 2477,2025-03-14,Male,Kolkata,Howrah,Referral
+2478,Customer 2478,2024-06-17,Female,Mumbai,Bandra,Referral
+2479,Customer 2479,2024-01-16,Male,Kolkata,Park Street,Paid Ads
+2480,Customer 2480,2023-06-28,Female,Bengaluru,Electronic City,Organic
+2481,Customer 2481,2023-11-29,Male,Pune,Kothrud,Organic
+2482,Customer 2482,2024-06-19,Male,Pune,Kothrud,Paid Ads
+2483,Customer 2483,2024-11-04,Male,Hyderabad,Hitech City,Paid Ads
+2484,Customer 2484,2023-10-09,Female,Chennai,Velachery,Referral
+2485,Customer 2485,2025-02-28,Male,Bengaluru,Electronic City,Organic
+2486,Customer 2486,2024-03-13,Female,Kolkata,Salt Lake,Organic
+2487,Customer 2487,2024-08-14,Female,Chennai,OMR,Social Media
+2488,Customer 2488,2024-07-30,Female,Kolkata,Park Street,Paid Ads
+2489,Customer 2489,2023-09-15,Male,Delhi,South Delhi,Paid Ads
+2490,Customer 2490,2024-03-16,Male,Chennai,Velachery,Referral
+2491,Customer 2491,2025-01-20,Female,Pune,Koregaon Park,Paid Ads
+2492,Customer 2492,2024-02-05,Female,Pune,Hinjewadi,Referral
+2493,Customer 2493,2023-10-17,Other,Kolkata,Park Street,Social Media
+2494,Customer 2494,2024-07-11,Male,Mumbai,Andheri,Referral
+2495,Customer 2495,2024-03-10,Male,Kolkata,Salt Lake,Paid Ads
+2496,Customer 2496,2023-09-23,Female,Pune,Kothrud,Organic
+2497,Customer 2497,2023-06-19,Male,Hyderabad,Hitech City,Organic
+2498,Customer 2498,2023-07-05,Male,Mumbai,Thane,Paid Ads
+2499,Customer 2499,2023-09-28,Female,Chennai,OMR,Paid Ads
+2500,Customer 2500,2023-06-06,Female,Bengaluru,Electronic City,Referral
+2501,Customer 2501,2024-03-19,Female,Chennai,OMR,Referral
+2502,Customer 2502,2024-09-23,Male,Delhi,North Delhi,Social Media
+2503,Customer 2503,2023-12-19,Female,Delhi,North Delhi,Organic
+2504,Customer 2504,2025-02-24,Female,Kolkata,Salt Lake,Social Media
+2505,Customer 2505,2025-01-20,Female,Kolkata,Salt Lake,Social Media
+2506,Customer 2506,2025-03-11,Male,Hyderabad,Gachibowli,Social Media
+2507,Customer 2507,2025-04-03,Female,Hyderabad,Gachibowli,Organic
+2508,Customer 2508,2024-08-21,Male,Bengaluru,HSR Layout,Social Media
+2509,Customer 2509,2024-03-19,Male,Hyderabad,Madhapur,Organic
+2510,Customer 2510,2023-10-28,Male,Delhi,North Delhi,Social Media
+2511,Customer 2511,2023-10-11,Female,Chennai,OMR,Paid Ads
+2512,Customer 2512,2024-02-15,Male,Hyderabad,Hitech City,Paid Ads
+2513,Customer 2513,2025-05-19,Male,Pune,Viman Nagar,Social Media
+2514,Customer 2514,2023-07-08,Male,Bengaluru,Electronic City,Paid Ads
+2515,Customer 2515,2024-10-15,Female,Delhi,West Delhi,Organic
+2516,Customer 2516,2024-11-24,Female,Delhi,East Delhi,Paid Ads
+2517,Customer 2517,2025-03-14,Female,Kolkata,Howrah,Referral
+2518,Customer 2518,2024-12-01,Male,Delhi,East Delhi,Paid Ads
+2519,Customer 2519,2023-06-24,Other,Hyderabad,Madhapur,Social Media
+2520,Customer 2520,2024-09-26,Male,Chennai,Adyar,Organic
+2521,Customer 2521,2024-08-09,Male,Hyderabad,Secunderabad,Organic
+2522,Customer 2522,2024-01-12,Female,Bengaluru,HSR Layout,Paid Ads
+2523,Customer 2523,2024-01-24,Male,Delhi,East Delhi,Referral
+2524,Customer 2524,2024-06-03,Male,Hyderabad,Madhapur,Organic
+2525,Customer 2525,2024-02-13,Male,Mumbai,Powai,Social Media
+2526,Customer 2526,2024-03-27,Male,Hyderabad,Secunderabad,Paid Ads
+2527,Customer 2527,2024-03-23,Male,Mumbai,Navi Mumbai,Social Media
+2528,Customer 2528,2024-11-15,Male,Pune,Hinjewadi,Paid Ads
+2529,Customer 2529,2024-04-16,Male,Mumbai,Powai,Paid Ads
+2530,Customer 2530,2025-03-28,Other,Hyderabad,Secunderabad,Paid Ads
+2531,Customer 2531,2024-05-28,Male,Kolkata,Park Street,Social Media
+2532,Customer 2532,2024-03-27,Male,Bengaluru,Koramangala,Paid Ads
+2533,Customer 2533,2023-07-05,Male,Mumbai,Bandra,Social Media
+2534,Customer 2534,2023-09-29,Male,Mumbai,Navi Mumbai,Paid Ads
+2535,Customer 2535,2023-12-15,Other,Delhi,East Delhi,Paid Ads
+2536,Customer 2536,2025-01-26,Male,Bengaluru,Whitefield,Social Media
+2537,Customer 2537,2024-04-02,Female,Pune,Kothrud,Organic
+2538,Customer 2538,2023-12-06,Male,Bengaluru,Indiranagar,Referral
+2539,Customer 2539,2024-04-25,Male,Chennai,T Nagar,Social Media
+2540,Customer 2540,2024-09-01,Male,Kolkata,Salt Lake,Organic
+2541,Customer 2541,2024-02-16,Male,Bengaluru,HSR Layout,Organic
+2542,Customer 2542,2025-02-11,Female,Pune,Viman Nagar,Organic
+2543,Customer 2543,2023-11-11,Male,Pune,Viman Nagar,Paid Ads
+2544,Customer 2544,2023-11-10,Male,Bengaluru,Indiranagar,Referral
+2545,Customer 2545,2025-02-07,Male,Kolkata,Salt Lake,Referral
+2546,Customer 2546,2024-02-10,Male,Mumbai,Navi Mumbai,Organic
+2547,Customer 2547,2024-07-15,Other,Chennai,Adyar,Paid Ads
+2548,Customer 2548,2024-10-25,Female,Kolkata,Howrah,Organic
+2549,Customer 2549,2023-12-21,Male,Delhi,Central Delhi,Organic
+2550,Customer 2550,2025-04-01,Male,Kolkata,Salt Lake,Organic
+2551,Customer 2551,2023-12-11,Female,Mumbai,Andheri,Social Media
+2552,Customer 2552,2025-03-28,Female,Bengaluru,Whitefield,Referral
+2553,Customer 2553,2023-06-28,Female,Chennai,OMR,Paid Ads
+2554,Customer 2554,2023-07-03,Female,Chennai,Adyar,Social Media
+2555,Customer 2555,2023-07-09,Male,Chennai,Velachery,Referral
+2556,Customer 2556,2024-12-21,Male,Kolkata,Park Street,Organic
+2557,Customer 2557,2024-03-06,Female,Kolkata,Park Street,Paid Ads
+2558,Customer 2558,2025-05-16,Male,Hyderabad,Hitech City,Social Media
+2559,Customer 2559,2023-08-12,Female,Kolkata,Howrah,Referral
+2560,Customer 2560,2024-03-24,Male,Bengaluru,Electronic City,Social Media
+2561,Customer 2561,2024-02-02,Female,Delhi,West Delhi,Referral
+2562,Customer 2562,2025-01-02,Female,Chennai,OMR,Referral
+2563,Customer 2563,2024-06-26,Female,Chennai,T Nagar,Social Media
+2564,Customer 2564,2024-01-17,Male,Kolkata,Howrah,Social Media
+2565,Customer 2565,2024-11-02,Male,Mumbai,Thane,Paid Ads
+2566,Customer 2566,2025-04-17,Male,Hyderabad,Madhapur,Referral
+2567,Customer 2567,2023-12-14,Male,Delhi,East Delhi,Social Media
+2568,Customer 2568,2024-05-06,Male,Kolkata,Salt Lake,Organic
+2569,Customer 2569,2025-05-05,Male,Delhi,West Delhi,Referral
+2570,Customer 2570,2023-12-01,Male,Hyderabad,Gachibowli,Paid Ads
+2571,Customer 2571,2023-06-28,Male,Delhi,East Delhi,Organic
+2572,Customer 2572,2025-03-24,Male,Chennai,T Nagar,Organic
+2573,Customer 2573,2023-11-12,Female,Chennai,Velachery,Paid Ads
+2574,Customer 2574,2023-10-11,Female,Hyderabad,Secunderabad,Referral
+2575,Customer 2575,2023-06-12,Female,Bengaluru,Koramangala,Referral
+2576,Customer 2576,2024-12-29,Female,Pune,Viman Nagar,Paid Ads
+2577,Customer 2577,2023-10-31,Male,Hyderabad,Gachibowli,Paid Ads
+2578,Customer 2578,2023-12-03,Male,Chennai,Velachery,Paid Ads
+2579,Customer 2579,2023-07-21,Female,Kolkata,Park Street,Referral
+2580,Customer 2580,2024-01-03,Female,Delhi,South Delhi,Referral
+2581,Customer 2581,2024-08-18,Female,Hyderabad,Gachibowli,Referral
+2582,Customer 2582,2023-09-23,Male,Mumbai,Andheri,Referral
+2583,Customer 2583,2024-09-04,Female,Pune,Hinjewadi,Social Media
+2584,Customer 2584,2023-12-31,Male,Delhi,South Delhi,Referral
+2585,Customer 2585,2023-10-27,Female,Mumbai,Powai,Paid Ads
+2586,Customer 2586,2023-08-01,Female,Pune,Kothrud,Organic
+2587,Customer 2587,2025-01-26,Male,Kolkata,Gariahat,Referral
+2588,Customer 2588,2025-02-24,Male,Chennai,Velachery,Organic
+2589,Customer 2589,2024-11-22,Female,Delhi,South Delhi,Paid Ads
+2590,Customer 2590,2023-06-16,Female,Bengaluru,Electronic City,Organic
+2591,Customer 2591,2023-11-26,Female,Hyderabad,Secunderabad,Social Media
+2592,Customer 2592,2023-11-05,Female,Kolkata,Park Street,Referral
+2593,Customer 2593,2023-06-11,Male,Bengaluru,Indiranagar,Social Media
+2594,Customer 2594,2024-11-26,Female,Chennai,OMR,Social Media
+2595,Customer 2595,2025-01-22,Male,Delhi,West Delhi,Social Media
+2596,Customer 2596,2025-02-07,Female,Kolkata,Gariahat,Paid Ads
+2597,Customer 2597,2024-09-03,Male,Delhi,North Delhi,Paid Ads
+2598,Customer 2598,2024-03-14,Male,Kolkata,Howrah,Organic
+2599,Customer 2599,2024-03-11,Female,Delhi,South Delhi,Paid Ads
+2600,Customer 2600,2023-06-17,Male,Mumbai,Thane,Social Media
+2601,Customer 2601,2025-02-20,Male,Hyderabad,Hitech City,Referral
+2602,Customer 2602,2025-02-04,Male,Chennai,OMR,Paid Ads
+2603,Customer 2603,2024-03-29,Female,Kolkata,Gariahat,Paid Ads
+2604,Customer 2604,2024-05-31,Male,Chennai,OMR,Paid Ads
+2605,Customer 2605,2023-08-14,Male,Chennai,OMR,Paid Ads
+2606,Customer 2606,2025-01-22,Male,Kolkata,Park Street,Social Media
+2607,Customer 2607,2024-07-18,Female,Pune,Viman Nagar,Paid Ads
+2608,Customer 2608,2024-06-29,Male,Chennai,OMR,Social Media
+2609,Customer 2609,2024-05-29,Female,Chennai,Adyar,Social Media
+2610,Customer 2610,2023-06-17,Male,Hyderabad,Madhapur,Organic
+2611,Customer 2611,2023-07-07,Male,Chennai,T Nagar,Referral
+2612,Customer 2612,2023-10-24,Female,Delhi,Central Delhi,Paid Ads
+2613,Customer 2613,2024-08-31,Female,Delhi,South Delhi,Referral
+2614,Customer 2614,2023-06-08,Female,Pune,Hinjewadi,Organic
+2615,Customer 2615,2025-03-11,Male,Pune,Viman Nagar,Organic
+2616,Customer 2616,2025-05-18,Female,Bengaluru,Indiranagar,Referral
+2617,Customer 2617,2025-01-20,Other,Bengaluru,Indiranagar,Paid Ads
+2618,Customer 2618,2024-04-23,Female,Delhi,North Delhi,Social Media
+2619,Customer 2619,2023-11-20,Female,Kolkata,Howrah,Organic
+2620,Customer 2620,2024-09-09,Male,Bengaluru,Indiranagar,Social Media
+2621,Customer 2621,2024-12-28,Male,Mumbai,Thane,Organic
+2622,Customer 2622,2024-09-27,Female,Delhi,Central Delhi,Referral
+2623,Customer 2623,2023-12-11,Male,Delhi,South Delhi,Paid Ads
+2624,Customer 2624,2024-12-29,Male,Hyderabad,Secunderabad,Paid Ads
+2625,Customer 2625,2024-03-25,Male,Bengaluru,HSR Layout,Paid Ads
+2626,Customer 2626,2023-07-09,Male,Kolkata,Park Street,Social Media
+2627,Customer 2627,2024-09-01,Male,Pune,Koregaon Park,Paid Ads
+2628,Customer 2628,2023-10-22,Female,Chennai,OMR,Social Media
+2629,Customer 2629,2023-08-28,Male,Kolkata,Gariahat,Organic
+2630,Customer 2630,2023-11-12,Female,Kolkata,Howrah,Paid Ads
+2631,Customer 2631,2023-06-20,Female,Mumbai,Thane,Referral
+2632,Customer 2632,2023-09-10,Female,Pune,Kothrud,Paid Ads
+2633,Customer 2633,2024-08-03,Female,Chennai,Velachery,Organic
+2634,Customer 2634,2024-04-19,Female,Kolkata,Park Street,Organic
+2635,Customer 2635,2025-01-23,Male,Pune,Hinjewadi,Organic
+2636,Customer 2636,2024-09-08,Male,Chennai,Adyar,Social Media
+2637,Customer 2637,2025-01-08,Male,Pune,Kothrud,Social Media
+2638,Customer 2638,2024-12-26,Male,Kolkata,Howrah,Organic
+2639,Customer 2639,2025-01-18,Female,Delhi,Central Delhi,Social Media
+2640,Customer 2640,2024-06-30,Female,Delhi,West Delhi,Social Media
+2641,Customer 2641,2024-07-02,Female,Mumbai,Navi Mumbai,Paid Ads
+2642,Customer 2642,2025-03-03,Female,Delhi,Central Delhi,Referral
+2643,Customer 2643,2024-12-22,Female,Hyderabad,Hitech City,Paid Ads
+2644,Customer 2644,2024-08-04,Male,Kolkata,Salt Lake,Referral
+2645,Customer 2645,2024-03-22,Female,Hyderabad,Gachibowli,Paid Ads
+2646,Customer 2646,2024-02-28,Female,Delhi,Central Delhi,Referral
+2647,Customer 2647,2023-09-20,Male,Hyderabad,Secunderabad,Organic
+2648,Customer 2648,2025-01-12,Other,Delhi,South Delhi,Social Media
+2649,Customer 2649,2023-10-20,Male,Bengaluru,Whitefield,Social Media
+2650,Customer 2650,2023-09-30,Female,Bengaluru,Koramangala,Social Media
+2651,Customer 2651,2023-08-10,Male,Bengaluru,HSR Layout,Social Media
+2652,Customer 2652,2023-11-01,Male,Delhi,Central Delhi,Referral
+2653,Customer 2653,2025-03-06,Male,Mumbai,Andheri,Organic
+2654,Customer 2654,2024-06-29,Female,Bengaluru,HSR Layout,Organic
+2655,Customer 2655,2024-05-17,Female,Bengaluru,Whitefield,Paid Ads
+2656,Customer 2656,2024-08-29,Female,Bengaluru,Indiranagar,Paid Ads
+2657,Customer 2657,2024-11-30,Female,Kolkata,Salt Lake,Organic
+2658,Customer 2658,2024-07-14,Female,Mumbai,Bandra,Social Media
+2659,Customer 2659,2025-03-15,Female,Hyderabad,Madhapur,Organic
+2660,Customer 2660,2023-07-28,Female,Bengaluru,Koramangala,Referral
+2661,Customer 2661,2024-10-06,Male,Hyderabad,Madhapur,Organic
+2662,Customer 2662,2024-11-21,Male,Hyderabad,Hitech City,Paid Ads
+2663,Customer 2663,2025-05-14,Male,Chennai,T Nagar,Organic
+2664,Customer 2664,2025-01-29,Female,Bengaluru,Electronic City,Organic
+2665,Customer 2665,2024-05-24,Male,Mumbai,Navi Mumbai,Social Media
+2666,Customer 2666,2025-03-22,Female,Bengaluru,Electronic City,Paid Ads
+2667,Customer 2667,2025-05-13,Male,Hyderabad,Hitech City,Social Media
+2668,Customer 2668,2024-12-28,Female,Kolkata,Park Street,Referral
+2669,Customer 2669,2024-06-09,Female,Pune,Viman Nagar,Social Media
+2670,Customer 2670,2024-03-15,Female,Pune,Koregaon Park,Paid Ads
+2671,Customer 2671,2025-01-09,Male,Delhi,South Delhi,Paid Ads
+2672,Customer 2672,2024-05-19,Female,Kolkata,Gariahat,Social Media
+2673,Customer 2673,2023-07-09,Female,Delhi,South Delhi,Paid Ads
+2674,Customer 2674,2024-09-03,Male,Bengaluru,Electronic City,Referral
+2675,Customer 2675,2023-12-20,Female,Kolkata,Howrah,Referral
+2676,Customer 2676,2025-01-03,Female,Kolkata,Park Street,Referral
+2677,Customer 2677,2024-04-05,Female,Delhi,North Delhi,Organic
+2678,Customer 2678,2024-02-15,Female,Bengaluru,Koramangala,Paid Ads
+2679,Customer 2679,2023-09-09,Other,Chennai,Adyar,Social Media
+2680,Customer 2680,2025-05-18,Female,Chennai,Velachery,Paid Ads
+2681,Customer 2681,2024-06-02,Male,Mumbai,Navi Mumbai,Referral
+2682,Customer 2682,2023-12-03,Male,Chennai,Velachery,Referral
+2683,Customer 2683,2023-09-06,Male,Kolkata,Howrah,Referral
+2684,Customer 2684,2024-01-02,Male,Mumbai,Powai,Referral
+2685,Customer 2685,2025-02-15,Female,Mumbai,Thane,Referral
+2686,Customer 2686,2025-01-31,Other,Delhi,North Delhi,Organic
+2687,Customer 2687,2024-11-16,Male,Pune,Koregaon Park,Organic
+2688,Customer 2688,2025-05-20,Female,Delhi,North Delhi,Paid Ads
+2689,Customer 2689,2024-05-05,Male,Pune,Koregaon Park,Paid Ads
+2690,Customer 2690,2024-09-07,Female,Pune,Kothrud,Organic
+2691,Customer 2691,2023-08-19,Male,Pune,Kothrud,Paid Ads
+2692,Customer 2692,2023-12-29,Male,Chennai,Adyar,Referral
+2693,Customer 2693,2023-09-04,Female,Kolkata,Howrah,Referral
+2694,Customer 2694,2023-12-27,Female,Hyderabad,Gachibowli,Organic
+2695,Customer 2695,2025-02-09,Male,Delhi,East Delhi,Referral
+2696,Customer 2696,2024-02-10,Male,Mumbai,Thane,Organic
+2697,Customer 2697,2024-09-21,Female,Mumbai,Andheri,Referral
+2698,Customer 2698,2024-03-20,Female,Chennai,Velachery,Social Media
+2699,Customer 2699,2023-08-10,Male,Delhi,Central Delhi,Referral
+2700,Customer 2700,2024-02-09,Female,Kolkata,Park Street,Social Media
+2701,Customer 2701,2024-10-28,Male,Hyderabad,Secunderabad,Organic
+2702,Customer 2702,2025-01-23,Female,Bengaluru,HSR Layout,Social Media
+2703,Customer 2703,2024-08-11,Male,Delhi,North Delhi,Paid Ads
+2704,Customer 2704,2023-11-23,Male,Delhi,West Delhi,Paid Ads
+2705,Customer 2705,2024-05-22,Male,Mumbai,Navi Mumbai,Social Media
+2706,Customer 2706,2024-05-07,Female,Chennai,T Nagar,Organic
+2707,Customer 2707,2024-10-02,Male,Pune,Viman Nagar,Organic
+2708,Customer 2708,2023-11-16,Male,Mumbai,Powai,Social Media
+2709,Customer 2709,2023-06-20,Male,Pune,Hinjewadi,Social Media
+2710,Customer 2710,2025-03-23,Female,Kolkata,Salt Lake,Referral
+2711,Customer 2711,2024-05-15,Male,Chennai,OMR,Organic
+2712,Customer 2712,2024-03-15,Female,Hyderabad,Hitech City,Referral
+2713,Customer 2713,2024-06-14,Female,Hyderabad,Madhapur,Referral
+2714,Customer 2714,2024-08-07,Male,Delhi,Central Delhi,Paid Ads
+2715,Customer 2715,2025-02-11,Female,Hyderabad,Secunderabad,Organic
+2716,Customer 2716,2023-12-05,Other,Chennai,T Nagar,Organic
+2717,Customer 2717,2025-05-07,Male,Bengaluru,HSR Layout,Paid Ads
+2718,Customer 2718,2025-04-05,Male,Bengaluru,Koramangala,Paid Ads
+2719,Customer 2719,2024-06-23,Male,Mumbai,Powai,Organic
+2720,Customer 2720,2023-11-03,Female,Pune,Kothrud,Social Media
+2721,Customer 2721,2024-08-16,Female,Chennai,OMR,Organic
+2722,Customer 2722,2023-12-19,Male,Mumbai,Bandra,Social Media
+2723,Customer 2723,2024-10-15,Male,Bengaluru,Indiranagar,Organic
+2724,Customer 2724,2024-03-23,Female,Chennai,Adyar,Organic
+2725,Customer 2725,2024-04-25,Male,Hyderabad,Madhapur,Organic
+2726,Customer 2726,2025-03-05,Female,Pune,Hinjewadi,Referral
+2727,Customer 2727,2023-12-07,Male,Mumbai,Andheri,Paid Ads
+2728,Customer 2728,2024-06-23,Female,Mumbai,Powai,Organic
+2729,Customer 2729,2025-01-13,Female,Kolkata,Gariahat,Social Media
+2730,Customer 2730,2024-10-26,Female,Delhi,Central Delhi,Paid Ads
+2731,Customer 2731,2023-12-24,Female,Kolkata,Salt Lake,Paid Ads
+2732,Customer 2732,2025-04-20,Female,Pune,Kothrud,Organic
+2733,Customer 2733,2024-08-30,Male,Delhi,South Delhi,Paid Ads
+2734,Customer 2734,2024-09-23,Male,Bengaluru,Koramangala,Social Media
+2735,Customer 2735,2025-01-12,Female,Delhi,East Delhi,Organic
+2736,Customer 2736,2023-12-19,Female,Bengaluru,Electronic City,Paid Ads
+2737,Customer 2737,2025-05-27,Male,Delhi,South Delhi,Organic
+2738,Customer 2738,2024-12-01,Male,Pune,Kothrud,Referral
+2739,Customer 2739,2024-09-15,Female,Kolkata,Howrah,Paid Ads
+2740,Customer 2740,2023-07-04,Female,Delhi,Central Delhi,Paid Ads
+2741,Customer 2741,2023-10-22,Female,Mumbai,Navi Mumbai,Organic
+2742,Customer 2742,2025-02-13,Other,Hyderabad,Madhapur,Paid Ads
+2743,Customer 2743,2023-10-21,Female,Kolkata,Howrah,Organic
+2744,Customer 2744,2024-09-16,Male,Bengaluru,Koramangala,Paid Ads
+2745,Customer 2745,2024-08-23,Female,Pune,Hinjewadi,Social Media
+2746,Customer 2746,2024-11-09,Male,Delhi,South Delhi,Organic
+2747,Customer 2747,2024-09-20,Female,Pune,Kothrud,Social Media
+2748,Customer 2748,2023-12-05,Male,Pune,Viman Nagar,Referral
+2749,Customer 2749,2024-04-30,Female,Bengaluru,HSR Layout,Paid Ads
+2750,Customer 2750,2024-07-06,Female,Chennai,OMR,Social Media
+2751,Customer 2751,2024-12-14,Male,Mumbai,Bandra,Organic
+2752,Customer 2752,2024-12-05,Female,Delhi,North Delhi,Referral
+2753,Customer 2753,2023-09-01,Female,Pune,Koregaon Park,Referral
+2754,Customer 2754,2024-04-11,Male,Bengaluru,Electronic City,Social Media
+2755,Customer 2755,2025-01-09,Male,Mumbai,Thane,Referral
+2756,Customer 2756,2023-06-22,Male,Pune,Hinjewadi,Referral
+2757,Customer 2757,2025-05-21,Female,Bengaluru,Koramangala,Social Media
+2758,Customer 2758,2024-04-06,Other,Delhi,North Delhi,Organic
+2759,Customer 2759,2024-01-22,Male,Hyderabad,Secunderabad,Social Media
+2760,Customer 2760,2024-10-25,Female,Mumbai,Bandra,Organic
+2761,Customer 2761,2024-02-26,Male,Bengaluru,Whitefield,Paid Ads
+2762,Customer 2762,2025-01-08,Male,Chennai,OMR,Referral
+2763,Customer 2763,2024-09-19,Male,Kolkata,Gariahat,Referral
+2764,Customer 2764,2024-06-30,Female,Hyderabad,Secunderabad,Social Media
+2765,Customer 2765,2024-04-18,Male,Delhi,East Delhi,Organic
+2766,Customer 2766,2023-10-08,Female,Hyderabad,Gachibowli,Organic
+2767,Customer 2767,2024-06-13,Male,Chennai,T Nagar,Social Media
+2768,Customer 2768,2023-12-25,Male,Hyderabad,Gachibowli,Social Media
+2769,Customer 2769,2023-07-08,Female,Hyderabad,Secunderabad,Paid Ads
+2770,Customer 2770,2025-02-22,Male,Mumbai,Thane,Social Media
+2771,Customer 2771,2024-10-18,Female,Kolkata,Salt Lake,Referral
+2772,Customer 2772,2023-09-22,Male,Delhi,South Delhi,Referral
+2773,Customer 2773,2023-11-09,Male,Delhi,Central Delhi,Organic
+2774,Customer 2774,2025-04-20,Male,Mumbai,Powai,Paid Ads
+2775,Customer 2775,2024-12-02,Male,Mumbai,Navi Mumbai,Referral
+2776,Customer 2776,2023-11-11,Female,Delhi,South Delhi,Social Media
+2777,Customer 2777,2025-02-20,Female,Mumbai,Powai,Social Media
+2778,Customer 2778,2023-10-24,Male,Mumbai,Powai,Social Media
+2779,Customer 2779,2023-08-16,Female,Bengaluru,Electronic City,Social Media
+2780,Customer 2780,2024-10-23,Male,Mumbai,Bandra,Organic
+2781,Customer 2781,2024-07-29,Male,Mumbai,Powai,Organic
+2782,Customer 2782,2025-05-28,Female,Delhi,North Delhi,Paid Ads
+2783,Customer 2783,2024-08-24,Male,Chennai,Adyar,Referral
+2784,Customer 2784,2023-09-30,Female,Mumbai,Powai,Paid Ads
+2785,Customer 2785,2023-12-28,Female,Mumbai,Powai,Referral
+2786,Customer 2786,2023-08-13,Female,Chennai,T Nagar,Paid Ads
+2787,Customer 2787,2024-01-08,Male,Chennai,Adyar,Organic
+2788,Customer 2788,2024-10-18,Female,Mumbai,Bandra,Social Media
+2789,Customer 2789,2024-04-02,Male,Mumbai,Navi Mumbai,Paid Ads
+2790,Customer 2790,2024-03-24,Female,Chennai,Velachery,Referral
+2791,Customer 2791,2023-07-20,Female,Pune,Koregaon Park,Social Media
+2792,Customer 2792,2023-09-12,Male,Delhi,Central Delhi,Social Media
+2793,Customer 2793,2024-01-05,Male,Kolkata,Gariahat,Social Media
+2794,Customer 2794,2024-05-29,Other,Bengaluru,Whitefield,Organic
+2795,Customer 2795,2023-07-16,Female,Chennai,Velachery,Social Media
+2796,Customer 2796,2025-03-03,Female,Kolkata,Howrah,Social Media
+2797,Customer 2797,2024-08-11,Female,Chennai,Adyar,Paid Ads
+2798,Customer 2798,2025-01-20,Female,Kolkata,Salt Lake,Social Media
+2799,Customer 2799,2024-11-14,Male,Pune,Koregaon Park,Referral
+2800,Customer 2800,2023-11-18,Female,Hyderabad,Madhapur,Social Media
+2801,Customer 2801,2024-09-27,Female,Bengaluru,Indiranagar,Paid Ads
+2802,Customer 2802,2024-10-05,Male,Chennai,OMR,Paid Ads
+2803,Customer 2803,2024-12-15,Male,Bengaluru,Electronic City,Paid Ads
+2804,Customer 2804,2023-09-30,Female,Chennai,Adyar,Social Media
+2805,Customer 2805,2023-07-13,Female,Mumbai,Bandra,Paid Ads
+2806,Customer 2806,2025-03-13,Female,Kolkata,Park Street,Paid Ads
+2807,Customer 2807,2024-02-26,Female,Mumbai,Powai,Paid Ads
+2808,Customer 2808,2024-03-06,Female,Hyderabad,Gachibowli,Referral
+2809,Customer 2809,2024-02-09,Male,Bengaluru,Electronic City,Organic
+2810,Customer 2810,2024-04-07,Female,Mumbai,Andheri,Referral
+2811,Customer 2811,2024-05-28,Male,Hyderabad,Secunderabad,Social Media
+2812,Customer 2812,2024-01-15,Male,Pune,Kothrud,Paid Ads
+2813,Customer 2813,2023-10-22,Female,Pune,Hinjewadi,Paid Ads
+2814,Customer 2814,2023-06-24,Female,Hyderabad,Madhapur,Paid Ads
+2815,Customer 2815,2024-04-12,Male,Hyderabad,Secunderabad,Paid Ads
+2816,Customer 2816,2024-09-28,Female,Bengaluru,Indiranagar,Paid Ads
+2817,Customer 2817,2024-11-06,Female,Delhi,North Delhi,Paid Ads
+2818,Customer 2818,2023-12-21,Female,Mumbai,Powai,Organic
+2819,Customer 2819,2025-01-07,Male,Bengaluru,Koramangala,Referral
+2820,Customer 2820,2024-07-03,Female,Kolkata,Salt Lake,Referral
+2821,Customer 2821,2025-04-17,Male,Mumbai,Andheri,Organic
+2822,Customer 2822,2025-03-31,Female,Delhi,West Delhi,Organic
+2823,Customer 2823,2024-02-19,Female,Pune,Viman Nagar,Referral
+2824,Customer 2824,2024-06-01,Male,Mumbai,Powai,Referral
+2825,Customer 2825,2024-03-30,Male,Bengaluru,Indiranagar,Social Media
+2826,Customer 2826,2024-01-11,Female,Chennai,T Nagar,Referral
+2827,Customer 2827,2024-07-11,Male,Delhi,West Delhi,Referral
+2828,Customer 2828,2025-04-20,Male,Kolkata,Gariahat,Paid Ads
+2829,Customer 2829,2024-10-13,Female,Hyderabad,Hitech City,Paid Ads
+2830,Customer 2830,2024-05-03,Male,Chennai,T Nagar,Paid Ads
+2831,Customer 2831,2024-03-14,Female,Mumbai,Bandra,Social Media
+2832,Customer 2832,2024-04-22,Male,Hyderabad,Gachibowli,Paid Ads
+2833,Customer 2833,2023-10-06,Other,Chennai,OMR,Referral
+2834,Customer 2834,2025-03-15,Male,Kolkata,Salt Lake,Referral
+2835,Customer 2835,2023-06-07,Male,Kolkata,Park Street,Paid Ads
+2836,Customer 2836,2025-01-07,Female,Kolkata,Howrah,Social Media
+2837,Customer 2837,2023-07-05,Male,Hyderabad,Madhapur,Organic
+2838,Customer 2838,2024-03-13,Female,Bengaluru,Whitefield,Social Media
+2839,Customer 2839,2024-12-12,Male,Bengaluru,Koramangala,Paid Ads
+2840,Customer 2840,2024-02-03,Female,Kolkata,Gariahat,Referral
+2841,Customer 2841,2023-08-18,Female,Mumbai,Thane,Paid Ads
+2842,Customer 2842,2023-10-01,Female,Chennai,OMR,Referral
+2843,Customer 2843,2023-11-24,Female,Bengaluru,Electronic City,Organic
+2844,Customer 2844,2024-05-19,Male,Pune,Kothrud,Social Media
+2845,Customer 2845,2025-02-26,Female,Mumbai,Powai,Paid Ads
+2846,Customer 2846,2025-03-22,Male,Hyderabad,Gachibowli,Paid Ads
+2847,Customer 2847,2023-12-16,Female,Delhi,Central Delhi,Paid Ads
+2848,Customer 2848,2025-03-13,Other,Mumbai,Thane,Organic
+2849,Customer 2849,2024-05-25,Male,Bengaluru,Electronic City,Paid Ads
+2850,Customer 2850,2023-07-08,Female,Chennai,Velachery,Organic
+2851,Customer 2851,2024-01-01,Male,Mumbai,Andheri,Social Media
+2852,Customer 2852,2023-12-19,Male,Delhi,Central Delhi,Paid Ads
+2853,Customer 2853,2025-04-05,Male,Delhi,North Delhi,Social Media
+2854,Customer 2854,2024-05-13,Female,Delhi,East Delhi,Referral
+2855,Customer 2855,2024-10-07,Male,Mumbai,Bandra,Referral
+2856,Customer 2856,2024-08-28,Male,Chennai,Adyar,Paid Ads
+2857,Customer 2857,2023-11-27,Male,Delhi,West Delhi,Organic
+2858,Customer 2858,2023-09-01,Male,Mumbai,Powai,Paid Ads
+2859,Customer 2859,2025-04-07,Male,Hyderabad,Gachibowli,Organic
+2860,Customer 2860,2023-07-18,Male,Mumbai,Navi Mumbai,Paid Ads
+2861,Customer 2861,2024-11-29,Other,Hyderabad,Hitech City,Paid Ads
+2862,Customer 2862,2024-11-15,Male,Kolkata,Park Street,Social Media
+2863,Customer 2863,2024-01-21,Female,Kolkata,Park Street,Referral
+2864,Customer 2864,2024-01-09,Female,Hyderabad,Madhapur,Social Media
+2865,Customer 2865,2024-11-02,Female,Pune,Hinjewadi,Social Media
+2866,Customer 2866,2025-02-03,Male,Pune,Koregaon Park,Referral
+2867,Customer 2867,2025-04-20,Female,Mumbai,Andheri,Social Media
+2868,Customer 2868,2024-07-07,Male,Hyderabad,Hitech City,Paid Ads
+2869,Customer 2869,2024-09-16,Male,Pune,Viman Nagar,Referral
+2870,Customer 2870,2023-09-28,Female,Pune,Koregaon Park,Paid Ads
+2871,Customer 2871,2024-04-04,Female,Hyderabad,Hitech City,Organic
+2872,Customer 2872,2025-03-12,Female,Bengaluru,HSR Layout,Referral
+2873,Customer 2873,2024-04-03,Male,Chennai,Velachery,Paid Ads
+2874,Customer 2874,2023-06-23,Male,Pune,Viman Nagar,Paid Ads
+2875,Customer 2875,2024-11-17,Female,Mumbai,Bandra,Paid Ads
+2876,Customer 2876,2024-11-17,Female,Hyderabad,Madhapur,Social Media
+2877,Customer 2877,2025-05-18,Male,Chennai,Adyar,Paid Ads
+2878,Customer 2878,2025-04-05,Female,Chennai,Adyar,Social Media
+2879,Customer 2879,2024-11-03,Male,Kolkata,Park Street,Referral
+2880,Customer 2880,2024-06-22,Female,Chennai,Velachery,Organic
+2881,Customer 2881,2024-08-26,Male,Chennai,T Nagar,Paid Ads
+2882,Customer 2882,2024-07-01,Male,Hyderabad,Hitech City,Referral
+2883,Customer 2883,2024-09-09,Female,Delhi,South Delhi,Referral
+2884,Customer 2884,2023-07-02,Female,Hyderabad,Madhapur,Social Media
+2885,Customer 2885,2023-06-06,Female,Bengaluru,Whitefield,Organic
+2886,Customer 2886,2024-06-01,Female,Hyderabad,Hitech City,Organic
+2887,Customer 2887,2024-07-15,Male,Chennai,OMR,Paid Ads
+2888,Customer 2888,2025-02-12,Female,Bengaluru,HSR Layout,Social Media
+2889,Customer 2889,2025-04-15,Male,Hyderabad,Hitech City,Organic
+2890,Customer 2890,2025-02-25,Female,Bengaluru,Koramangala,Social Media
+2891,Customer 2891,2025-01-06,Female,Bengaluru,HSR Layout,Paid Ads
+2892,Customer 2892,2025-05-05,Female,Hyderabad,Hitech City,Organic
+2893,Customer 2893,2023-07-23,Female,Pune,Viman Nagar,Paid Ads
+2894,Customer 2894,2025-03-11,Female,Mumbai,Thane,Referral
+2895,Customer 2895,2024-02-08,Female,Kolkata,Park Street,Social Media
+2896,Customer 2896,2024-04-25,Male,Kolkata,Salt Lake,Organic
+2897,Customer 2897,2024-01-07,Female,Mumbai,Powai,Organic
+2898,Customer 2898,2023-06-19,Male,Pune,Koregaon Park,Social Media
+2899,Customer 2899,2024-09-19,Female,Delhi,South Delhi,Referral
+2900,Customer 2900,2023-10-16,Male,Mumbai,Thane,Referral
+2901,Customer 2901,2024-12-25,Female,Mumbai,Bandra,Organic
+2902,Customer 2902,2024-02-19,Male,Chennai,T Nagar,Paid Ads
+2903,Customer 2903,2024-04-15,Male,Chennai,Adyar,Organic
+2904,Customer 2904,2024-10-09,Male,Hyderabad,Secunderabad,Paid Ads
+2905,Customer 2905,2024-12-24,Male,Delhi,Central Delhi,Organic
+2906,Customer 2906,2024-04-23,Male,Delhi,East Delhi,Social Media
+2907,Customer 2907,2024-07-25,Male,Mumbai,Powai,Social Media
+2908,Customer 2908,2025-03-05,Male,Mumbai,Andheri,Organic
+2909,Customer 2909,2025-01-17,Male,Hyderabad,Hitech City,Organic
+2910,Customer 2910,2025-01-12,Female,Bengaluru,Whitefield,Organic
+2911,Customer 2911,2023-09-20,Male,Mumbai,Andheri,Social Media
+2912,Customer 2912,2024-06-08,Female,Chennai,T Nagar,Organic
+2913,Customer 2913,2023-08-13,Female,Hyderabad,Hitech City,Referral
+2914,Customer 2914,2024-02-24,Female,Bengaluru,Electronic City,Social Media
+2915,Customer 2915,2025-01-30,Female,Pune,Viman Nagar,Paid Ads
+2916,Customer 2916,2024-07-09,Female,Hyderabad,Hitech City,Social Media
+2917,Customer 2917,2024-02-08,Female,Mumbai,Andheri,Referral
+2918,Customer 2918,2024-01-15,Male,Bengaluru,Whitefield,Organic
+2919,Customer 2919,2023-07-28,Male,Hyderabad,Secunderabad,Organic
+2920,Customer 2920,2024-02-01,Other,Hyderabad,Gachibowli,Paid Ads
+2921,Customer 2921,2024-12-04,Male,Mumbai,Andheri,Referral
+2922,Customer 2922,2023-11-23,Female,Chennai,Velachery,Organic
+2923,Customer 2923,2024-07-10,Female,Delhi,North Delhi,Paid Ads
+2924,Customer 2924,2024-04-11,Male,Bengaluru,Electronic City,Paid Ads
+2925,Customer 2925,2024-10-30,Female,Delhi,Central Delhi,Social Media
+2926,Customer 2926,2023-11-16,Male,Bengaluru,Koramangala,Referral
+2927,Customer 2927,2024-07-04,Male,Chennai,OMR,Social Media
+2928,Customer 2928,2023-08-14,Female,Bengaluru,Whitefield,Referral
+2929,Customer 2929,2024-05-21,Female,Kolkata,Howrah,Organic
+2930,Customer 2930,2025-01-14,Male,Bengaluru,Koramangala,Paid Ads
+2931,Customer 2931,2023-12-20,Male,Hyderabad,Gachibowli,Organic
+2932,Customer 2932,2023-06-09,Male,Mumbai,Andheri,Organic
+2933,Customer 2933,2023-06-15,Male,Bengaluru,Whitefield,Paid Ads
+2934,Customer 2934,2023-12-13,Female,Kolkata,Park Street,Organic
+2935,Customer 2935,2024-12-31,Other,Delhi,North Delhi,Referral
+2936,Customer 2936,2024-09-15,Male,Hyderabad,Secunderabad,Social Media
+2937,Customer 2937,2024-12-15,Female,Mumbai,Thane,Social Media
+2938,Customer 2938,2024-02-08,Male,Chennai,Adyar,Social Media
+2939,Customer 2939,2024-02-14,Female,Chennai,OMR,Referral
+2940,Customer 2940,2024-07-12,Female,Mumbai,Powai,Referral
+2941,Customer 2941,2025-01-11,Male,Chennai,Adyar,Paid Ads
+2942,Customer 2942,2024-04-07,Male,Chennai,Velachery,Organic
+2943,Customer 2943,2024-06-11,Female,Mumbai,Powai,Referral
+2944,Customer 2944,2023-10-21,Male,Mumbai,Bandra,Organic
+2945,Customer 2945,2024-06-18,Female,Chennai,T Nagar,Social Media
+2946,Customer 2946,2024-02-13,Male,Pune,Koregaon Park,Referral
+2947,Customer 2947,2025-02-14,Female,Mumbai,Thane,Organic
+2948,Customer 2948,2024-10-17,Female,Delhi,East Delhi,Organic
+2949,Customer 2949,2024-05-01,Female,Mumbai,Andheri,Social Media
+2950,Customer 2950,2025-03-09,Female,Mumbai,Bandra,Organic
+2951,Customer 2951,2025-05-19,Male,Mumbai,Navi Mumbai,Social Media
+2952,Customer 2952,2023-07-09,Female,Mumbai,Navi Mumbai,Organic
+2953,Customer 2953,2023-12-24,Female,Hyderabad,Madhapur,Referral
+2954,Customer 2954,2024-06-13,Male,Mumbai,Bandra,Social Media
+2955,Customer 2955,2024-06-30,Female,Hyderabad,Gachibowli,Social Media
+2956,Customer 2956,2023-12-02,Male,Bengaluru,Indiranagar,Paid Ads
+2957,Customer 2957,2024-01-01,Female,Chennai,T Nagar,Referral
+2958,Customer 2958,2025-02-04,Female,Kolkata,Howrah,Organic
+2959,Customer 2959,2025-02-05,Female,Bengaluru,HSR Layout,Paid Ads
+2960,Customer 2960,2023-06-20,Male,Mumbai,Thane,Paid Ads
+2961,Customer 2961,2024-10-07,Male,Hyderabad,Madhapur,Social Media
+2962,Customer 2962,2025-03-27,Female,Kolkata,Howrah,Organic
+2963,Customer 2963,2024-03-11,Female,Kolkata,Howrah,Paid Ads
+2964,Customer 2964,2024-03-17,Male,Kolkata,Salt Lake,Referral
+2965,Customer 2965,2024-02-23,Male,Pune,Viman Nagar,Social Media
+2966,Customer 2966,2023-06-21,Male,Bengaluru,HSR Layout,Paid Ads
+2967,Customer 2967,2023-11-22,Female,Bengaluru,HSR Layout,Referral
+2968,Customer 2968,2025-03-02,Female,Hyderabad,Madhapur,Organic
+2969,Customer 2969,2024-12-17,Female,Bengaluru,Whitefield,Paid Ads
+2970,Customer 2970,2024-10-30,Female,Mumbai,Bandra,Social Media
+2971,Customer 2971,2024-07-01,Female,Delhi,South Delhi,Referral
+2972,Customer 2972,2023-10-26,Female,Hyderabad,Madhapur,Paid Ads
+2973,Customer 2973,2025-04-10,Male,Hyderabad,Secunderabad,Paid Ads
+2974,Customer 2974,2023-09-14,Female,Hyderabad,Secunderabad,Organic
+2975,Customer 2975,2024-12-17,Male,Hyderabad,Hitech City,Organic
+2976,Customer 2976,2024-02-09,Male,Hyderabad,Gachibowli,Social Media
+2977,Customer 2977,2023-08-21,Male,Kolkata,Howrah,Referral
+2978,Customer 2978,2023-09-05,Female,Kolkata,Gariahat,Paid Ads
+2979,Customer 2979,2025-03-11,Male,Chennai,Velachery,Organic
+2980,Customer 2980,2025-05-16,Male,Chennai,OMR,Paid Ads
+2981,Customer 2981,2024-12-20,Male,Chennai,T Nagar,Social Media
+2982,Customer 2982,2024-01-04,Female,Hyderabad,Hitech City,Referral
+2983,Customer 2983,2023-07-21,Male,Chennai,Adyar,Social Media
+2984,Customer 2984,2024-05-22,Male,Bengaluru,Electronic City,Paid Ads
+2985,Customer 2985,2024-08-04,Female,Chennai,T Nagar,Referral
+2986,Customer 2986,2024-11-24,Male,Mumbai,Navi Mumbai,Social Media
+2987,Customer 2987,2024-07-22,Female,Delhi,South Delhi,Organic
+2988,Customer 2988,2025-01-24,Male,Chennai,OMR,Paid Ads
+2989,Customer 2989,2023-11-20,Male,Chennai,Adyar,Social Media
+2990,Customer 2990,2023-11-29,Male,Hyderabad,Gachibowli,Paid Ads
+2991,Customer 2991,2023-11-14,Female,Bengaluru,Indiranagar,Paid Ads
+2992,Customer 2992,2024-12-29,Female,Pune,Hinjewadi,Paid Ads
+2993,Customer 2993,2025-01-05,Female,Kolkata,Salt Lake,Organic
+2994,Customer 2994,2024-06-17,Female,Chennai,Velachery,Social Media
+2995,Customer 2995,2024-12-04,Male,Bengaluru,Whitefield,Paid Ads
+2996,Customer 2996,2025-05-29,Female,Chennai,Velachery,Organic
+2997,Customer 2997,2025-05-03,Female,Mumbai,Thane,Organic
+2998,Customer 2998,2025-02-24,Other,Delhi,South Delhi,Paid Ads
+2999,Customer 2999,2024-11-10,Female,Pune,Koregaon Park,Referral
+3000,Customer 3000,2025-05-11,Male,Chennai,OMR,Social Media

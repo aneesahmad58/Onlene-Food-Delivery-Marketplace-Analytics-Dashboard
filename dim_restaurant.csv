@@ -1,0 +1,201 @@
+restaurant_id,restaurant_name,cuisine_type,city,area,avg_prep_time_minutes,onboard_date,is_pure_veg
+1,Restaurant 1,North Indian,Chennai,Adyar,34,2025-01-20,N
+2,Restaurant 2,Fast Food,Chennai,Velachery,22,2025-01-16,N
+3,Restaurant 3,South Indian,Mumbai,Bandra,40,2025-01-20,Y
+4,Restaurant 4,Biryani,Chennai,Adyar,25,2024-06-06,N
+5,Restaurant 5,South Indian,Delhi,South Delhi,22,2025-01-23,N
+6,Restaurant 6,North Indian,Mumbai,Bandra,35,2024-12-04,N
+7,Restaurant 7,Biryani,Pune,Viman Nagar,16,2024-07-13,Y
+8,Restaurant 8,Italian,Mumbai,Thane,15,2024-07-30,N
+9,Restaurant 9,Chinese,Kolkata,Salt Lake,43,2025-04-11,N
+10,Restaurant 10,Bakery,Chennai,OMR,41,2025-03-15,N
+11,Restaurant 11,Fast Food,Bengaluru,Whitefield,42,2024-11-14,N
+12,Restaurant 12,South Indian,Kolkata,Gariahat,44,2024-08-05,Y
+13,Restaurant 13,South Indian,Delhi,East Delhi,26,2025-03-13,N
+14,Restaurant 14,Italian,Bengaluru,Indiranagar,39,2024-06-17,Y
+15,Restaurant 15,Cafe,Kolkata,Salt Lake,21,2024-06-30,Y
+16,Restaurant 16,Biryani,Pune,Kothrud,32,2024-11-17,N
+17,Restaurant 17,Italian,Delhi,Central Delhi,28,2024-06-21,N
+18,Restaurant 18,Fast Food,Kolkata,Gariahat,40,2024-08-11,Y
+19,Restaurant 19,North Indian,Chennai,Adyar,29,2025-01-31,N
+20,Restaurant 20,Italian,Chennai,T Nagar,29,2024-08-12,Y
+21,Restaurant 21,South Indian,Delhi,North Delhi,18,2025-02-11,Y
+22,Restaurant 22,Cafe,Hyderabad,Secunderabad,44,2025-05-01,N
+23,Restaurant 23,Chinese,Chennai,Velachery,18,2025-01-17,Y
+24,Restaurant 24,Fast Food,Bengaluru,Indiranagar,32,2024-10-24,N
+25,Restaurant 25,South Indian,Chennai,Velachery,24,2024-11-22,N
+26,Restaurant 26,Fast Food,Pune,Viman Nagar,30,2024-08-06,N
+27,Restaurant 27,Biryani,Mumbai,Thane,42,2024-09-30,Y
+28,Restaurant 28,Fast Food,Bengaluru,Electronic City,35,2024-07-11,N
+29,Restaurant 29,North Indian,Chennai,Velachery,38,2025-03-11,N
+30,Restaurant 30,Bakery,Mumbai,Andheri,42,2024-08-24,N
+31,Restaurant 31,South Indian,Hyderabad,Secunderabad,43,2025-03-23,N
+32,Restaurant 32,Bakery,Mumbai,Navi Mumbai,39,2025-02-27,N
+33,Restaurant 33,Biryani,Mumbai,Thane,26,2024-12-25,Y
+34,Restaurant 34,Chinese,Chennai,OMR,25,2025-03-01,Y
+35,Restaurant 35,Fast Food,Bengaluru,Whitefield,17,2024-11-21,N
+36,Restaurant 36,Biryani,Chennai,Velachery,24,2024-08-15,N
+37,Restaurant 37,Bakery,Pune,Koregaon Park,42,2025-03-23,N
+38,Restaurant 38,Cafe,Mumbai,Bandra,26,2024-06-09,N
+39,Restaurant 39,South Indian,Delhi,South Delhi,37,2025-03-16,N
+40,Restaurant 40,Biryani,Mumbai,Bandra,19,2024-09-29,N
+41,Restaurant 41,Biryani,Pune,Kothrud,41,2024-10-01,N
+42,Restaurant 42,Italian,Hyderabad,Madhapur,19,2024-09-18,N
+43,Restaurant 43,South Indian,Pune,Kothrud,15,2024-12-23,N
+44,Restaurant 44,Bakery,Chennai,Velachery,28,2024-08-21,N
+45,Restaurant 45,Biryani,Delhi,West Delhi,29,2024-10-08,Y
+46,Restaurant 46,North Indian,Mumbai,Thane,21,2024-11-05,N
+47,Restaurant 47,Chinese,Chennai,Velachery,18,2025-01-27,N
+48,Restaurant 48,Italian,Pune,Kothrud,27,2024-09-14,N
+49,Restaurant 49,Chinese,Kolkata,Park Street,18,2025-04-04,N
+50,Restaurant 50,North Indian,Bengaluru,Whitefield,41,2024-06-10,N
+51,Restaurant 51,Cafe,Pune,Hinjewadi,16,2024-07-23,N
+52,Restaurant 52,Bakery,Delhi,South Delhi,39,2025-03-02,Y
+53,Restaurant 53,Fast Food,Kolkata,Gariahat,42,2024-07-23,Y
+54,Restaurant 54,South Indian,Delhi,North Delhi,44,2024-07-21,N
+55,Restaurant 55,South Indian,Delhi,East Delhi,44,2024-09-14,Y
+56,Restaurant 56,Chinese,Kolkata,Park Street,44,2024-07-24,Y
+57,Restaurant 57,Chinese,Chennai,OMR,17,2024-09-12,Y
+58,Restaurant 58,Biryani,Bengaluru,Electronic City,44,2024-12-17,Y
+59,Restaurant 59,Fast Food,Mumbai,Navi Mumbai,24,2024-06-30,N
+60,Restaurant 60,Biryani,Chennai,Velachery,36,2024-06-22,Y
+61,Restaurant 61,Cafe,Chennai,Velachery,34,2024-09-12,N
+62,Restaurant 62,South Indian,Pune,Koregaon Park,26,2025-03-12,Y
+63,Restaurant 63,South Indian,Mumbai,Bandra,19,2025-01-10,Y
+64,Restaurant 64,Fast Food,Bengaluru,Koramangala,41,2025-02-11,N
+65,Restaurant 65,North Indian,Pune,Viman Nagar,42,2024-12-24,Y
+66,Restaurant 66,Fast Food,Delhi,South Delhi,15,2024-09-21,N
+67,Restaurant 67,Bakery,Delhi,South Delhi,16,2024-12-28,N
+68,Restaurant 68,Fast Food,Delhi,Central Delhi,20,2024-09-27,Y
+69,Restaurant 69,Fast Food,Bengaluru,HSR Layout,37,2024-06-13,N
+70,Restaurant 70,Cafe,Pune,Viman Nagar,31,2024-12-31,N
+71,Restaurant 71,Biryani,Mumbai,Thane,19,2024-07-27,N
+72,Restaurant 72,South Indian,Mumbai,Andheri,36,2024-10-17,N
+73,Restaurant 73,Bakery,Chennai,OMR,30,2024-09-05,N
+74,Restaurant 74,Cafe,Hyderabad,Madhapur,41,2024-12-30,Y
+75,Restaurant 75,South Indian,Kolkata,Salt Lake,34,2024-08-17,N
+76,Restaurant 76,Bakery,Delhi,East Delhi,34,2024-12-07,N
+77,Restaurant 77,Fast Food,Kolkata,Salt Lake,23,2024-06-29,N
+78,Restaurant 78,Cafe,Mumbai,Bandra,21,2024-12-26,N
+79,Restaurant 79,Chinese,Mumbai,Thane,25,2024-12-25,N
+80,Restaurant 80,Fast Food,Bengaluru,HSR Layout,44,2024-12-03,N
+81,Restaurant 81,Cafe,Kolkata,Salt Lake,42,2024-08-13,Y
+82,Restaurant 82,North Indian,Kolkata,Salt Lake,39,2025-01-11,N
+83,Restaurant 83,South Indian,Chennai,Adyar,15,2025-05-01,Y
+84,Restaurant 84,Chinese,Kolkata,Park Street,19,2024-12-14,N
+85,Restaurant 85,Cafe,Hyderabad,Madhapur,23,2025-04-24,N
+86,Restaurant 86,North Indian,Mumbai,Thane,30,2024-07-03,N
+87,Restaurant 87,North Indian,Mumbai,Thane,36,2024-12-02,N
+88,Restaurant 88,Cafe,Hyderabad,Secunderabad,25,2025-01-07,N
+89,Restaurant 89,Cafe,Bengaluru,HSR Layout,34,2025-01-19,N
+90,Restaurant 90,Italian,Mumbai,Bandra,44,2025-01-11,N
+91,Restaurant 91,North Indian,Mumbai,Andheri,43,2024-12-01,Y
+92,Restaurant 92,North Indian,Chennai,Velachery,36,2024-10-21,N
+93,Restaurant 93,Cafe,Delhi,Central Delhi,18,2024-11-15,N
+94,Restaurant 94,North Indian,Pune,Viman Nagar,28,2024-07-18,N
+95,Restaurant 95,Chinese,Pune,Kothrud,17,2024-12-19,N
+96,Restaurant 96,South Indian,Delhi,Central Delhi,30,2025-03-31,Y
+97,Restaurant 97,Biryani,Chennai,T Nagar,28,2025-04-11,N
+98,Restaurant 98,Fast Food,Delhi,Central Delhi,27,2024-09-15,N
+99,Restaurant 99,South Indian,Pune,Kothrud,41,2024-08-12,N
+100,Restaurant 100,Italian,Hyderabad,Secunderabad,44,2024-07-30,N
+101,Restaurant 101,Fast Food,Mumbai,Powai,30,2024-06-20,Y
+102,Restaurant 102,Chinese,Bengaluru,HSR Layout,31,2025-03-29,Y
+103,Restaurant 103,Cafe,Chennai,Velachery,42,2024-11-12,N
+104,Restaurant 104,North Indian,Bengaluru,Koramangala,35,2025-03-18,N
+105,Restaurant 105,South Indian,Hyderabad,Hitech City,19,2024-09-12,N
+106,Restaurant 106,Italian,Pune,Viman Nagar,35,2024-07-05,N
+107,Restaurant 107,South Indian,Mumbai,Powai,15,2024-10-27,Y
+108,Restaurant 108,Italian,Mumbai,Powai,35,2024-08-23,Y
+109,Restaurant 109,Italian,Mumbai,Thane,17,2024-11-23,Y
+110,Restaurant 110,Italian,Pune,Kothrud,24,2024-07-26,N
+111,Restaurant 111,Chinese,Chennai,Adyar,17,2025-03-06,N
+112,Restaurant 112,South Indian,Bengaluru,Koramangala,32,2024-07-27,N
+113,Restaurant 113,Italian,Chennai,T Nagar,16,2024-12-03,Y
+114,Restaurant 114,Fast Food,Bengaluru,Electronic City,22,2024-08-03,N
+115,Restaurant 115,Fast Food,Chennai,Velachery,36,2024-07-08,N
+116,Restaurant 116,Cafe,Chennai,Velachery,37,2024-11-14,N
+117,Restaurant 117,South Indian,Bengaluru,Koramangala,39,2024-07-01,N
+118,Restaurant 118,Italian,Chennai,OMR,40,2024-06-21,Y
+119,Restaurant 119,Bakery,Delhi,South Delhi,27,2025-03-28,Y
+120,Restaurant 120,Italian,Kolkata,Park Street,28,2024-08-12,N
+121,Restaurant 121,Biryani,Mumbai,Thane,42,2024-12-11,N
+122,Restaurant 122,South Indian,Pune,Kothrud,37,2024-07-19,N
+123,Restaurant 123,North Indian,Delhi,North Delhi,39,2025-03-13,Y
+124,Restaurant 124,Chinese,Kolkata,Gariahat,43,2024-10-25,N
+125,Restaurant 125,North Indian,Hyderabad,Gachibowli,36,2025-03-06,Y
+126,Restaurant 126,North Indian,Bengaluru,Indiranagar,20,2024-11-14,N
+127,Restaurant 127,Fast Food,Bengaluru,Whitefield,15,2025-01-22,N
+128,Restaurant 128,Bakery,Chennai,Adyar,26,2025-03-04,N
+129,Restaurant 129,Chinese,Kolkata,Howrah,18,2025-01-20,N
+130,Restaurant 130,Chinese,Mumbai,Bandra,17,2025-03-17,N
+131,Restaurant 131,Chinese,Hyderabad,Hitech City,30,2024-06-29,N
+132,Restaurant 132,Biryani,Chennai,Velachery,24,2024-12-30,N
+133,Restaurant 133,Italian,Kolkata,Park Street,38,2024-12-09,Y
+134,Restaurant 134,Biryani,Mumbai,Andheri,40,2025-01-31,Y
+135,Restaurant 135,Cafe,Kolkata,Salt Lake,40,2024-09-16,N
+136,Restaurant 136,Cafe,Mumbai,Bandra,23,2024-07-28,N
+137,Restaurant 137,Fast Food,Bengaluru,Indiranagar,40,2024-12-25,N
+138,Restaurant 138,Fast Food,Mumbai,Andheri,16,2024-09-06,Y
+139,Restaurant 139,Italian,Hyderabad,Secunderabad,30,2025-01-05,Y
+140,Restaurant 140,Italian,Kolkata,Salt Lake,35,2024-09-08,N
+141,Restaurant 141,Biryani,Bengaluru,Electronic City,21,2024-10-26,N
+142,Restaurant 142,North Indian,Chennai,Velachery,36,2025-02-23,N
+143,Restaurant 143,Chinese,Delhi,West Delhi,40,2025-02-16,N
+144,Restaurant 144,North Indian,Pune,Hinjewadi,39,2025-02-06,N
+145,Restaurant 145,Biryani,Delhi,Central Delhi,19,2024-09-25,Y
+146,Restaurant 146,Biryani,Bengaluru,Indiranagar,28,2025-01-29,N
+147,Restaurant 147,Biryani,Pune,Kothrud,30,2024-10-11,Y
+148,Restaurant 148,Italian,Pune,Viman Nagar,18,2025-03-25,Y
+149,Restaurant 149,North Indian,Delhi,East Delhi,19,2024-09-23,N
+150,Restaurant 150,Bakery,Pune,Viman Nagar,36,2025-04-23,N
+151,Restaurant 151,Bakery,Hyderabad,Hitech City,34,2024-07-17,N
+152,Restaurant 152,South Indian,Pune,Hinjewadi,33,2024-08-26,N
+153,Restaurant 153,Italian,Chennai,Velachery,38,2024-08-19,N
+154,Restaurant 154,Bakery,Chennai,OMR,30,2025-04-29,Y
+155,Restaurant 155,Chinese,Hyderabad,Secunderabad,16,2024-08-29,Y
+156,Restaurant 156,Biryani,Mumbai,Thane,41,2024-11-24,N
+157,Restaurant 157,Italian,Chennai,T Nagar,17,2024-11-06,N
+158,Restaurant 158,Italian,Hyderabad,Hitech City,25,2024-11-05,N
+159,Restaurant 159,Biryani,Bengaluru,Whitefield,15,2024-06-14,N
+160,Restaurant 160,Cafe,Kolkata,Gariahat,25,2024-06-07,Y
+161,Restaurant 161,Fast Food,Hyderabad,Madhapur,28,2025-04-21,Y
+162,Restaurant 162,Chinese,Pune,Koregaon Park,17,2024-09-03,N
+163,Restaurant 163,Italian,Chennai,Adyar,22,2025-02-02,N
+164,Restaurant 164,South Indian,Pune,Hinjewadi,44,2025-02-02,N
+165,Restaurant 165,Italian,Kolkata,Park Street,21,2025-01-18,Y
+166,Restaurant 166,Chinese,Mumbai,Bandra,27,2025-01-09,N
+167,Restaurant 167,Fast Food,Delhi,South Delhi,35,2024-09-28,N
+168,Restaurant 168,Cafe,Hyderabad,Hitech City,24,2024-11-20,N
+169,Restaurant 169,Biryani,Hyderabad,Gachibowli,17,2024-10-23,N
+170,Restaurant 170,Fast Food,Hyderabad,Madhapur,32,2025-03-28,Y
+171,Restaurant 171,South Indian,Mumbai,Andheri,38,2025-01-27,N
+172,Restaurant 172,Fast Food,Kolkata,Howrah,19,2024-09-21,Y
+173,Restaurant 173,Cafe,Mumbai,Navi Mumbai,27,2024-11-01,N
+174,Restaurant 174,Fast Food,Delhi,Central Delhi,31,2024-07-21,N
+175,Restaurant 175,Cafe,Kolkata,Salt Lake,30,2025-02-08,N
+176,Restaurant 176,Bakery,Mumbai,Thane,33,2024-10-28,N
+177,Restaurant 177,Biryani,Kolkata,Howrah,33,2024-09-12,Y
+178,Restaurant 178,Chinese,Kolkata,Howrah,28,2024-07-23,N
+179,Restaurant 179,Cafe,Chennai,OMR,33,2025-03-12,N
+180,Restaurant 180,Italian,Bengaluru,Whitefield,35,2024-12-10,Y
+181,Restaurant 181,Fast Food,Kolkata,Howrah,34,2025-04-08,N
+182,Restaurant 182,South Indian,Bengaluru,HSR Layout,37,2025-03-11,N
+183,Restaurant 183,Fast Food,Chennai,Velachery,27,2025-03-25,N
+184,Restaurant 184,Bakery,Bengaluru,Indiranagar,21,2024-10-29,N
+185,Restaurant 185,Chinese,Pune,Kothrud,19,2025-01-01,N
+186,Restaurant 186,Biryani,Mumbai,Bandra,25,2024-09-24,N
+187,Restaurant 187,Fast Food,Chennai,T Nagar,26,2024-09-06,N
+188,Restaurant 188,Biryani,Delhi,East Delhi,20,2024-08-23,Y
+189,Restaurant 189,Cafe,Bengaluru,Electronic City,22,2024-12-13,Y
+190,Restaurant 190,Fast Food,Hyderabad,Hitech City,40,2024-07-24,Y
+191,Restaurant 191,Biryani,Kolkata,Howrah,19,2025-04-04,Y
+192,Restaurant 192,Biryani,Kolkata,Salt Lake,30,2024-12-18,N
+193,Restaurant 193,Bakery,Hyderabad,Hitech City,21,2024-12-09,N
+194,Restaurant 194,Biryani,Bengaluru,HSR Layout,18,2024-12-22,N
+195,Restaurant 195,Cafe,Pune,Viman Nagar,43,2024-08-01,N
+196,Restaurant 196,Biryani,Mumbai,Powai,41,2024-11-17,Y
+197,Restaurant 197,Biryani,Hyderabad,Hitech City,21,2025-04-14,N
+198,Restaurant 198,Chinese,Bengaluru,HSR Layout,27,2024-11-11,N
+199,Restaurant 199,Chinese,Kolkata,Howrah,40,2024-12-28,N
+200,Restaurant 200,Biryani,Pune,Kothrud,23,2024-06-20,N
